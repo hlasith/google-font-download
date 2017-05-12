@@ -1,0 +1,90 @@
+@font-face {
+	font-family: 'Khand';
+	font-style: normal;
+	font-weight: 300;
+	src:
+		local('Khand Light'),
+		local('Khand-Light'),
+		/* from https://fonts.gstatic.com/s/khand/v4/3zeqnycdh_2VSwR3lJqd5fesZW2xOQ-xsNqO47m55DA.eot */
+		url('Khand_300.eot?#iefix') format('embedded-opentype'),
+		/* from https://fonts.gstatic.com/s/khand/v4/2tkhmNHQl9Guii_8bq_z0fesZW2xOQ-xsNqO47m55DA.woff */
+		url('Khand_300.woff') format('woff'),
+		/* from https://fonts.gstatic.com/s/khand/v4/hAn00zErRHzyfxin8CabhvesZW2xOQ-xsNqO47m55DA.woff2 */
+		url('Khand_300.woff2') format('woff2'),
+		/* from https://fonts.gstatic.com/l/font?kit=8D6xnRF4Vtp-FMBLoOfe2PesZW2xOQ-xsNqO47m55DA&skey=72fb1c68c23ea06b&v=v4#Khand */
+		url('Khand_300.svg#Khand') format('svg'),
+		/* from https://fonts.gstatic.com/s/khand/v4/rP6hqWWf6Plcg-nm4Yi6j_esZW2xOQ-xsNqO47m55DA.ttf */
+		url('Khand_300.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Khand';
+	font-style: normal;
+	font-weight: normal;
+	src:
+		local('Khand'),
+		local('Khand-Regular'),
+		/* from https://fonts.gstatic.com/s/khand/v4/ysp8L5pyuRVvpacU_W8t0w.eot */
+		url('Khand.eot?#iefix') format('embedded-opentype'),
+		/* from https://fonts.gstatic.com/s/khand/v4/jsILb4fM_35vyFrBxO_5_g.woff */
+		url('Khand.woff') format('woff'),
+		/* from https://fonts.gstatic.com/s/khand/v4/jE6debCT41WQse1Htsii-w.woff2 */
+		url('Khand.woff2') format('woff2'),
+		/* from https://fonts.gstatic.com/l/font?kit=n0eVFD6NdKV1Z9mJN9un9w&skey=d40ed1e34341551d&v=v4#Khand */
+		url('Khand.svg#Khand') format('svg'),
+		/* from https://fonts.gstatic.com/s/khand/v4/i_h-R38R1oCmG56RuB-yBA.ttf */
+		url('Khand.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Khand';
+	font-style: normal;
+	font-weight: 500;
+	src:
+		local('Khand Medium'),
+		local('Khand-Medium'),
+		/* from https://fonts.gstatic.com/s/khand/v4/sCB_36haYfR0UQXBgI9JmvesZW2xOQ-xsNqO47m55DA.eot */
+		url('Khand_500.eot?#iefix') format('embedded-opentype'),
+		/* from https://fonts.gstatic.com/s/khand/v4/kVItwNahOlgGrTA1re3XffesZW2xOQ-xsNqO47m55DA.woff */
+		url('Khand_500.woff') format('woff'),
+		/* from https://fonts.gstatic.com/s/khand/v4/-41om1scqz7QbwGBKAfl3vesZW2xOQ-xsNqO47m55DA.woff2 */
+		url('Khand_500.woff2') format('woff2'),
+		/* from https://fonts.gstatic.com/l/font?kit=Cd3tzgAH2cZujzKRlLH5KPesZW2xOQ-xsNqO47m55DA&skey=c34e898398887a9&v=v4#Khand */
+		url('Khand_500.svg#Khand') format('svg'),
+		/* from https://fonts.gstatic.com/s/khand/v4/mdaVYmn1KX1pHtEVadh7C_esZW2xOQ-xsNqO47m55DA.ttf */
+		url('Khand_500.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Khand';
+	font-style: normal;
+	font-weight: 600;
+	src:
+		local('Khand Semibold'),
+		local('Khand-Semibold'),
+		/* from https://fonts.gstatic.com/s/khand/v4/5xEYRT56-yMOf5pINElDN_esZW2xOQ-xsNqO47m55DA.eot */
+		url('Khand_600.eot?#iefix') format('embedded-opentype'),
+		/* from https://fonts.gstatic.com/s/khand/v4/L9dcSoymAJ6FYIOl4chBD_esZW2xOQ-xsNqO47m55DA.woff */
+		url('Khand_600.woff') format('woff'),
+		/* from https://fonts.gstatic.com/s/khand/v4/vr6ZNJpXN-WXcTknMA_7TPesZW2xOQ-xsNqO47m55DA.woff2 */
+		url('Khand_600.woff2') format('woff2'),
+		/* from https://fonts.gstatic.com/l/font?kit=4mcau1Nsamw_IyIhE2Y3qvesZW2xOQ-xsNqO47m55DA&skey=ff7c71d785460685&v=v4#Khand */
+		url('Khand_600.svg#Khand') format('svg'),
+		/* from https://fonts.gstatic.com/s/khand/v4/4fKMP5iEcrUqUTh4FTOMgvesZW2xOQ-xsNqO47m55DA.ttf */
+		url('Khand_600.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Khand';
+	font-style: normal;
+	font-weight: 700;
+	src:
+		local('Khand Bold'),
+		local('Khand-Bold'),
+		/* from https://fonts.gstatic.com/s/khand/v4/yAi_rsq-ETDJPip6kciGu_esZW2xOQ-xsNqO47m55DA.eot */
+		url('Khand_700.eot?#iefix') format('embedded-opentype'),
+		/* from https://fonts.gstatic.com/s/khand/v4/n2TBxueQZKCCbjuzrn3B-fesZW2xOQ-xsNqO47m55DA.woff */
+		url('Khand_700.woff') format('woff'),
+		/* from https://fonts.gstatic.com/s/khand/v4/h5_U1wxbH_4TxOn23I6bKvesZW2xOQ-xsNqO47m55DA.woff2 */
+		url('Khand_700.woff2') format('woff2'),
+		/* from https://fonts.gstatic.com/l/font?kit=H72ROn2rOSl96oeD9w6Y__esZW2xOQ-xsNqO47m55DA&skey=e8521d244a3a634b&v=v4#Khand */
+		url('Khand_700.svg#Khand') format('svg'),
+		/* from https://fonts.gstatic.com/s/khand/v4/WSdrMJ1MdKALgePnsswoYfesZW2xOQ-xsNqO47m55DA.ttf */
+		url('Khand_700.ttf') format('truetype');
+}

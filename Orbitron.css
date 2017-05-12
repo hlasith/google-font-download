@@ -1,0 +1,69 @@
+@font-face {
+	font-family: 'Orbitron';
+	font-style: normal;
+	font-weight: normal;
+	src:
+		local('Orbitron-Light'),
+		local('Orbitron-Regular'),
+		/* from https://fonts.gstatic.com/s/orbitron/v7/qhIa0Jl7ziRjUBxIWMni1_esZW2xOQ-xsNqO47m55DA.eot */
+		url('Orbitron.eot?#iefix') format('embedded-opentype'),
+		/* from https://fonts.gstatic.com/s/orbitron/v7/94ug0rEgQO_WuI_xKJMFc_esZW2xOQ-xsNqO47m55DA.woff */
+		url('Orbitron.woff') format('woff'),
+		/* from https://fonts.gstatic.com/s/orbitron/v7/HmnHiRzvcnQr8CjBje6GQvesZW2xOQ-xsNqO47m55DA.woff2 */
+		url('Orbitron.woff2') format('woff2'),
+		/* from https://fonts.gstatic.com/l/font?kit=eAPbHysZiBlyD9W9s_OZvvesZW2xOQ-xsNqO47m55DA&skey=1145794a0c86a867&v=v7#Orbitron */
+		url('Orbitron.svg#Orbitron') format('svg'),
+		/* from https://fonts.gstatic.com/s/orbitron/v7/lVErvynhvxLufD6jW6vDo_esZW2xOQ-xsNqO47m55DA.ttf */
+		url('Orbitron.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Orbitron';
+	font-style: normal;
+	font-weight: 500;
+	src:
+		local('Orbitron-Medium'),
+		/* from https://fonts.gstatic.com/s/orbitron/v7/VK2oK8L4CJesxwY5dF3zxWfQcKutQXcIrRfyR5jdjY8.eot */
+		url('Orbitron_500.eot?#iefix') format('embedded-opentype'),
+		/* from https://fonts.gstatic.com/s/orbitron/v7/VK2oK8L4CJesxwY5dF3zxYbN6UDyHWBl620a-IRfuBk.woff */
+		url('Orbitron_500.woff') format('woff'),
+		/* from https://fonts.gstatic.com/s/orbitron/v7/VK2oK8L4CJesxwY5dF3zxY4P5ICox8Kq3LLUNMylGO4.woff2 */
+		url('Orbitron_500.woff2') format('woff2'),
+		/* from https://fonts.gstatic.com/l/font?kit=VK2oK8L4CJesxwY5dF3zxXNsigHlcrQGNV8nkUSFQfc&skey=d89bb1686e275486&v=v7#Orbitron */
+		url('Orbitron_500.svg#Orbitron') format('svg'),
+		/* from https://fonts.gstatic.com/s/orbitron/v7/VK2oK8L4CJesxwY5dF3zxZ0EAVxt0G0biEntp43Qt6E.ttf */
+		url('Orbitron_500.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Orbitron';
+	font-style: normal;
+	font-weight: 700;
+	src:
+		local('Orbitron-Bold'),
+		/* from https://fonts.gstatic.com/s/orbitron/v7/Y82YH_MJJWnsH2yUA5AuYWfQcKutQXcIrRfyR5jdjY8.eot */
+		url('Orbitron_700.eot?#iefix') format('embedded-opentype'),
+		/* from https://fonts.gstatic.com/s/orbitron/v7/Y82YH_MJJWnsH2yUA5AuYYbN6UDyHWBl620a-IRfuBk.woff */
+		url('Orbitron_700.woff') format('woff'),
+		/* from https://fonts.gstatic.com/s/orbitron/v7/Y82YH_MJJWnsH2yUA5AuYY4P5ICox8Kq3LLUNMylGO4.woff2 */
+		url('Orbitron_700.woff2') format('woff2'),
+		/* from https://fonts.gstatic.com/l/font?kit=Y82YH_MJJWnsH2yUA5AuYXNsigHlcrQGNV8nkUSFQfc&skey=f89ee56434cac285&v=v7#Orbitron */
+		url('Orbitron_700.svg#Orbitron') format('svg'),
+		/* from https://fonts.gstatic.com/s/orbitron/v7/Y82YH_MJJWnsH2yUA5AuYZ0EAVxt0G0biEntp43Qt6E.ttf */
+		url('Orbitron_700.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Orbitron';
+	font-style: normal;
+	font-weight: 900;
+	src:
+		local('Orbitron-Black'),
+		/* from https://fonts.gstatic.com/s/orbitron/v7/FyvTORElv6iWeP2Jf9yG3WfQcKutQXcIrRfyR5jdjY8.eot */
+		url('Orbitron_900.eot?#iefix') format('embedded-opentype'),
+		/* from https://fonts.gstatic.com/s/orbitron/v7/FyvTORElv6iWeP2Jf9yG3YbN6UDyHWBl620a-IRfuBk.woff */
+		url('Orbitron_900.woff') format('woff'),
+		/* from https://fonts.gstatic.com/s/orbitron/v7/FyvTORElv6iWeP2Jf9yG3Y4P5ICox8Kq3LLUNMylGO4.woff2 */
+		url('Orbitron_900.woff2') format('woff2'),
+		/* from https://fonts.gstatic.com/l/font?kit=FyvTORElv6iWeP2Jf9yG3XNsigHlcrQGNV8nkUSFQfc&skey=2ac1083493ce90b9&v=v7#Orbitron */
+		url('Orbitron_900.svg#Orbitron') format('svg'),
+		/* from https://fonts.gstatic.com/s/orbitron/v7/FyvTORElv6iWeP2Jf9yG3Z0EAVxt0G0biEntp43Qt6E.ttf */
+		url('Orbitron_900.ttf') format('truetype');
+}

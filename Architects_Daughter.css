@@ -1,0 +1,18 @@
+@font-face {
+	font-family: 'Architects Daughter';
+	font-style: normal;
+	font-weight: normal;
+	src:
+		local('Architects Daughter'),
+		local('ArchitectsDaughter'),
+		/* from https://fonts.gstatic.com/s/architectsdaughter/v6/RXTgOOQ9AAtaVOHxx0IUBAa3ceFz9lRYw95MoJAI43o.eot */
+		url('Architects_Daughter.eot?#iefix') format('embedded-opentype'),
+		/* from https://fonts.gstatic.com/s/architectsdaughter/v6/RXTgOOQ9AAtaVOHxx0IUBOkI_DLF4EgbZt3mhU8gQFo.woff */
+		url('Architects_Daughter.woff') format('woff'),
+		/* from https://fonts.gstatic.com/s/architectsdaughter/v6/RXTgOOQ9AAtaVOHxx0IUBM3t7GjCYufj5TXV5VnA2p8.woff2 */
+		url('Architects_Daughter.woff2') format('woff2'),
+		/* from https://fonts.gstatic.com/l/font?kit=RXTgOOQ9AAtaVOHxx0IUBJ3EXhB8GVxcFukvVU0W_9E&skey=d34ee9a1a308e98b&v=v6#ArchitectsDaughter */
+		url('Architects_Daughter.svg#ArchitectsDaughter') format('svg'),
+		/* from https://fonts.gstatic.com/s/architectsdaughter/v6/RXTgOOQ9AAtaVOHxx0IUBOlC2pU_uJZcAXPUd4HCQp8.ttf */
+		url('Architects_Daughter.ttf') format('truetype');
+}

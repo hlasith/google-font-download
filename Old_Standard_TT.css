@@ -1,0 +1,54 @@
+@font-face {
+	font-family: 'Old Standard TT';
+	font-style: normal;
+	font-weight: normal;
+	src:
+		local('Old Standard TT Regular'),
+		local('OldStandardTT-Regular'),
+		/* from https://fonts.gstatic.com/s/oldstandardtt/v8/n6RTCDcIPWSE8UNBa4k-DA8xXkqeKCK1Z-hKQQc_vz4.eot */
+		url('Old_Standard_TT.eot?#iefix') format('embedded-opentype'),
+		/* from https://fonts.gstatic.com/s/oldstandardtt/v8/n6RTCDcIPWSE8UNBa4k-DAjWwMcLosnYS7_elQHKBmA.woff */
+		url('Old_Standard_TT.woff') format('woff'),
+		/* from https://fonts.gstatic.com/s/oldstandardtt/v8/n6RTCDcIPWSE8UNBa4k-DG75SyxP8F_Nt1CRRMel2UU.woff2 */
+		url('Old_Standard_TT.woff2') format('woff2'),
+		/* from https://fonts.gstatic.com/l/font?kit=n6RTCDcIPWSE8UNBa4k-DAcmInQMturxUF896HBJKrI&skey=f1cef4e9ada09fef&v=v8#OldStandardTT */
+		url('Old_Standard_TT.svg#OldStandardTT') format('svg'),
+		/* from https://fonts.gstatic.com/s/oldstandardtt/v8/n6RTCDcIPWSE8UNBa4k-DLGMqOskSJahibCG-vhG9Ug.ttf */
+		url('Old_Standard_TT.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Old Standard TT';
+	font-style: italic;
+	font-weight: normal;
+	src:
+		local('Old Standard TT Italic'),
+		local('OldStandardTT-Italic'),
+		/* from https://fonts.gstatic.com/s/oldstandardtt/v8/QQT_AUSp4AV4dpJfIN7U5IRPyX9vpc8RzMaNdWmGZuo.eot */
+		url('Old_Standard_TT_italic.eot?#iefix') format('embedded-opentype'),
+		/* from https://fonts.gstatic.com/s/oldstandardtt/v8/QQT_AUSp4AV4dpJfIN7U5KCfO6YLYlwZkGaKgYrym0o.woff */
+		url('Old_Standard_TT_italic.woff') format('woff'),
+		/* from https://fonts.gstatic.com/s/oldstandardtt/v8/QQT_AUSp4AV4dpJfIN7U5FQ6NBT6gvjJm6dP1MVY-i0.woff2 */
+		url('Old_Standard_TT_italic.woff2') format('woff2'),
+		/* from https://fonts.gstatic.com/l/font?kit=QQT_AUSp4AV4dpJfIN7U5NM5_dHk7QNiyVuCXN_HEo4&skey=308f26f9fad19839&v=v8#OldStandardTT */
+		url('Old_Standard_TT_italic.svg#OldStandardTT') format('svg'),
+		/* from https://fonts.gstatic.com/s/oldstandardtt/v8/QQT_AUSp4AV4dpJfIN7U5FwRGS1J0uDbqVT85dREjI0.ttf */
+		url('Old_Standard_TT_italic.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Old Standard TT';
+	font-style: normal;
+	font-weight: 700;
+	src:
+		local('Old Standard TT Bold'),
+		local('OldStandardTT-Bold'),
+		/* from https://fonts.gstatic.com/s/oldstandardtt/v8/5Ywdce7XEbTSbxs__4X1_IDHez6RVF1WwYlaUfqoTag.eot */
+		url('Old_Standard_TT_700.eot?#iefix') format('embedded-opentype'),
+		/* from https://fonts.gstatic.com/s/oldstandardtt/v8/5Ywdce7XEbTSbxs__4X1_LHCWPYgV_Fgx41n4RSinLs.woff */
+		url('Old_Standard_TT_700.woff') format('woff'),
+		/* from https://fonts.gstatic.com/s/oldstandardtt/v8/5Ywdce7XEbTSbxs__4X1_C0jGk3ScAiZpxLRtv3VAEU.woff2 */
+		url('Old_Standard_TT_700.woff2') format('woff2'),
+		/* from https://fonts.gstatic.com/l/font?kit=5Ywdce7XEbTSbxs__4X1_DT4RHcYzd674wfHqIIigYw&skey=1bf619948ec3c1a3&v=v8#OldStandardTT */
+		url('Old_Standard_TT_700.svg#OldStandardTT') format('svg'),
+		/* from https://fonts.gstatic.com/s/oldstandardtt/v8/5Ywdce7XEbTSbxs__4X1_AzXKzPdQ5IRTaDVrbjtIFE.ttf */
+		url('Old_Standard_TT_700.ttf') format('truetype');
+}

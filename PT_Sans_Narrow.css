@@ -1,0 +1,36 @@
+@font-face {
+	font-family: 'PT Sans Narrow';
+	font-style: normal;
+	font-weight: normal;
+	src:
+		local('PT Sans Narrow'),
+		local('PTSans-Narrow'),
+		/* from https://fonts.gstatic.com/s/ptsansnarrow/v7/UyYrYy3ltEffJV9QueSi4T9sG6gyxihQGrqfBiBoCNc.eot */
+		url('PT_Sans_Narrow.eot?#iefix') format('embedded-opentype'),
+		/* from https://fonts.gstatic.com/s/ptsansnarrow/v7/UyYrYy3ltEffJV9QueSi4RdbPw3QSf9R-kE0EsQUn2A.woff */
+		url('PT_Sans_Narrow.woff') format('woff'),
+		/* from https://fonts.gstatic.com/s/ptsansnarrow/v7/UyYrYy3ltEffJV9QueSi4UU-p1xzoRgkupcXIqgYFBc.woff2 */
+		url('PT_Sans_Narrow.woff2') format('woff2'),
+		/* from https://fonts.gstatic.com/l/font?kit=UyYrYy3ltEffJV9QueSi4Y9qashOVerhvngxLEi9cx0&skey=4fa1436033972818&v=v7#PTSansNarrow */
+		url('PT_Sans_Narrow.svg#PTSansNarrow') format('svg'),
+		/* from https://fonts.gstatic.com/s/ptsansnarrow/v7/UyYrYy3ltEffJV9QueSi4UpeNX8RPf6i6WQfJWyCWEs.ttf */
+		url('PT_Sans_Narrow.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'PT Sans Narrow';
+	font-style: normal;
+	font-weight: 700;
+	src:
+		local('PT Sans Narrow Bold'),
+		local('PTSans-NarrowBold'),
+		/* from https://fonts.gstatic.com/s/ptsansnarrow/v7/Q_pTky3Sc3ubRibGToTAYmT4ZFB4cX9NxOgt4NwF8dg.eot */
+		url('PT_Sans_Narrow_700.eot?#iefix') format('embedded-opentype'),
+		/* from https://fonts.gstatic.com/s/ptsansnarrow/v7/Q_pTky3Sc3ubRibGToTAYiylde52zikAzebNtJS89aM.woff */
+		url('PT_Sans_Narrow_700.woff') format('woff'),
+		/* from https://fonts.gstatic.com/s/ptsansnarrow/v7/Q_pTky3Sc3ubRibGToTAYhKUK2vxztsQZZBkxIuj92o.woff2 */
+		url('PT_Sans_Narrow_700.woff2') format('woff2'),
+		/* from https://fonts.gstatic.com/l/font?kit=Q_pTky3Sc3ubRibGToTAYhvdA8BQHjnCxNq-aqth-mQ&skey=1f20cc7adf7b54b9&v=v7#PTSansNarrow */
+		url('PT_Sans_Narrow_700.svg#PTSansNarrow') format('svg'),
+		/* from https://fonts.gstatic.com/s/ptsansnarrow/v7/Q_pTky3Sc3ubRibGToTAYjnFfol0SnfBMmbnmUK0fZM.ttf */
+		url('PT_Sans_Narrow_700.ttf') format('truetype');
+}

@@ -1,0 +1,18 @@
+@font-face {
+	font-family: 'Gloria Hallelujah';
+	font-style: normal;
+	font-weight: normal;
+	src:
+		local('Gloria Hallelujah'),
+		local('GloriaHallelujah'),
+		/* from https://fonts.gstatic.com/s/gloriahallelujah/v8/CA1k7SlXcY5kvI81M_R28RWp_va1cOkgzoB8dfDAF9k.eot */
+		url('Gloria_Hallelujah.eot?#iefix') format('embedded-opentype'),
+		/* from https://fonts.gstatic.com/s/gloriahallelujah/v8/CA1k7SlXcY5kvI81M_R28Y5mSNQmgKshuii2YddNQzE.woff */
+		url('Gloria_Hallelujah.woff') format('woff'),
+		/* from https://fonts.gstatic.com/s/gloriahallelujah/v8/CA1k7SlXcY5kvI81M_R28cNDay8z-hHR7F16xrcXsJw.woff2 */
+		url('Gloria_Hallelujah.woff2') format('woff2'),
+		/* from https://fonts.gstatic.com/l/font?kit=CA1k7SlXcY5kvI81M_R28WgD74H2H0wMiak15WL6pKw&skey=6624637ba47a20&v=v8#GloriaHallelujah */
+		url('Gloria_Hallelujah.svg#GloriaHallelujah') format('svg'),
+		/* from https://fonts.gstatic.com/s/gloriahallelujah/v8/CA1k7SlXcY5kvI81M_R28Y7PgI6IeGWgqdOlp0TQlJM.ttf */
+		url('Gloria_Hallelujah.ttf') format('truetype');
+}

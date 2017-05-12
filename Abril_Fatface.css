@@ -1,0 +1,18 @@
+@font-face {
+	font-family: 'Abril Fatface';
+	font-style: normal;
+	font-weight: normal;
+	src:
+		local('Abril Fatface'),
+		local('AbrilFatface-Regular'),
+		/* from https://fonts.gstatic.com/s/abrilfatface/v8/X1g_KwGeBV3ajZIXQ9VnDsOV-75E7mII8OPOWd5roDg.eot */
+		url('Abril_Fatface.eot?#iefix') format('embedded-opentype'),
+		/* from https://fonts.gstatic.com/s/abrilfatface/v8/X1g_KwGeBV3ajZIXQ9VnDvn8qdNnd5eCmWXua5W-n7c.woff */
+		url('Abril_Fatface.woff') format('woff'),
+		/* from https://fonts.gstatic.com/s/abrilfatface/v8/X1g_KwGeBV3ajZIXQ9VnDjxObtw73-qQgbr7Be51v5c.woff2 */
+		url('Abril_Fatface.woff2') format('woff2'),
+		/* from https://fonts.gstatic.com/l/font?kit=X1g_KwGeBV3ajZIXQ9VnDjyKAGS2js9R2mTcvyyc0eU&skey=3aaa84d7e0b4f9c7&v=v8#AbrilFatface */
+		url('Abril_Fatface.svg#AbrilFatface') format('svg'),
+		/* from https://fonts.gstatic.com/s/abrilfatface/v8/X1g_KwGeBV3ajZIXQ9VnDibsRidxnYrfzLNRqJkHfFo.ttf */
+		url('Abril_Fatface.ttf') format('truetype');
+}

@@ -1,0 +1,36 @@
+@font-face {
+	font-family: 'ABeeZee';
+	font-style: normal;
+	font-weight: normal;
+	src:
+		local('ABeeZee Regular'),
+		local('ABeeZee-Regular'),
+		/* from https://fonts.gstatic.com/s/abeezee/v10/mHe7YG9wQgrkYxToGNllew.eot */
+		url('ABeeZee.eot?#iefix') format('embedded-opentype'),
+		/* from https://fonts.gstatic.com/s/abeezee/v10/m_J3nYLkIiGqm2wAiy01kg.woff */
+		url('ABeeZee.woff') format('woff'),
+		/* from https://fonts.gstatic.com/s/abeezee/v10/TV7JXr7j4tW7mgYreANhGQ.woff2 */
+		url('ABeeZee.woff2') format('woff2'),
+		/* from https://fonts.gstatic.com/l/font?kit=Q9Ho64D2EGNbyR7RUlvCNQ&skey=abecda27d5b3409a&v=v10#ABeeZee */
+		url('ABeeZee.svg#ABeeZee') format('svg'),
+		/* from https://fonts.gstatic.com/s/abeezee/v10/JYPhMn-3Xw-JGuyB-fEdNA.ttf */
+		url('ABeeZee.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'ABeeZee';
+	font-style: italic;
+	font-weight: normal;
+	src:
+		local('ABeeZee Italic'),
+		local('ABeeZee-Italic'),
+		/* from https://fonts.gstatic.com/s/abeezee/v10/gdFHbjHcLYROorto_Tq2E_Y6323mHUZFJMgTvxaG2iE.eot */
+		url('ABeeZee_italic.eot?#iefix') format('embedded-opentype'),
+		/* from https://fonts.gstatic.com/s/abeezee/v10/gdFHbjHcLYROorto_Tq2Ez8E0i7KZn-EPnyo3HZu7kw.woff */
+		url('ABeeZee_italic.woff') format('woff'),
+		/* from https://fonts.gstatic.com/s/abeezee/v10/gdFHbjHcLYROorto_Tq2E1tXRa8TVwTICgirnJhmVJw.woff2 */
+		url('ABeeZee_italic.woff2') format('woff2'),
+		/* from https://fonts.gstatic.com/l/font?kit=gdFHbjHcLYROorto_Tq2E5bd9NUM7myrQQz30yPaGQ4&skey=7e1629e194fe8b7a&v=v10#ABeeZee */
+		url('ABeeZee_italic.svg#ABeeZee') format('svg'),
+		/* from https://fonts.gstatic.com/s/abeezee/v10/gdFHbjHcLYROorto_Tq2E6CWcynf_cDxXwCLxiixG1c.ttf */
+		url('ABeeZee_italic.ttf') format('truetype');
+}

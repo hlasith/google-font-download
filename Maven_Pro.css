@@ -1,0 +1,72 @@
+@font-face {
+	font-family: 'Maven Pro';
+	font-style: normal;
+	font-weight: normal;
+	src:
+		local('Maven Pro Regular'),
+		local('MavenPro-Regular'),
+		/* from https://fonts.gstatic.com/s/mavenpro/v8/MG9KbUZFchDs94Tbv9U-pfY6323mHUZFJMgTvxaG2iE.eot */
+		url('Maven_Pro.eot?#iefix') format('embedded-opentype'),
+		/* from https://fonts.gstatic.com/s/mavenpro/v8/MG9KbUZFchDs94Tbv9U-pT8E0i7KZn-EPnyo3HZu7kw.woff */
+		url('Maven_Pro.woff') format('woff'),
+		/* from https://fonts.gstatic.com/s/mavenpro/v8/MG9KbUZFchDs94Tbv9U-pVtXRa8TVwTICgirnJhmVJw.woff2 */
+		url('Maven_Pro.woff2') format('woff2'),
+		/* from https://fonts.gstatic.com/l/font?kit=MG9KbUZFchDs94Tbv9U-pZbd9NUM7myrQQz30yPaGQ4&skey=f795ffecfc1ee92e&v=v8#MavenPro */
+		url('Maven_Pro.svg#MavenPro') format('svg'),
+		/* from https://fonts.gstatic.com/s/mavenpro/v8/MG9KbUZFchDs94Tbv9U-paCWcynf_cDxXwCLxiixG1c.ttf */
+		url('Maven_Pro.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Maven Pro';
+	font-style: normal;
+	font-weight: 500;
+	src:
+		local('Maven Pro Medium'),
+		local('MavenPro-Medium'),
+		/* from https://fonts.gstatic.com/s/mavenpro/v8/SQVfzoJBbj9t3aVcmbspRnZ2MAKAc2x4R1uOSeegc5U.eot */
+		url('Maven_Pro_500.eot?#iefix') format('embedded-opentype'),
+		/* from https://fonts.gstatic.com/s/mavenpro/v8/SQVfzoJBbj9t3aVcmbspRnhCUOGz7vYGh680lGh-uXM.woff */
+		url('Maven_Pro_500.woff') format('woff'),
+		/* from https://fonts.gstatic.com/s/mavenpro/v8/SQVfzoJBbj9t3aVcmbspRugdm0LZdjqr5-oayXSOefg.woff2 */
+		url('Maven_Pro_500.woff2') format('woff2'),
+		/* from https://fonts.gstatic.com/l/font?kit=SQVfzoJBbj9t3aVcmbspRllIn5tFQcqMuf-jhyJP0ps&skey=3342e25ad2760db8&v=v8#MavenPro */
+		url('Maven_Pro_500.svg#MavenPro') format('svg'),
+		/* from https://fonts.gstatic.com/s/mavenpro/v8/SQVfzoJBbj9t3aVcmbspRonF5uFdDttMLvmWuJdhhgs.ttf */
+		url('Maven_Pro_500.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Maven Pro';
+	font-style: normal;
+	font-weight: 700;
+	src:
+		local('Maven Pro Bold'),
+		local('MavenPro-Bold'),
+		/* from https://fonts.gstatic.com/s/mavenpro/v8/uDssvmXgp7Nj3i336k_dSnZ2MAKAc2x4R1uOSeegc5U.eot */
+		url('Maven_Pro_700.eot?#iefix') format('embedded-opentype'),
+		/* from https://fonts.gstatic.com/s/mavenpro/v8/uDssvmXgp7Nj3i336k_dSnhCUOGz7vYGh680lGh-uXM.woff */
+		url('Maven_Pro_700.woff') format('woff'),
+		/* from https://fonts.gstatic.com/s/mavenpro/v8/uDssvmXgp7Nj3i336k_dSugdm0LZdjqr5-oayXSOefg.woff2 */
+		url('Maven_Pro_700.woff2') format('woff2'),
+		/* from https://fonts.gstatic.com/l/font?kit=uDssvmXgp7Nj3i336k_dSllIn5tFQcqMuf-jhyJP0ps&skey=cdea2724661b597d&v=v8#MavenPro */
+		url('Maven_Pro_700.svg#MavenPro') format('svg'),
+		/* from https://fonts.gstatic.com/s/mavenpro/v8/uDssvmXgp7Nj3i336k_dSonF5uFdDttMLvmWuJdhhgs.ttf */
+		url('Maven_Pro_700.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Maven Pro';
+	font-style: normal;
+	font-weight: 900;
+	src:
+		local('Maven Pro Black'),
+		local('MavenPro-Black'),
+		/* from https://fonts.gstatic.com/s/mavenpro/v8/-91TwiFzqeL1F7Kh91APwXZ2MAKAc2x4R1uOSeegc5U.eot */
+		url('Maven_Pro_900.eot?#iefix') format('embedded-opentype'),
+		/* from https://fonts.gstatic.com/s/mavenpro/v8/-91TwiFzqeL1F7Kh91APwXhCUOGz7vYGh680lGh-uXM.woff */
+		url('Maven_Pro_900.woff') format('woff'),
+		/* from https://fonts.gstatic.com/s/mavenpro/v8/-91TwiFzqeL1F7Kh91APwegdm0LZdjqr5-oayXSOefg.woff2 */
+		url('Maven_Pro_900.woff2') format('woff2'),
+		/* from https://fonts.gstatic.com/l/font?kit=-91TwiFzqeL1F7Kh91APwVlIn5tFQcqMuf-jhyJP0ps&skey=b2a4a68bb927b7b5&v=v8#MavenPro */
+		url('Maven_Pro_900.svg#MavenPro') format('svg'),
+		/* from https://fonts.gstatic.com/s/mavenpro/v8/-91TwiFzqeL1F7Kh91APwYnF5uFdDttMLvmWuJdhhgs.ttf */
+		url('Maven_Pro_900.ttf') format('truetype');
+}

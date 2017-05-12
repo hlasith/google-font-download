@@ -1,0 +1,72 @@
+@font-face {
+	font-family: 'Noto Serif';
+	font-style: normal;
+	font-weight: normal;
+	src:
+		local('Noto Serif'),
+		local('NotoSerif'),
+		/* from https://fonts.gstatic.com/s/notoserif/v4/eCpfeMZI7q4jLksXVRWPQ1QlYEbsez9cZjKsNMjLOwM.eot */
+		url('Noto_Serif.eot?#iefix') format('embedded-opentype'),
+		/* from https://fonts.gstatic.com/s/notoserif/v4/eCpfeMZI7q4jLksXVRWPQxsxEYwM7FgeyaSgU71cLG0.woff */
+		url('Noto_Serif.woff') format('woff'),
+		/* from https://fonts.gstatic.com/s/notoserif/v4/eCpfeMZI7q4jLksXVRWPQ_k_vArhqVIZ0nv9q090hN8.woff2 */
+		url('Noto_Serif.woff2') format('woff2'),
+		/* from https://fonts.gstatic.com/l/font?kit=eCpfeMZI7q4jLksXVRWPQ6WUboTb-jS2tyCOQMtm97g&skey=ff3f102bd67fc93c&v=v4#NotoSerif */
+		url('Noto_Serif.svg#NotoSerif') format('svg'),
+		/* from https://fonts.gstatic.com/s/notoserif/v4/eCpfeMZI7q4jLksXVRWPQy3USBnSvpkopQaUR-2r7iU.ttf */
+		url('Noto_Serif.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Noto Serif';
+	font-style: italic;
+	font-weight: normal;
+	src:
+		local('Noto Serif Italic'),
+		local('NotoSerif-Italic'),
+		/* from https://fonts.gstatic.com/s/notoserif/v4/HQXBIwLHsOJCNEQeX9kNz3Z2MAKAc2x4R1uOSeegc5U.eot */
+		url('Noto_Serif_italic.eot?#iefix') format('embedded-opentype'),
+		/* from https://fonts.gstatic.com/s/notoserif/v4/HQXBIwLHsOJCNEQeX9kNz3hCUOGz7vYGh680lGh-uXM.woff */
+		url('Noto_Serif_italic.woff') format('woff'),
+		/* from https://fonts.gstatic.com/s/notoserif/v4/HQXBIwLHsOJCNEQeX9kNz-gdm0LZdjqr5-oayXSOefg.woff2 */
+		url('Noto_Serif_italic.woff2') format('woff2'),
+		/* from https://fonts.gstatic.com/l/font?kit=HQXBIwLHsOJCNEQeX9kNz1lIn5tFQcqMuf-jhyJP0ps&skey=39fc6d597fb39b7e&v=v4#NotoSerif */
+		url('Noto_Serif_italic.svg#NotoSerif') format('svg'),
+		/* from https://fonts.gstatic.com/s/notoserif/v4/HQXBIwLHsOJCNEQeX9kNz4nF5uFdDttMLvmWuJdhhgs.ttf */
+		url('Noto_Serif_italic.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Noto Serif';
+	font-style: normal;
+	font-weight: 700;
+	src:
+		local('Noto Serif Bold'),
+		local('NotoSerif-Bold'),
+		/* from https://fonts.gstatic.com/s/notoserif/v4/lJAvZoKA5NttpPc9yc6lPWzklk6MJbhg7BmBP42CjCQ.eot */
+		url('Noto_Serif_700.eot?#iefix') format('embedded-opentype'),
+		/* from https://fonts.gstatic.com/s/notoserif/v4/lJAvZoKA5NttpPc9yc6lPQFhaRv2pGgT5Kf0An0s4MM.woff */
+		url('Noto_Serif_700.woff') format('woff'),
+		/* from https://fonts.gstatic.com/s/notoserif/v4/lJAvZoKA5NttpPc9yc6lPYWiMMZ7xLd792ULpGE4W_Y.woff2 */
+		url('Noto_Serif_700.woff2') format('woff2'),
+		/* from https://fonts.gstatic.com/l/font?kit=lJAvZoKA5NttpPc9yc6lPT9QLNJZUvW8xv4RpDkyVDQ&skey=d061d87fe9231c&v=v4#NotoSerif */
+		url('Noto_Serif_700.svg#NotoSerif') format('svg'),
+		/* from https://fonts.gstatic.com/s/notoserif/v4/lJAvZoKA5NttpPc9yc6lPfEr6Hm6RMS0v1dtXsGir4g.ttf */
+		url('Noto_Serif_700.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Noto Serif';
+	font-style: italic;
+	font-weight: 700;
+	src:
+		local('Noto Serif Bold Italic'),
+		local('NotoSerif-BoldItalic'),
+		/* from https://fonts.gstatic.com/s/notoserif/v4/Wreg0Be4tcFGM2t6VWytvGmsoyWrDyoltQVIP7q_RGg.eot */
+		url('Noto_Serif_700italic.eot?#iefix') format('embedded-opentype'),
+		/* from https://fonts.gstatic.com/s/notoserif/v4/Wreg0Be4tcFGM2t6VWytvHl4twXkwp3_u9ZoePkT564.woff */
+		url('Noto_Serif_700italic.woff') format('woff'),
+		/* from https://fonts.gstatic.com/s/notoserif/v4/Wreg0Be4tcFGM2t6VWytvHNuWYKPzoeKl5tYj8yhly0.woff2 */
+		url('Noto_Serif_700italic.woff2') format('woff2'),
+		/* from https://fonts.gstatic.com/l/font?kit=Wreg0Be4tcFGM2t6VWytvAay50PuN8loMJ9QAXsTs7U&skey=9777b861e0fad22b&v=v4#NotoSerif */
+		url('Noto_Serif_700italic.svg#NotoSerif') format('svg'),
+		/* from https://fonts.gstatic.com/s/notoserif/v4/Wreg0Be4tcFGM2t6VWytvH06qf9KHRHwsVx7iw5MXmY.ttf */
+		url('Noto_Serif_700italic.ttf') format('truetype');
+}

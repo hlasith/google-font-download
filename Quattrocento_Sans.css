@@ -1,0 +1,72 @@
+@font-face {
+	font-family: 'Quattrocento Sans';
+	font-style: normal;
+	font-weight: normal;
+	src:
+		local('Quattrocento Sans'),
+		local('QuattrocentoSans'),
+		/* from https://fonts.gstatic.com/s/quattrocentosans/v9/efd6FGWWGX5Z3ztwLBrG9U2k4ogKuXZ6cvJ9G6hiscg.eot */
+		url('Quattrocento_Sans.eot?#iefix') format('embedded-opentype'),
+		/* from https://fonts.gstatic.com/s/quattrocentosans/v9/efd6FGWWGX5Z3ztwLBrG9b2aU247V0zTzydO4RoO9Ok.woff */
+		url('Quattrocento_Sans.woff') format('woff'),
+		/* from https://fonts.gstatic.com/s/quattrocentosans/v9/efd6FGWWGX5Z3ztwLBrG9cZ4HySTEWshgORbPp2tk8k.woff2 */
+		url('Quattrocento_Sans.woff2') format('woff2'),
+		/* from https://fonts.gstatic.com/l/font?kit=efd6FGWWGX5Z3ztwLBrG9RSsawf2cF_d9q9gtt4yBuk&skey=4b4d15162b835c7c&v=v9#QuattrocentoSans */
+		url('Quattrocento_Sans.svg#QuattrocentoSans') format('svg'),
+		/* from https://fonts.gstatic.com/s/quattrocentosans/v9/efd6FGWWGX5Z3ztwLBrG9VBI1aZvkJLeFEwcwXkBYq0.ttf */
+		url('Quattrocento_Sans.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Quattrocento Sans';
+	font-style: italic;
+	font-weight: normal;
+	src:
+		local('Quattrocento Sans Italic'),
+		local('QuattrocentoSans-Italic'),
+		/* from https://fonts.gstatic.com/s/quattrocentosans/v9/8PXYbvM__bjl0rBnKiBygz73cJzAx8H21t3siz5PJJM.eot */
+		url('Quattrocento_Sans_italic.eot?#iefix') format('embedded-opentype'),
+		/* from https://fonts.gstatic.com/s/quattrocentosans/v9/8PXYbvM__bjl0rBnKiByg_0KIgDhPIHb_R-SWdtqte8.woff */
+		url('Quattrocento_Sans_italic.woff') format('woff'),
+		/* from https://fonts.gstatic.com/s/quattrocentosans/v9/8PXYbvM__bjl0rBnKiByg-fU2ka509O1odprhyXBUMU.woff2 */
+		url('Quattrocento_Sans_italic.woff2') format('woff2'),
+		/* from https://fonts.gstatic.com/l/font?kit=8PXYbvM__bjl0rBnKiByg2LjQhJN2InzDCEXlWgBuF0&skey=8d61cc4fe860fce9&v=v9#QuattrocentoSans */
+		url('Quattrocento_Sans_italic.svg#QuattrocentoSans') format('svg'),
+		/* from https://fonts.gstatic.com/s/quattrocentosans/v9/8PXYbvM__bjl0rBnKiByg7earE5_VzBcjtDoaNr3b3c.ttf */
+		url('Quattrocento_Sans_italic.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Quattrocento Sans';
+	font-style: normal;
+	font-weight: 700;
+	src:
+		local('Quattrocento Sans Bold'),
+		local('QuattrocentoSans-Bold'),
+		/* from https://fonts.gstatic.com/s/quattrocentosans/v9/tXSgPxDl7Lk8Zr_5qX8FIaD2fnm4z6Nq0x6aGUXpBdU.eot */
+		url('Quattrocento_Sans_700.eot?#iefix') format('embedded-opentype'),
+		/* from https://fonts.gstatic.com/s/quattrocentosans/v9/tXSgPxDl7Lk8Zr_5qX8FIQfd-b-I5PxxcmB4_-MNcqw.woff */
+		url('Quattrocento_Sans_700.woff') format('woff'),
+		/* from https://fonts.gstatic.com/s/quattrocentosans/v9/tXSgPxDl7Lk8Zr_5qX8FIbvMLSVzqOGkoxdgTSsKqWM.woff2 */
+		url('Quattrocento_Sans_700.woff2') format('woff2'),
+		/* from https://fonts.gstatic.com/l/font?kit=tXSgPxDl7Lk8Zr_5qX8FIWP5VslNTEcDcw1F0gKB_1Y&skey=48f79e8b8193b1cc&v=v9#QuattrocentoSans */
+		url('Quattrocento_Sans_700.svg#QuattrocentoSans') format('svg'),
+		/* from https://fonts.gstatic.com/s/quattrocentosans/v9/tXSgPxDl7Lk8Zr_5qX8FIfqJSHIsY8pKqTgTouATXAk.ttf */
+		url('Quattrocento_Sans_700.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Quattrocento Sans';
+	font-style: italic;
+	font-weight: 700;
+	src:
+		local('Quattrocento Sans Bold Italic'),
+		local('QuattrocentoSans-BoldItalic'),
+		/* from https://fonts.gstatic.com/s/quattrocentosans/v9/8N1PdXpbG6RtFvTjl-5E7QHKcHgsjoggO6IrKqD_mBM.eot */
+		url('Quattrocento_Sans_700italic.eot?#iefix') format('embedded-opentype'),
+		/* from https://fonts.gstatic.com/s/quattrocentosans/v9/8N1PdXpbG6RtFvTjl-5E7YM8pfYvjMoOxygpzLVILAs.woff */
+		url('Quattrocento_Sans_700italic.woff') format('woff'),
+		/* from https://fonts.gstatic.com/s/quattrocentosans/v9/8N1PdXpbG6RtFvTjl-5E7afo0sDQ75c9ExQ-26lwTdA.woff2 */
+		url('Quattrocento_Sans_700italic.woff2') format('woff2'),
+		/* from https://fonts.gstatic.com/l/font?kit=8N1PdXpbG6RtFvTjl-5E7c_JO2nlopTfM618HGSBb2M&skey=ab981dae7be4123&v=v9#QuattrocentoSans */
+		url('Quattrocento_Sans_700italic.svg#QuattrocentoSans') format('svg'),
+		/* from https://fonts.gstatic.com/s/quattrocentosans/v9/8N1PdXpbG6RtFvTjl-5E7QqfFxSJsGWORebWzQ_6S3g.ttf */
+		url('Quattrocento_Sans_700italic.ttf') format('truetype');
+}

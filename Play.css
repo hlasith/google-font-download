@@ -1,0 +1,36 @@
+@font-face {
+	font-family: 'Play';
+	font-style: normal;
+	font-weight: normal;
+	src:
+		local('Play'),
+		local('Play-Regular'),
+		/* from https://fonts.gstatic.com/s/play/v7/f3_5AaJnUif1b2N0L7kPyw.eot */
+		url('Play.eot?#iefix') format('embedded-opentype'),
+		/* from https://fonts.gstatic.com/s/play/v7/-SXnV4mZjf4oh1IBw13WZw.woff */
+		url('Play.woff') format('woff'),
+		/* from https://fonts.gstatic.com/s/play/v7/ZNo-5SxCwH1CXgZ-n3bt2g.woff2 */
+		url('Play.woff2') format('woff2'),
+		/* from https://fonts.gstatic.com/l/font?kit=MqzURtVoU_VnBaj0ezh_Hg&skey=b09c7c1d7347911b&v=v7#Play */
+		url('Play.svg#Play') format('svg'),
+		/* from https://fonts.gstatic.com/s/play/v7/PeTTkHQKj5rUPVxkIGAoaw.ttf */
+		url('Play.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Play';
+	font-style: normal;
+	font-weight: 700;
+	src:
+		local('Play Bold'),
+		local('Play-Bold'),
+		/* from https://fonts.gstatic.com/s/play/v7/CbvXGCtX3IGiJrEnKPX7Ig.eot */
+		url('Play_700.eot?#iefix') format('embedded-opentype'),
+		/* from https://fonts.gstatic.com/s/play/v7/ZzUearZLklGfoL18Ti0GaQ.woff */
+		url('Play_700.woff') format('woff'),
+		/* from https://fonts.gstatic.com/s/play/v7/d8o4OpWQkZkrWqhvSfqU1Q.woff2 */
+		url('Play_700.woff2') format('woff2'),
+		/* from https://fonts.gstatic.com/l/font?kit=hfEOz6_jW5-PzdTnbB5ybg&skey=545b346b46c13d48&v=v7#Play */
+		url('Play_700.svg#Play') format('svg'),
+		/* from https://fonts.gstatic.com/s/play/v7/j7wx-rRiDuE-JcaZ1ilpKg.ttf */
+		url('Play_700.ttf') format('truetype');
+}

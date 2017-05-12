@@ -1,0 +1,72 @@
+@font-face {
+	font-family: 'Cantarell';
+	font-style: normal;
+	font-weight: normal;
+	src:
+		local('Cantarell Regular'),
+		local('Cantarell-Regular'),
+		/* from https://fonts.gstatic.com/s/cantarell/v6/V86VyqXbc09Sss3BPsMj1_Y6323mHUZFJMgTvxaG2iE.eot */
+		url('Cantarell.eot?#iefix') format('embedded-opentype'),
+		/* from https://fonts.gstatic.com/s/cantarell/v6/V86VyqXbc09Sss3BPsMj1z8E0i7KZn-EPnyo3HZu7kw.woff */
+		url('Cantarell.woff') format('woff'),
+		/* from https://fonts.gstatic.com/s/cantarell/v6/V86VyqXbc09Sss3BPsMj11tXRa8TVwTICgirnJhmVJw.woff2 */
+		url('Cantarell.woff2') format('woff2'),
+		/* from https://fonts.gstatic.com/l/font?kit=V86VyqXbc09Sss3BPsMj15bd9NUM7myrQQz30yPaGQ4&skey=4fa1583b73a857db&v=v6#Cantarell */
+		url('Cantarell.svg#Cantarell') format('svg'),
+		/* from https://fonts.gstatic.com/s/cantarell/v6/V86VyqXbc09Sss3BPsMj16CWcynf_cDxXwCLxiixG1c.ttf */
+		url('Cantarell.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Cantarell';
+	font-style: italic;
+	font-weight: normal;
+	src:
+		local('Cantarell Oblique'),
+		local('Cantarell-Oblique'),
+		/* from https://fonts.gstatic.com/s/cantarell/v6/Qd6zZq_wf1596L3V_8MIs2fQcKutQXcIrRfyR5jdjY8.eot */
+		url('Cantarell_italic.eot?#iefix') format('embedded-opentype'),
+		/* from https://fonts.gstatic.com/s/cantarell/v6/Qd6zZq_wf1596L3V_8MIs4bN6UDyHWBl620a-IRfuBk.woff */
+		url('Cantarell_italic.woff') format('woff'),
+		/* from https://fonts.gstatic.com/s/cantarell/v6/Qd6zZq_wf1596L3V_8MIs44P5ICox8Kq3LLUNMylGO4.woff2 */
+		url('Cantarell_italic.woff2') format('woff2'),
+		/* from https://fonts.gstatic.com/l/font?kit=Qd6zZq_wf1596L3V_8MIs3NsigHlcrQGNV8nkUSFQfc&skey=5f16ed9b6a8a2f0d&v=v6#Cantarell */
+		url('Cantarell_italic.svg#Cantarell') format('svg'),
+		/* from https://fonts.gstatic.com/s/cantarell/v6/Qd6zZq_wf1596L3V_8MIs50EAVxt0G0biEntp43Qt6E.ttf */
+		url('Cantarell_italic.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Cantarell';
+	font-style: normal;
+	font-weight: 700;
+	src:
+		local('Cantarell Bold'),
+		local('Cantarell-Bold'),
+		/* from https://fonts.gstatic.com/s/cantarell/v6/Yir4ZDsCn4g1kWopdg-ehHZ2MAKAc2x4R1uOSeegc5U.eot */
+		url('Cantarell_700.eot?#iefix') format('embedded-opentype'),
+		/* from https://fonts.gstatic.com/s/cantarell/v6/Yir4ZDsCn4g1kWopdg-ehHhCUOGz7vYGh680lGh-uXM.woff */
+		url('Cantarell_700.woff') format('woff'),
+		/* from https://fonts.gstatic.com/s/cantarell/v6/Yir4ZDsCn4g1kWopdg-ehOgdm0LZdjqr5-oayXSOefg.woff2 */
+		url('Cantarell_700.woff2') format('woff2'),
+		/* from https://fonts.gstatic.com/l/font?kit=Yir4ZDsCn4g1kWopdg-ehFlIn5tFQcqMuf-jhyJP0ps&skey=4ce757239eccd614&v=v6#Cantarell */
+		url('Cantarell_700.svg#Cantarell') format('svg'),
+		/* from https://fonts.gstatic.com/s/cantarell/v6/Yir4ZDsCn4g1kWopdg-ehInF5uFdDttMLvmWuJdhhgs.ttf */
+		url('Cantarell_700.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Cantarell';
+	font-style: italic;
+	font-weight: 700;
+	src:
+		local('Cantarell Bold Oblique'),
+		local('Cantarell-BoldOblique'),
+		/* from https://fonts.gstatic.com/s/cantarell/v6/weehrwMeZBXb0QyrWnRwFbFt29aCHKT7otDW9l62Aag.eot */
+		url('Cantarell_700italic.eot?#iefix') format('embedded-opentype'),
+		/* from https://fonts.gstatic.com/s/cantarell/v6/weehrwMeZBXb0QyrWnRwFTqR_3kx9_hJXbbyU8S6IN0.woff */
+		url('Cantarell_700italic.woff') format('woff'),
+		/* from https://fonts.gstatic.com/s/cantarell/v6/weehrwMeZBXb0QyrWnRwFYlIZu-HDpmDIZMigmsroc4.woff2 */
+		url('Cantarell_700italic.woff2') format('woff2'),
+		/* from https://fonts.gstatic.com/l/font?kit=weehrwMeZBXb0QyrWnRwFXtNmQEE9wZ6UZlmiISB1pg&skey=6a4e6d776759d980&v=v6#Cantarell */
+		url('Cantarell_700italic.svg#Cantarell') format('svg'),
+		/* from https://fonts.gstatic.com/s/cantarell/v6/weehrwMeZBXb0QyrWnRwFZ_TkvowlIOtbR7ePgFOpF4.ttf */
+		url('Cantarell_700italic.ttf') format('truetype');
+}

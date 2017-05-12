@@ -1,0 +1,18 @@
+@font-face {
+	font-family: 'Lobster';
+	font-style: normal;
+	font-weight: normal;
+	src:
+		local('Lobster'),
+		local('Lobster-Regular'),
+		/* from https://fonts.gstatic.com/s/lobster/v18/RbZDm27knEncUX6lPsjRBg.eot */
+		url('Lobster.eot?#iefix') format('embedded-opentype'),
+		/* from https://fonts.gstatic.com/s/lobster/v18/MWVf-Rwh4GLQVBEwbyI61Q.woff */
+		url('Lobster.woff') format('woff'),
+		/* from https://fonts.gstatic.com/s/lobster/v18/cycBf3mfbGkh66G5NhszPQ.woff2 */
+		url('Lobster.woff2') format('woff2'),
+		/* from https://fonts.gstatic.com/l/font?kit=j6oWj_2FuMvwWoXYXnyDeA&skey=7ed805a363b4659c&v=v18#Lobster */
+		url('Lobster.svg#Lobster') format('svg'),
+		/* from https://fonts.gstatic.com/s/lobster/v18/TSDaXhyJuDJ-NBU0popSWA.ttf */
+		url('Lobster.ttf') format('truetype');
+}

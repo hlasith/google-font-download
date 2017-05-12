@@ -1,0 +1,18 @@
+@font-face {
+	font-family: 'Poiret One';
+	font-style: normal;
+	font-weight: normal;
+	src:
+		local('Poiret One'),
+		local('PoiretOne-Regular'),
+		/* from https://fonts.gstatic.com/s/poiretone/v4/HrI4ZJpJ3Fh0wa5ofYMK8VQlYEbsez9cZjKsNMjLOwM.eot */
+		url('Poiret_One.eot?#iefix') format('embedded-opentype'),
+		/* from https://fonts.gstatic.com/s/poiretone/v4/HrI4ZJpJ3Fh0wa5ofYMK8RsxEYwM7FgeyaSgU71cLG0.woff */
+		url('Poiret_One.woff') format('woff'),
+		/* from https://fonts.gstatic.com/s/poiretone/v4/HrI4ZJpJ3Fh0wa5ofYMK8fk_vArhqVIZ0nv9q090hN8.woff2 */
+		url('Poiret_One.woff2') format('woff2'),
+		/* from https://fonts.gstatic.com/l/font?kit=HrI4ZJpJ3Fh0wa5ofYMK8aWUboTb-jS2tyCOQMtm97g&skey=b92d66791719178&v=v4#PoiretOne */
+		url('Poiret_One.svg#PoiretOne') format('svg'),
+		/* from https://fonts.gstatic.com/s/poiretone/v4/HrI4ZJpJ3Fh0wa5ofYMK8S3USBnSvpkopQaUR-2r7iU.ttf */
+		url('Poiret_One.ttf') format('truetype');
+}

@@ -1,0 +1,180 @@
+@font-face {
+	font-family: 'Cormorant Garamond';
+	font-style: normal;
+	font-weight: 300;
+	src:
+		local('Cormorant Garamond Light'),
+		local('CormorantGaramond-Light'),
+		/* from https://fonts.gstatic.com/s/cormorantgaramond/v3/iEjm9hVxcattz37Y8gZwVcK_Saxcyma4a0Bodz6By8E.eot */
+		url('Cormorant_Garamond_300.eot?#iefix') format('embedded-opentype'),
+		/* from https://fonts.gstatic.com/s/cormorantgaramond/v3/iEjm9hVxcattz37Y8gZwVXaXk_mX7l4uWyLGS2OE0mg.woff */
+		url('Cormorant_Garamond_300.woff') format('woff'),
+		/* from https://fonts.gstatic.com/s/cormorantgaramond/v3/iEjm9hVxcattz37Y8gZwVbq2HNNMYxbOC04F0CNdzo8.woff2 */
+		url('Cormorant_Garamond_300.woff2') format('woff2'),
+		/* from https://fonts.gstatic.com/l/font?kit=iEjm9hVxcattz37Y8gZwVVJ6I2x41GYRGb4SA9cHNZk&skey=4f9ed6f80d6d2fa0&v=v3#CormorantGaramond */
+		url('Cormorant_Garamond_300.svg#CormorantGaramond') format('svg'),
+		/* from https://fonts.gstatic.com/s/cormorantgaramond/v3/iEjm9hVxcattz37Y8gZwVSQdpKdeLmun5SMGMgzYaNU.ttf */
+		url('Cormorant_Garamond_300.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Cormorant Garamond';
+	font-style: italic;
+	font-weight: 300;
+	src:
+		local('Cormorant Garamond Light Italic'),
+		local('CormorantGaramond-LightItalic'),
+		/* from https://fonts.gstatic.com/s/cormorantgaramond/v3/zuqx3k1yUEl3Eavo-ZPEAsIonp6ci5sIIF8I0CYUPHM.eot */
+		url('Cormorant_Garamond_300italic.eot?#iefix') format('embedded-opentype'),
+		/* from https://fonts.gstatic.com/s/cormorantgaramond/v3/zuqx3k1yUEl3Eavo-ZPEAqyrRV_tIifNkmsmT8g7olw.woff */
+		url('Cormorant_Garamond_300italic.woff') format('woff'),
+		/* from https://fonts.gstatic.com/s/cormorantgaramond/v3/zuqx3k1yUEl3Eavo-ZPEAk1a5chL7g1_Dzbpl9Y2HS4.woff2 */
+		url('Cormorant_Garamond_300italic.woff2') format('woff2'),
+		/* from https://fonts.gstatic.com/l/font?kit=zuqx3k1yUEl3Eavo-ZPEAnjESNuVfmS59bIr2OZNmYk&skey=5a7e0a432eb14fbf&v=v3#CormorantGaramond */
+		url('Cormorant_Garamond_300italic.svg#CormorantGaramond') format('svg'),
+		/* from https://fonts.gstatic.com/s/cormorantgaramond/v3/zuqx3k1yUEl3Eavo-ZPEAsNCjhL5_UAcr6Fg15s7jRs.ttf */
+		url('Cormorant_Garamond_300italic.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Cormorant Garamond';
+	font-style: normal;
+	font-weight: normal;
+	src:
+		local('Cormorant Garamond Regular'),
+		local('CormorantGaramond-Regular'),
+		/* from https://fonts.gstatic.com/s/cormorantgaramond/v3/EI2hhCO6kSfLAy-Dpd8fd7A7rPYlTFFb1dWI3HxNjko.eot */
+		url('Cormorant_Garamond.eot?#iefix') format('embedded-opentype'),
+		/* from https://fonts.gstatic.com/s/cormorantgaramond/v3/EI2hhCO6kSfLAy-Dpd8fd1sHIhYSIhHw3A-puTCbotg.woff */
+		url('Cormorant_Garamond.woff') format('woff'),
+		/* from https://fonts.gstatic.com/s/cormorantgaramond/v3/EI2hhCO6kSfLAy-Dpd8fdz_Dq57Lo4snLFwBvsf35Hk.woff2 */
+		url('Cormorant_Garamond.woff2') format('woff2'),
+		/* from https://fonts.gstatic.com/l/font?kit=EI2hhCO6kSfLAy-Dpd8fd18nY0ODyfEW4CEBwIje-vE&skey=a863d1376a24bd7a&v=v3#CormorantGaramond */
+		url('Cormorant_Garamond.svg#CormorantGaramond') format('svg'),
+		/* from https://fonts.gstatic.com/s/cormorantgaramond/v3/EI2hhCO6kSfLAy-Dpd8fd4kMrRif0q9E9OjhWn94a1w.ttf */
+		url('Cormorant_Garamond.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Cormorant Garamond';
+	font-style: italic;
+	font-weight: normal;
+	src:
+		local('Cormorant Garamond Italic'),
+		local('CormorantGaramond-Italic'),
+		/* from https://fonts.gstatic.com/s/cormorantgaramond/v3/eGTlzchVxDKKvK6d7drzlv3Eu8_68mSlrpbe9octpU8.eot */
+		url('Cormorant_Garamond_italic.eot?#iefix') format('embedded-opentype'),
+		/* from https://fonts.gstatic.com/s/cormorantgaramond/v3/eGTlzchVxDKKvK6d7drzlhlILEOOqbUhwO090YxLAIg.woff */
+		url('Cormorant_Garamond_italic.woff') format('woff'),
+		/* from https://fonts.gstatic.com/s/cormorantgaramond/v3/eGTlzchVxDKKvK6d7drzlvi-tDgJCth50KiWWhEUOb0.woff2 */
+		url('Cormorant_Garamond_italic.woff2') format('woff2'),
+		/* from https://fonts.gstatic.com/l/font?kit=eGTlzchVxDKKvK6d7drzlgVx7dPQKYK221VpyP9wyu4&skey=e666f2218a05acfc&v=v3#CormorantGaramond */
+		url('Cormorant_Garamond_italic.svg#CormorantGaramond') format('svg'),
+		/* from https://fonts.gstatic.com/s/cormorantgaramond/v3/eGTlzchVxDKKvK6d7drzls5ux_fkf2WtJNEJ_Ye5UcI.ttf */
+		url('Cormorant_Garamond_italic.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Cormorant Garamond';
+	font-style: normal;
+	font-weight: 500;
+	src:
+		local('Cormorant Garamond Medium'),
+		local('CormorantGaramond-Medium'),
+		/* from https://fonts.gstatic.com/s/cormorantgaramond/v3/iEjm9hVxcattz37Y8gZwVUnoksshKNug3KcSGA0jCeI.eot */
+		url('Cormorant_Garamond_500.eot?#iefix') format('embedded-opentype'),
+		/* from https://fonts.gstatic.com/s/cormorantgaramond/v3/iEjm9hVxcattz37Y8gZwVbdD_IlHZhs2xl0ydswEjhg.woff */
+		url('Cormorant_Garamond_500.woff') format('woff'),
+		/* from https://fonts.gstatic.com/s/cormorantgaramond/v3/iEjm9hVxcattz37Y8gZwVUyux-RXTyQM084ahe4LYXE.woff2 */
+		url('Cormorant_Garamond_500.woff2') format('woff2'),
+		/* from https://fonts.gstatic.com/l/font?kit=iEjm9hVxcattz37Y8gZwVZ80hmK63bxuGvyS7iDDnVU&skey=4b255bdbddcd870c&v=v3#CormorantGaramond */
+		url('Cormorant_Garamond_500.svg#CormorantGaramond') format('svg'),
+		/* from https://fonts.gstatic.com/s/cormorantgaramond/v3/iEjm9hVxcattz37Y8gZwVTjghypltJZSOvk0SFLkcps.ttf */
+		url('Cormorant_Garamond_500.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Cormorant Garamond';
+	font-style: italic;
+	font-weight: 500;
+	src:
+		local('Cormorant Garamond Medium Italic'),
+		local('CormorantGaramond-MediumItalic'),
+		/* from https://fonts.gstatic.com/s/cormorantgaramond/v3/zuqx3k1yUEl3Eavo-ZPEAvXGhwtBxpb0eJGvUa-ek7I.eot */
+		url('Cormorant_Garamond_500italic.eot?#iefix') format('embedded-opentype'),
+		/* from https://fonts.gstatic.com/s/cormorantgaramond/v3/zuqx3k1yUEl3Eavo-ZPEAuIuWuUVGs6DBgKnXWjrzq8.woff */
+		url('Cormorant_Garamond_500italic.woff') format('woff'),
+		/* from https://fonts.gstatic.com/s/cormorantgaramond/v3/zuqx3k1yUEl3Eavo-ZPEAkAn4njGiYbajs3ik7RUrHA.woff2 */
+		url('Cormorant_Garamond_500italic.woff2') format('woff2'),
+		/* from https://fonts.gstatic.com/l/font?kit=zuqx3k1yUEl3Eavo-ZPEAoREhBWAc1mo-hP_GZSkk8I&skey=a646f7df62b0db07&v=v3#CormorantGaramond */
+		url('Cormorant_Garamond_500italic.svg#CormorantGaramond') format('svg'),
+		/* from https://fonts.gstatic.com/s/cormorantgaramond/v3/zuqx3k1yUEl3Eavo-ZPEApJumYBmio9YKbn4NORNjEc.ttf */
+		url('Cormorant_Garamond_500italic.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Cormorant Garamond';
+	font-style: normal;
+	font-weight: 600;
+	src:
+		local('Cormorant Garamond SemiBold'),
+		local('CormorantGaramond-SemiBold'),
+		/* from https://fonts.gstatic.com/s/cormorantgaramond/v3/iEjm9hVxcattz37Y8gZwVYLVN3mU72bF7r917pgRegw.eot */
+		url('Cormorant_Garamond_600.eot?#iefix') format('embedded-opentype'),
+		/* from https://fonts.gstatic.com/s/cormorantgaramond/v3/iEjm9hVxcattz37Y8gZwVd8W8Y8iIas0OzpbVv9k_mE.woff */
+		url('Cormorant_Garamond_600.woff') format('woff'),
+		/* from https://fonts.gstatic.com/s/cormorantgaramond/v3/iEjm9hVxcattz37Y8gZwVSDaxQnMxYi0rwij4J-0vzQ.woff2 */
+		url('Cormorant_Garamond_600.woff2') format('woff2'),
+		/* from https://fonts.gstatic.com/l/font?kit=iEjm9hVxcattz37Y8gZwVQHrTSfT0OEsLnb5JS1a6Vk&skey=e242efc8b3e67934&v=v3#CormorantGaramond */
+		url('Cormorant_Garamond_600.svg#CormorantGaramond') format('svg'),
+		/* from https://fonts.gstatic.com/s/cormorantgaramond/v3/iEjm9hVxcattz37Y8gZwVX71SRp7iEcZunvsEDXrMGM.ttf */
+		url('Cormorant_Garamond_600.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Cormorant Garamond';
+	font-style: italic;
+	font-weight: 600;
+	src:
+		local('Cormorant Garamond SemiBold Italic'),
+		local('CormorantGaramond-SemiBoldItalic'),
+		/* from https://fonts.gstatic.com/s/cormorantgaramond/v3/zuqx3k1yUEl3Eavo-ZPEAs9J62uuWEX63OuAuRDWwUA.eot */
+		url('Cormorant_Garamond_600italic.eot?#iefix') format('embedded-opentype'),
+		/* from https://fonts.gstatic.com/s/cormorantgaramond/v3/zuqx3k1yUEl3Eavo-ZPEAiFOsv39XUIL1JdtCj5yE6A.woff */
+		url('Cormorant_Garamond_600italic.woff') format('woff'),
+		/* from https://fonts.gstatic.com/s/cormorantgaramond/v3/zuqx3k1yUEl3Eavo-ZPEAvuBmOAjgXjTgmI0gOXy3PQ.woff2 */
+		url('Cormorant_Garamond_600italic.woff2') format('woff2'),
+		/* from https://fonts.gstatic.com/l/font?kit=zuqx3k1yUEl3Eavo-ZPEAvR5Xnz5XYxDveevkuu08Wo&skey=d056cd8e7bb95ad3&v=v3#CormorantGaramond */
+		url('Cormorant_Garamond_600italic.svg#CormorantGaramond') format('svg'),
+		/* from https://fonts.gstatic.com/s/cormorantgaramond/v3/zuqx3k1yUEl3Eavo-ZPEAsUCiVZTo-JXJa6XqsPCVHg.ttf */
+		url('Cormorant_Garamond_600italic.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Cormorant Garamond';
+	font-style: normal;
+	font-weight: 700;
+	src:
+		local('Cormorant Garamond Bold'),
+		local('CormorantGaramond-Bold'),
+		/* from https://fonts.gstatic.com/s/cormorantgaramond/v3/iEjm9hVxcattz37Y8gZwVbCYi3_PUJJqGUzMdP59Ij4.eot */
+		url('Cormorant_Garamond_700.eot?#iefix') format('embedded-opentype'),
+		/* from https://fonts.gstatic.com/s/cormorantgaramond/v3/iEjm9hVxcattz37Y8gZwVcxEvrGxMmMLD21UBWfRwis.woff */
+		url('Cormorant_Garamond_700.woff') format('woff'),
+		/* from https://fonts.gstatic.com/s/cormorantgaramond/v3/iEjm9hVxcattz37Y8gZwVX9I6T0daTnoiQ8pbdYJRgI.woff2 */
+		url('Cormorant_Garamond_700.woff2') format('woff2'),
+		/* from https://fonts.gstatic.com/l/font?kit=iEjm9hVxcattz37Y8gZwVecOoGLnMCc6qVb8DnlTdjM&skey=3181ffd829cb74e8&v=v3#CormorantGaramond */
+		url('Cormorant_Garamond_700.svg#CormorantGaramond') format('svg'),
+		/* from https://fonts.gstatic.com/s/cormorantgaramond/v3/iEjm9hVxcattz37Y8gZwVSfTVYHkE7Q6l_m6H82D6QI.ttf */
+		url('Cormorant_Garamond_700.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Cormorant Garamond';
+	font-style: italic;
+	font-weight: 700;
+	src:
+		local('Cormorant Garamond Bold Italic'),
+		local('CormorantGaramond-BoldItalic'),
+		/* from https://fonts.gstatic.com/s/cormorantgaramond/v3/zuqx3k1yUEl3Eavo-ZPEAtoGHHA9uTnR0LAxJqWVx2U.eot */
+		url('Cormorant_Garamond_700italic.eot?#iefix') format('embedded-opentype'),
+		/* from https://fonts.gstatic.com/s/cormorantgaramond/v3/zuqx3k1yUEl3Eavo-ZPEApDJE9n0KeI0HkpYHJ2LJNY.woff */
+		url('Cormorant_Garamond_700italic.woff') format('woff'),
+		/* from https://fonts.gstatic.com/s/cormorantgaramond/v3/zuqx3k1yUEl3Eavo-ZPEAjU8ONjE7togmghLbfzbi70.woff2 */
+		url('Cormorant_Garamond_700italic.woff2') format('woff2'),
+		/* from https://fonts.gstatic.com/l/font?kit=zuqx3k1yUEl3Eavo-ZPEAlPqxt12q7OI7Kq1oaqy4Eg&skey=f5baa31c9854d669&v=v3#CormorantGaramond */
+		url('Cormorant_Garamond_700italic.svg#CormorantGaramond') format('svg'),
+		/* from https://fonts.gstatic.com/s/cormorantgaramond/v3/zuqx3k1yUEl3Eavo-ZPEAt8S1j5v-CP0qmZBFVt-now.ttf */
+		url('Cormorant_Garamond_700italic.ttf') format('truetype');
+}

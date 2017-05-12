@@ -1,0 +1,17 @@
+@font-face {
+	font-family: 'Satisfy';
+	font-style: normal;
+	font-weight: normal;
+	src:
+		local('Satisfy'),
+		/* from https://fonts.gstatic.com/s/satisfy/v6/swgYNTW5Q6X61bBH6SDBsg.eot */
+		url('Satisfy.eot?#iefix') format('embedded-opentype'),
+		/* from https://fonts.gstatic.com/s/satisfy/v6/ch7X2unYkww0EzsjlC3m8w.woff */
+		url('Satisfy.woff') format('woff'),
+		/* from https://fonts.gstatic.com/s/satisfy/v6/2OzALGYfHwQjkPYWELy-cw.woff2 */
+		url('Satisfy.woff2') format('woff2'),
+		/* from https://fonts.gstatic.com/l/font?kit=wE3yFOROaHvW9rif2x3Gdw&skey=b02738efc6e9caf3&v=v6#Satisfy */
+		url('Satisfy.svg#Satisfy') format('svg'),
+		/* from https://fonts.gstatic.com/s/satisfy/v6/kteN-TiU7KwgPz3aaBeTSQ.ttf */
+		url('Satisfy.ttf') format('truetype');
+}

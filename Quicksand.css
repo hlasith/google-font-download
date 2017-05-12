@@ -1,0 +1,72 @@
+@font-face {
+	font-family: 'Quicksand';
+	font-style: normal;
+	font-weight: 300;
+	src:
+		local('Quicksand Light'),
+		local('Quicksand-Light'),
+		/* from https://fonts.gstatic.com/s/quicksand/v6/qhfoJiLu10kFjChCCTvGlHZ2MAKAc2x4R1uOSeegc5U.eot */
+		url('Quicksand_300.eot?#iefix') format('embedded-opentype'),
+		/* from https://fonts.gstatic.com/s/quicksand/v6/qhfoJiLu10kFjChCCTvGlHhCUOGz7vYGh680lGh-uXM.woff */
+		url('Quicksand_300.woff') format('woff'),
+		/* from https://fonts.gstatic.com/s/quicksand/v6/qhfoJiLu10kFjChCCTvGlOgdm0LZdjqr5-oayXSOefg.woff2 */
+		url('Quicksand_300.woff2') format('woff2'),
+		/* from https://fonts.gstatic.com/l/font?kit=qhfoJiLu10kFjChCCTvGlFlIn5tFQcqMuf-jhyJP0ps&skey=2d4bb97196ce133f&v=v6#Quicksand */
+		url('Quicksand_300.svg#Quicksand') format('svg'),
+		/* from https://fonts.gstatic.com/s/quicksand/v6/qhfoJiLu10kFjChCCTvGlInF5uFdDttMLvmWuJdhhgs.ttf */
+		url('Quicksand_300.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Quicksand';
+	font-style: normal;
+	font-weight: normal;
+	src:
+		local('Quicksand Regular'),
+		local('Quicksand-Regular'),
+		/* from https://fonts.gstatic.com/s/quicksand/v6/sKd0EMYPAh5PYCRKSryvW_Y6323mHUZFJMgTvxaG2iE.eot */
+		url('Quicksand.eot?#iefix') format('embedded-opentype'),
+		/* from https://fonts.gstatic.com/s/quicksand/v6/sKd0EMYPAh5PYCRKSryvWz8E0i7KZn-EPnyo3HZu7kw.woff */
+		url('Quicksand.woff') format('woff'),
+		/* from https://fonts.gstatic.com/s/quicksand/v6/sKd0EMYPAh5PYCRKSryvW1tXRa8TVwTICgirnJhmVJw.woff2 */
+		url('Quicksand.woff2') format('woff2'),
+		/* from https://fonts.gstatic.com/l/font?kit=sKd0EMYPAh5PYCRKSryvW5bd9NUM7myrQQz30yPaGQ4&skey=c01f11fa5439d932&v=v6#Quicksand */
+		url('Quicksand.svg#Quicksand') format('svg'),
+		/* from https://fonts.gstatic.com/s/quicksand/v6/sKd0EMYPAh5PYCRKSryvW6CWcynf_cDxXwCLxiixG1c.ttf */
+		url('Quicksand.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Quicksand';
+	font-style: normal;
+	font-weight: 500;
+	src:
+		local('Quicksand Medium'),
+		local('Quicksand-Medium'),
+		/* from https://fonts.gstatic.com/s/quicksand/v6/FRGja7LlrG1Mypm0hCq0DnZ2MAKAc2x4R1uOSeegc5U.eot */
+		url('Quicksand_500.eot?#iefix') format('embedded-opentype'),
+		/* from https://fonts.gstatic.com/s/quicksand/v6/FRGja7LlrG1Mypm0hCq0DnhCUOGz7vYGh680lGh-uXM.woff */
+		url('Quicksand_500.woff') format('woff'),
+		/* from https://fonts.gstatic.com/s/quicksand/v6/FRGja7LlrG1Mypm0hCq0Dugdm0LZdjqr5-oayXSOefg.woff2 */
+		url('Quicksand_500.woff2') format('woff2'),
+		/* from https://fonts.gstatic.com/l/font?kit=FRGja7LlrG1Mypm0hCq0DllIn5tFQcqMuf-jhyJP0ps&skey=a73c60808d08a6bd&v=v6#Quicksand */
+		url('Quicksand_500.svg#Quicksand') format('svg'),
+		/* from https://fonts.gstatic.com/s/quicksand/v6/FRGja7LlrG1Mypm0hCq0DonF5uFdDttMLvmWuJdhhgs.ttf */
+		url('Quicksand_500.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Quicksand';
+	font-style: normal;
+	font-weight: 700;
+	src:
+		local('Quicksand Bold'),
+		local('Quicksand-Bold'),
+		/* from https://fonts.gstatic.com/s/quicksand/v6/32nyIRHyCu6iqEka_hbKsnZ2MAKAc2x4R1uOSeegc5U.eot */
+		url('Quicksand_700.eot?#iefix') format('embedded-opentype'),
+		/* from https://fonts.gstatic.com/s/quicksand/v6/32nyIRHyCu6iqEka_hbKsnhCUOGz7vYGh680lGh-uXM.woff */
+		url('Quicksand_700.woff') format('woff'),
+		/* from https://fonts.gstatic.com/s/quicksand/v6/32nyIRHyCu6iqEka_hbKsugdm0LZdjqr5-oayXSOefg.woff2 */
+		url('Quicksand_700.woff2') format('woff2'),
+		/* from https://fonts.gstatic.com/l/font?kit=32nyIRHyCu6iqEka_hbKsllIn5tFQcqMuf-jhyJP0ps&skey=3b806e53849c496e&v=v6#Quicksand */
+		url('Quicksand_700.svg#Quicksand') format('svg'),
+		/* from https://fonts.gstatic.com/s/quicksand/v6/32nyIRHyCu6iqEka_hbKsonF5uFdDttMLvmWuJdhhgs.ttf */
+		url('Quicksand_700.ttf') format('truetype');
+}

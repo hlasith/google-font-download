@@ -1,0 +1,18 @@
+@font-face {
+	font-family: 'Pontano Sans';
+	font-style: normal;
+	font-weight: normal;
+	src:
+		local('Pontano Sans'),
+		local('PontanoSans-Regular'),
+		/* from https://fonts.gstatic.com/s/pontanosans/v4/gTHiwyxi6S7iiHpqAoiE3HZ2MAKAc2x4R1uOSeegc5U.eot */
+		url('Pontano_Sans.eot?#iefix') format('embedded-opentype'),
+		/* from https://fonts.gstatic.com/s/pontanosans/v4/gTHiwyxi6S7iiHpqAoiE3HhCUOGz7vYGh680lGh-uXM.woff */
+		url('Pontano_Sans.woff') format('woff'),
+		/* from https://fonts.gstatic.com/s/pontanosans/v4/gTHiwyxi6S7iiHpqAoiE3Ogdm0LZdjqr5-oayXSOefg.woff2 */
+		url('Pontano_Sans.woff2') format('woff2'),
+		/* from https://fonts.gstatic.com/l/font?kit=gTHiwyxi6S7iiHpqAoiE3FlIn5tFQcqMuf-jhyJP0ps&skey=cda8bdd9728eb093&v=v4#PontanoSans */
+		url('Pontano_Sans.svg#PontanoSans') format('svg'),
+		/* from https://fonts.gstatic.com/s/pontanosans/v4/gTHiwyxi6S7iiHpqAoiE3InF5uFdDttMLvmWuJdhhgs.ttf */
+		url('Pontano_Sans.ttf') format('truetype');
+}

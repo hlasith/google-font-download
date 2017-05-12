@@ -1,0 +1,90 @@
+@font-face {
+	font-family: 'Hind';
+	font-style: normal;
+	font-weight: 300;
+	src:
+		local('Hind Light'),
+		local('Hind-Light'),
+		/* from https://fonts.gstatic.com/s/hind/v6/0MChGzeidNoUW73HGw5PzQ.eot */
+		url('Hind_300.eot?#iefix') format('embedded-opentype'),
+		/* from https://fonts.gstatic.com/s/hind/v6/R5nyNcvoz7n0iBHxjY_LyQ.woff */
+		url('Hind_300.woff') format('woff'),
+		/* from https://fonts.gstatic.com/s/hind/v6/0IXD51eZ8qgi73bhvRidlQ.woff2 */
+		url('Hind_300.woff2') format('woff2'),
+		/* from https://fonts.gstatic.com/l/font?kit=HouvnnfhUAVKasrmjRdkuA&skey=67a5c17d8888694b&v=v6#Hind */
+		url('Hind_300.svg#Hind') format('svg'),
+		/* from https://fonts.gstatic.com/s/hind/v6/ovjfFuI0qshJ4pjW8a52hA.ttf */
+		url('Hind_300.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Hind';
+	font-style: normal;
+	font-weight: normal;
+	src:
+		local('Hind'),
+		local('Hind-Regular'),
+		/* from https://fonts.gstatic.com/s/hind/v6/1LM4Wjs-6TF3Sw-KGDsIOw.eot */
+		url('Hind.eot?#iefix') format('embedded-opentype'),
+		/* from https://fonts.gstatic.com/s/hind/v6/mjitrc9VnL7D7tS-i3g3XQ.woff */
+		url('Hind.woff') format('woff'),
+		/* from https://fonts.gstatic.com/s/hind/v6/xLdg5JI0N_C2fvyu9XVzXg.woff2 */
+		url('Hind.woff2') format('woff2'),
+		/* from https://fonts.gstatic.com/l/font?kit=njVfKzL3Td4Udo0nhiHxLQ&skey=88b46a73a32439b3&v=v6#Hind */
+		url('Hind.svg#Hind') format('svg'),
+		/* from https://fonts.gstatic.com/s/hind/v6/nz5dxQAyXAGLFHmmJlZXFg.ttf */
+		url('Hind.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Hind';
+	font-style: normal;
+	font-weight: 500;
+	src:
+		local('Hind Medium'),
+		local('Hind-Medium'),
+		/* from https://fonts.gstatic.com/s/hind/v6/pCDvW-M5L0XFt22GiXzWxw.eot */
+		url('Hind_500.eot?#iefix') format('embedded-opentype'),
+		/* from https://fonts.gstatic.com/s/hind/v6/yATwQM0pIZXIFPrEDZyOHg.woff */
+		url('Hind_500.woff') format('woff'),
+		/* from https://fonts.gstatic.com/s/hind/v6/_JiDQLq4JWzs7prWhNNmuA.woff2 */
+		url('Hind_500.woff2') format('woff2'),
+		/* from https://fonts.gstatic.com/l/font?kit=InRlHT6zPtn7ZobD1yN-Vw&skey=240cc253f5a86f17&v=v6#Hind */
+		url('Hind_500.svg#Hind') format('svg'),
+		/* from https://fonts.gstatic.com/s/hind/v6/GSrOz960_Sk2fwhd1d3CUw.ttf */
+		url('Hind_500.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Hind';
+	font-style: normal;
+	font-weight: 600;
+	src:
+		local('Hind SemiBold'),
+		local('Hind-SemiBold'),
+		/* from https://fonts.gstatic.com/s/hind/v6/Uy23CXeLYj5ORbaUwp4G2Q.eot */
+		url('Hind_600.eot?#iefix') format('embedded-opentype'),
+		/* from https://fonts.gstatic.com/s/hind/v6/2dBELi3ZbivnVPt1KR2lhQ.woff */
+		url('Hind_600.woff') format('woff'),
+		/* from https://fonts.gstatic.com/s/hind/v6/A2xpLU2z2kq5byuh5bkohg.woff2 */
+		url('Hind_600.woff2') format('woff2'),
+		/* from https://fonts.gstatic.com/l/font?kit=JkBbsKNRJCsICkxgZDWHUQ&skey=da2b34d6f21b4cf5&v=v6#Hind */
+		url('Hind_600.svg#Hind') format('svg'),
+		/* from https://fonts.gstatic.com/s/hind/v6/A-DXAAbcCXVlYOVdE3bANQ.ttf */
+		url('Hind_600.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Hind';
+	font-style: normal;
+	font-weight: 700;
+	src:
+		local('Hind Bold'),
+		local('Hind-Bold'),
+		/* from https://fonts.gstatic.com/s/hind/v6/8cnITayai1nO3K593GnDYg.eot */
+		url('Hind_700.eot?#iefix') format('embedded-opentype'),
+		/* from https://fonts.gstatic.com/s/hind/v6/lyIZFqDTaXXyAxN6-svvJg.woff */
+		url('Hind_700.woff') format('woff'),
+		/* from https://fonts.gstatic.com/s/hind/v6/PQuIEfcr_wdF_zOSNjqWKQ.woff2 */
+		url('Hind_700.woff2') format('woff2'),
+		/* from https://fonts.gstatic.com/l/font?kit=vyLJJxdNNiiSPw8GXvW0Sw&skey=9c157a14144029ee&v=v6#Hind */
+		url('Hind_700.svg#Hind') format('svg'),
+		/* from https://fonts.gstatic.com/s/hind/v6/akA3ImRNyYfKy4MBs09Paw.ttf */
+		url('Hind_700.ttf') format('truetype');
+}

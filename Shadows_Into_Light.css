@@ -1,0 +1,18 @@
+@font-face {
+	font-family: 'Shadows Into Light';
+	font-style: normal;
+	font-weight: normal;
+	src:
+		local('Shadows Into Light'),
+		local('ShadowsIntoLight'),
+		/* from https://fonts.gstatic.com/s/shadowsintolight/v6/clhLqOv7MXn459PTh0gXYOb62E_zbtdBeaf9nLDgIoU.eot */
+		url('Shadows_Into_Light.eot?#iefix') format('embedded-opentype'),
+		/* from https://fonts.gstatic.com/s/shadowsintolight/v6/clhLqOv7MXn459PTh0gXYHW1xglZCgocDnD_teV2lMU.woff */
+		url('Shadows_Into_Light.woff') format('woff'),
+		/* from https://fonts.gstatic.com/s/shadowsintolight/v6/clhLqOv7MXn459PTh0gXYFK2TSYBz0eNcHnp4YqE4Ts.woff2 */
+		url('Shadows_Into_Light.woff2') format('woff2'),
+		/* from https://fonts.gstatic.com/l/font?kit=clhLqOv7MXn459PTh0gXYAyQ512XOMancT1JC3X9-5s&skey=d59d8f871dbcf35e&v=v6#ShadowsIntoLight */
+		url('Shadows_Into_Light.svg#ShadowsIntoLight') format('svg'),
+		/* from https://fonts.gstatic.com/s/shadowsintolight/v6/clhLqOv7MXn459PTh0gXYBayoCksK7A5ZWkzVNukUdQ.ttf */
+		url('Shadows_Into_Light.ttf') format('truetype');
+}

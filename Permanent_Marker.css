@@ -1,0 +1,18 @@
+@font-face {
+	font-family: 'Permanent Marker';
+	font-style: normal;
+	font-weight: normal;
+	src:
+		local('Permanent Marker'),
+		local('PermanentMarker'),
+		/* from https://fonts.gstatic.com/s/permanentmarker/v5/9vYsg5VgPHKK8SXYbf3sMhl1E_8U4SpYtCavOB-IMDg.eot */
+		url('Permanent_Marker.eot?#iefix') format('embedded-opentype'),
+		/* from https://fonts.gstatic.com/s/permanentmarker/v5/9vYsg5VgPHKK8SXYbf3sMupm9E4gBdgiUiSJePew_SQ.woff */
+		url('Permanent_Marker.woff') format('woff'),
+		/* from https://fonts.gstatic.com/s/permanentmarker/v5/9vYsg5VgPHKK8SXYbf3sMsW72xVeg1938eUHStY_AJ4.woff2 */
+		url('Permanent_Marker.woff2') format('woff2'),
+		/* from https://fonts.gstatic.com/l/font?kit=9vYsg5VgPHKK8SXYbf3sMnun_M_OMvfRqqwdtVuHdps&skey=84f486597b8007d1&v=v5#PermanentMarker */
+		url('Permanent_Marker.svg#PermanentMarker') format('svg'),
+		/* from https://fonts.gstatic.com/s/permanentmarker/v5/9vYsg5VgPHKK8SXYbf3sMrg27BfaRSB61e9iDGqjWqk.ttf */
+		url('Permanent_Marker.ttf') format('truetype');
+}

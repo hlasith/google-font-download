@@ -1,0 +1,18 @@
+@font-face {
+	font-family: 'Acme';
+	font-style: normal;
+	font-weight: normal;
+	src:
+		local('Acme Regular'),
+		local('Acme-Regular'),
+		/* from https://fonts.gstatic.com/s/acme/v6/NnjH_Kn2W_0sKAeu8NUy_g.eot */
+		url('Acme.eot?#iefix') format('embedded-opentype'),
+		/* from https://fonts.gstatic.com/s/acme/v6/-nVwQJDyFoBcrvpER8f-lA.woff */
+		url('Acme.woff') format('woff'),
+		/* from https://fonts.gstatic.com/s/acme/v6/CMfjQTCaAjBuWy3e4bQMZA.woff2 */
+		url('Acme.woff2') format('woff2'),
+		/* from https://fonts.gstatic.com/l/font?kit=AL_5hBTykkmi2e47bcAkZA&skey=dcf71eb6104dcefb&v=v6#Acme */
+		url('Acme.svg#Acme') format('svg'),
+		/* from https://fonts.gstatic.com/s/acme/v6/h0STFiiHJJuefGZJAxrSiA.ttf */
+		url('Acme.ttf') format('truetype');
+}

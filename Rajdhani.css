@@ -1,0 +1,90 @@
+@font-face {
+	font-family: 'Rajdhani';
+	font-style: normal;
+	font-weight: 300;
+	src:
+		local('Rajdhani Light'),
+		local('Rajdhani-Light'),
+		/* from https://fonts.gstatic.com/s/rajdhani/v5/em1T6bxBT1C9Ui5lcPwYd2fQcKutQXcIrRfyR5jdjY8.eot */
+		url('Rajdhani_300.eot?#iefix') format('embedded-opentype'),
+		/* from https://fonts.gstatic.com/s/rajdhani/v5/em1T6bxBT1C9Ui5lcPwYd4bN6UDyHWBl620a-IRfuBk.woff */
+		url('Rajdhani_300.woff') format('woff'),
+		/* from https://fonts.gstatic.com/s/rajdhani/v5/em1T6bxBT1C9Ui5lcPwYd44P5ICox8Kq3LLUNMylGO4.woff2 */
+		url('Rajdhani_300.woff2') format('woff2'),
+		/* from https://fonts.gstatic.com/l/font?kit=em1T6bxBT1C9Ui5lcPwYd3NsigHlcrQGNV8nkUSFQfc&skey=d525f62b6050085b&v=v5#Rajdhani */
+		url('Rajdhani_300.svg#Rajdhani') format('svg'),
+		/* from https://fonts.gstatic.com/s/rajdhani/v5/em1T6bxBT1C9Ui5lcPwYd50EAVxt0G0biEntp43Qt6E.ttf */
+		url('Rajdhani_300.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Rajdhani';
+	font-style: normal;
+	font-weight: normal;
+	src:
+		local('Rajdhani'),
+		local('Rajdhani-Regular'),
+		/* from https://fonts.gstatic.com/s/rajdhani/v5/krHgIyXYWx-DssE80G1TJPesZW2xOQ-xsNqO47m55DA.eot */
+		url('Rajdhani.eot?#iefix') format('embedded-opentype'),
+		/* from https://fonts.gstatic.com/s/rajdhani/v5/5FqxpRLIg1FSapgVo_zNKfesZW2xOQ-xsNqO47m55DA.woff */
+		url('Rajdhani.woff') format('woff'),
+		/* from https://fonts.gstatic.com/s/rajdhani/v5/tz3398jtBIhi1rrADn6BZvesZW2xOQ-xsNqO47m55DA.woff2 */
+		url('Rajdhani.woff2') format('woff2'),
+		/* from https://fonts.gstatic.com/l/font?kit=BQbRtADOkbnwlGzw7wiVXvesZW2xOQ-xsNqO47m55DA&skey=2a58cb2a05429b83&v=v5#Rajdhani */
+		url('Rajdhani.svg#Rajdhani') format('svg'),
+		/* from https://fonts.gstatic.com/s/rajdhani/v5/DG8mXG-5TR8cZWqlGcHP5PesZW2xOQ-xsNqO47m55DA.ttf */
+		url('Rajdhani.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Rajdhani';
+	font-style: normal;
+	font-weight: 500;
+	src:
+		local('Rajdhani Medium'),
+		local('Rajdhani-Medium'),
+		/* from https://fonts.gstatic.com/s/rajdhani/v5/fMdPRPskyY3ckg8ymVQ5NmfQcKutQXcIrRfyR5jdjY8.eot */
+		url('Rajdhani_500.eot?#iefix') format('embedded-opentype'),
+		/* from https://fonts.gstatic.com/s/rajdhani/v5/fMdPRPskyY3ckg8ymVQ5NobN6UDyHWBl620a-IRfuBk.woff */
+		url('Rajdhani_500.woff') format('woff'),
+		/* from https://fonts.gstatic.com/s/rajdhani/v5/fMdPRPskyY3ckg8ymVQ5No4P5ICox8Kq3LLUNMylGO4.woff2 */
+		url('Rajdhani_500.woff2') format('woff2'),
+		/* from https://fonts.gstatic.com/l/font?kit=fMdPRPskyY3ckg8ymVQ5NnNsigHlcrQGNV8nkUSFQfc&skey=74a1e835cd8e18f4&v=v5#Rajdhani */
+		url('Rajdhani_500.svg#Rajdhani') format('svg'),
+		/* from https://fonts.gstatic.com/s/rajdhani/v5/fMdPRPskyY3ckg8ymVQ5Np0EAVxt0G0biEntp43Qt6E.ttf */
+		url('Rajdhani_500.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Rajdhani';
+	font-style: normal;
+	font-weight: 600;
+	src:
+		local('Rajdhani Semibold'),
+		local('Rajdhani-Semibold'),
+		/* from https://fonts.gstatic.com/s/rajdhani/v5/kA7V7gLI3uMMlXWrnQ_35WfQcKutQXcIrRfyR5jdjY8.eot */
+		url('Rajdhani_600.eot?#iefix') format('embedded-opentype'),
+		/* from https://fonts.gstatic.com/s/rajdhani/v5/kA7V7gLI3uMMlXWrnQ_35YbN6UDyHWBl620a-IRfuBk.woff */
+		url('Rajdhani_600.woff') format('woff'),
+		/* from https://fonts.gstatic.com/s/rajdhani/v5/kA7V7gLI3uMMlXWrnQ_35Y4P5ICox8Kq3LLUNMylGO4.woff2 */
+		url('Rajdhani_600.woff2') format('woff2'),
+		/* from https://fonts.gstatic.com/l/font?kit=kA7V7gLI3uMMlXWrnQ_35XNsigHlcrQGNV8nkUSFQfc&skey=d9fd2c812bccb92a&v=v5#Rajdhani */
+		url('Rajdhani_600.svg#Rajdhani') format('svg'),
+		/* from https://fonts.gstatic.com/s/rajdhani/v5/kA7V7gLI3uMMlXWrnQ_35Z0EAVxt0G0biEntp43Qt6E.ttf */
+		url('Rajdhani_600.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Rajdhani';
+	font-style: normal;
+	font-weight: 700;
+	src:
+		local('Rajdhani Bold'),
+		local('Rajdhani-Bold'),
+		/* from https://fonts.gstatic.com/s/rajdhani/v5/kcO_Mk7pjy8jlu86STaVz2fQcKutQXcIrRfyR5jdjY8.eot */
+		url('Rajdhani_700.eot?#iefix') format('embedded-opentype'),
+		/* from https://fonts.gstatic.com/s/rajdhani/v5/kcO_Mk7pjy8jlu86STaVz4bN6UDyHWBl620a-IRfuBk.woff */
+		url('Rajdhani_700.woff') format('woff'),
+		/* from https://fonts.gstatic.com/s/rajdhani/v5/kcO_Mk7pjy8jlu86STaVz44P5ICox8Kq3LLUNMylGO4.woff2 */
+		url('Rajdhani_700.woff2') format('woff2'),
+		/* from https://fonts.gstatic.com/l/font?kit=kcO_Mk7pjy8jlu86STaVz3NsigHlcrQGNV8nkUSFQfc&skey=62da9ba9ee2528b4&v=v5#Rajdhani */
+		url('Rajdhani_700.svg#Rajdhani') format('svg'),
+		/* from https://fonts.gstatic.com/s/rajdhani/v5/kcO_Mk7pjy8jlu86STaVz50EAVxt0G0biEntp43Qt6E.ttf */
+		url('Rajdhani_700.ttf') format('truetype');
+}

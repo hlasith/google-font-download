@@ -1,0 +1,162 @@
+@font-face {
+	font-family: 'Rokkitt';
+	font-style: normal;
+	font-weight: 100;
+	src:
+		local('Rokkitt Thin'),
+		local('Rokkitt-Thin'),
+		/* from https://fonts.gstatic.com/s/rokkitt/v11/M2qVwCFahD7YnZ_pfJiJtfY6323mHUZFJMgTvxaG2iE.eot */
+		url('Rokkitt_100.eot?#iefix') format('embedded-opentype'),
+		/* from https://fonts.gstatic.com/s/rokkitt/v11/M2qVwCFahD7YnZ_pfJiJtT8E0i7KZn-EPnyo3HZu7kw.woff */
+		url('Rokkitt_100.woff') format('woff'),
+		/* from https://fonts.gstatic.com/s/rokkitt/v11/M2qVwCFahD7YnZ_pfJiJtVtXRa8TVwTICgirnJhmVJw.woff2 */
+		url('Rokkitt_100.woff2') format('woff2'),
+		/* from https://fonts.gstatic.com/l/font?kit=M2qVwCFahD7YnZ_pfJiJtZbd9NUM7myrQQz30yPaGQ4&skey=8d280afa969fe836&v=v11#Rokkitt */
+		url('Rokkitt_100.svg#Rokkitt') format('svg'),
+		/* from https://fonts.gstatic.com/s/rokkitt/v11/M2qVwCFahD7YnZ_pfJiJtaCWcynf_cDxXwCLxiixG1c.ttf */
+		url('Rokkitt_100.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Rokkitt';
+	font-style: normal;
+	font-weight: 200;
+	src:
+		local('Rokkitt ExtraLight'),
+		local('Rokkitt-ExtraLight'),
+		/* from https://fonts.gstatic.com/s/rokkitt/v11/0WAt8U-wuiVSpONe9df_LFQlYEbsez9cZjKsNMjLOwM.eot */
+		url('Rokkitt_200.eot?#iefix') format('embedded-opentype'),
+		/* from https://fonts.gstatic.com/s/rokkitt/v11/0WAt8U-wuiVSpONe9df_LBsxEYwM7FgeyaSgU71cLG0.woff */
+		url('Rokkitt_200.woff') format('woff'),
+		/* from https://fonts.gstatic.com/s/rokkitt/v11/0WAt8U-wuiVSpONe9df_LPk_vArhqVIZ0nv9q090hN8.woff2 */
+		url('Rokkitt_200.woff2') format('woff2'),
+		/* from https://fonts.gstatic.com/l/font?kit=0WAt8U-wuiVSpONe9df_LKWUboTb-jS2tyCOQMtm97g&skey=1a901fd086b34200&v=v11#Rokkitt */
+		url('Rokkitt_200.svg#Rokkitt') format('svg'),
+		/* from https://fonts.gstatic.com/s/rokkitt/v11/0WAt8U-wuiVSpONe9df_LC3USBnSvpkopQaUR-2r7iU.ttf */
+		url('Rokkitt_200.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Rokkitt';
+	font-style: normal;
+	font-weight: 300;
+	src:
+		local('Rokkitt Light'),
+		local('Rokkitt-Light'),
+		/* from https://fonts.gstatic.com/s/rokkitt/v11/9TgSUwlZbr9Rq-Wyc1MGj1QlYEbsez9cZjKsNMjLOwM.eot */
+		url('Rokkitt_300.eot?#iefix') format('embedded-opentype'),
+		/* from https://fonts.gstatic.com/s/rokkitt/v11/9TgSUwlZbr9Rq-Wyc1MGjxsxEYwM7FgeyaSgU71cLG0.woff */
+		url('Rokkitt_300.woff') format('woff'),
+		/* from https://fonts.gstatic.com/s/rokkitt/v11/9TgSUwlZbr9Rq-Wyc1MGj_k_vArhqVIZ0nv9q090hN8.woff2 */
+		url('Rokkitt_300.woff2') format('woff2'),
+		/* from https://fonts.gstatic.com/l/font?kit=9TgSUwlZbr9Rq-Wyc1MGj6WUboTb-jS2tyCOQMtm97g&skey=d10f6d7bce6e496a&v=v11#Rokkitt */
+		url('Rokkitt_300.svg#Rokkitt') format('svg'),
+		/* from https://fonts.gstatic.com/s/rokkitt/v11/9TgSUwlZbr9Rq-Wyc1MGjy3USBnSvpkopQaUR-2r7iU.ttf */
+		url('Rokkitt_300.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Rokkitt';
+	font-style: normal;
+	font-weight: normal;
+	src:
+		local('Rokkitt Regular'),
+		local('Rokkitt-Regular'),
+		/* from https://fonts.gstatic.com/s/rokkitt/v11/5gWwNxgds7YXZCRqZwhDGg.eot */
+		url('Rokkitt.eot?#iefix') format('embedded-opentype'),
+		/* from https://fonts.gstatic.com/s/rokkitt/v11/4Z-2qkHrI1biwaOxvW6ZTA.woff */
+		url('Rokkitt.woff') format('woff'),
+		/* from https://fonts.gstatic.com/s/rokkitt/v11/Uu8b3yBtxQPmPTMr0WQ_CA.woff2 */
+		url('Rokkitt.woff2') format('woff2'),
+		/* from https://fonts.gstatic.com/l/font?kit=6cT2KWn6k8LOSZlBVlkGaQ&skey=f4f08a3aff21f57&v=v11#Rokkitt */
+		url('Rokkitt.svg#Rokkitt') format('svg'),
+		/* from https://fonts.gstatic.com/s/rokkitt/v11/sr63xTucDSbOV6kDLSAZiA.ttf */
+		url('Rokkitt.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Rokkitt';
+	font-style: normal;
+	font-weight: 500;
+	src:
+		local('Rokkitt Medium'),
+		local('Rokkitt-Medium'),
+		/* from https://fonts.gstatic.com/s/rokkitt/v11/IHj_MXSS8N5o0bY1ZlMYOVQlYEbsez9cZjKsNMjLOwM.eot */
+		url('Rokkitt_500.eot?#iefix') format('embedded-opentype'),
+		/* from https://fonts.gstatic.com/s/rokkitt/v11/IHj_MXSS8N5o0bY1ZlMYORsxEYwM7FgeyaSgU71cLG0.woff */
+		url('Rokkitt_500.woff') format('woff'),
+		/* from https://fonts.gstatic.com/s/rokkitt/v11/IHj_MXSS8N5o0bY1ZlMYOfk_vArhqVIZ0nv9q090hN8.woff2 */
+		url('Rokkitt_500.woff2') format('woff2'),
+		/* from https://fonts.gstatic.com/l/font?kit=IHj_MXSS8N5o0bY1ZlMYOaWUboTb-jS2tyCOQMtm97g&skey=cdef641cb4a68d38&v=v11#Rokkitt */
+		url('Rokkitt_500.svg#Rokkitt') format('svg'),
+		/* from https://fonts.gstatic.com/s/rokkitt/v11/IHj_MXSS8N5o0bY1ZlMYOS3USBnSvpkopQaUR-2r7iU.ttf */
+		url('Rokkitt_500.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Rokkitt';
+	font-style: normal;
+	font-weight: 600;
+	src:
+		local('Rokkitt SemiBold'),
+		local('Rokkitt-SemiBold'),
+		/* from https://fonts.gstatic.com/s/rokkitt/v11/qQa_YKrZQRYPQ0AMem2gJlQlYEbsez9cZjKsNMjLOwM.eot */
+		url('Rokkitt_600.eot?#iefix') format('embedded-opentype'),
+		/* from https://fonts.gstatic.com/s/rokkitt/v11/qQa_YKrZQRYPQ0AMem2gJhsxEYwM7FgeyaSgU71cLG0.woff */
+		url('Rokkitt_600.woff') format('woff'),
+		/* from https://fonts.gstatic.com/s/rokkitt/v11/qQa_YKrZQRYPQ0AMem2gJvk_vArhqVIZ0nv9q090hN8.woff2 */
+		url('Rokkitt_600.woff2') format('woff2'),
+		/* from https://fonts.gstatic.com/l/font?kit=qQa_YKrZQRYPQ0AMem2gJqWUboTb-jS2tyCOQMtm97g&skey=6d42be98f6900af3&v=v11#Rokkitt */
+		url('Rokkitt_600.svg#Rokkitt') format('svg'),
+		/* from https://fonts.gstatic.com/s/rokkitt/v11/qQa_YKrZQRYPQ0AMem2gJi3USBnSvpkopQaUR-2r7iU.ttf */
+		url('Rokkitt_600.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Rokkitt';
+	font-style: normal;
+	font-weight: 700;
+	src:
+		local('Rokkitt Bold'),
+		local('Rokkitt-Bold'),
+		/* from https://fonts.gstatic.com/s/rokkitt/v11/Mef17w3J4CtS0lw4Wa_8r1QlYEbsez9cZjKsNMjLOwM.eot */
+		url('Rokkitt_700.eot?#iefix') format('embedded-opentype'),
+		/* from https://fonts.gstatic.com/s/rokkitt/v11/Mef17w3J4CtS0lw4Wa_8rxsxEYwM7FgeyaSgU71cLG0.woff */
+		url('Rokkitt_700.woff') format('woff'),
+		/* from https://fonts.gstatic.com/s/rokkitt/v11/Mef17w3J4CtS0lw4Wa_8r_k_vArhqVIZ0nv9q090hN8.woff2 */
+		url('Rokkitt_700.woff2') format('woff2'),
+		/* from https://fonts.gstatic.com/l/font?kit=Mef17w3J4CtS0lw4Wa_8r6WUboTb-jS2tyCOQMtm97g&skey=85797d706595438&v=v11#Rokkitt */
+		url('Rokkitt_700.svg#Rokkitt') format('svg'),
+		/* from https://fonts.gstatic.com/s/rokkitt/v11/Mef17w3J4CtS0lw4Wa_8ry3USBnSvpkopQaUR-2r7iU.ttf */
+		url('Rokkitt_700.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Rokkitt';
+	font-style: normal;
+	font-weight: 800;
+	src:
+		local('Rokkitt ExtraBold'),
+		local('Rokkitt-ExtraBold'),
+		/* from https://fonts.gstatic.com/s/rokkitt/v11/ZtMHta7r9uszQ6oIzuo0-1QlYEbsez9cZjKsNMjLOwM.eot */
+		url('Rokkitt_800.eot?#iefix') format('embedded-opentype'),
+		/* from https://fonts.gstatic.com/s/rokkitt/v11/ZtMHta7r9uszQ6oIzuo0-xsxEYwM7FgeyaSgU71cLG0.woff */
+		url('Rokkitt_800.woff') format('woff'),
+		/* from https://fonts.gstatic.com/s/rokkitt/v11/ZtMHta7r9uszQ6oIzuo0-_k_vArhqVIZ0nv9q090hN8.woff2 */
+		url('Rokkitt_800.woff2') format('woff2'),
+		/* from https://fonts.gstatic.com/l/font?kit=ZtMHta7r9uszQ6oIzuo0-6WUboTb-jS2tyCOQMtm97g&skey=14e4c2dd2e4958d&v=v11#Rokkitt */
+		url('Rokkitt_800.svg#Rokkitt') format('svg'),
+		/* from https://fonts.gstatic.com/s/rokkitt/v11/ZtMHta7r9uszQ6oIzuo0-y3USBnSvpkopQaUR-2r7iU.ttf */
+		url('Rokkitt_800.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Rokkitt';
+	font-style: normal;
+	font-weight: 900;
+	src:
+		local('Rokkitt Black'),
+		local('Rokkitt-Black'),
+		/* from https://fonts.gstatic.com/s/rokkitt/v11/21mLl0DTy1x3XqgqnYeC5FQlYEbsez9cZjKsNMjLOwM.eot */
+		url('Rokkitt_900.eot?#iefix') format('embedded-opentype'),
+		/* from https://fonts.gstatic.com/s/rokkitt/v11/21mLl0DTy1x3XqgqnYeC5BsxEYwM7FgeyaSgU71cLG0.woff */
+		url('Rokkitt_900.woff') format('woff'),
+		/* from https://fonts.gstatic.com/s/rokkitt/v11/21mLl0DTy1x3XqgqnYeC5Pk_vArhqVIZ0nv9q090hN8.woff2 */
+		url('Rokkitt_900.woff2') format('woff2'),
+		/* from https://fonts.gstatic.com/l/font?kit=21mLl0DTy1x3XqgqnYeC5KWUboTb-jS2tyCOQMtm97g&skey=35398634f02e3b8a&v=v11#Rokkitt */
+		url('Rokkitt_900.svg#Rokkitt') format('svg'),
+		/* from https://fonts.gstatic.com/s/rokkitt/v11/21mLl0DTy1x3XqgqnYeC5C3USBnSvpkopQaUR-2r7iU.ttf */
+		url('Rokkitt_900.ttf') format('truetype');
+}

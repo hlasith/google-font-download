@@ -1,0 +1,53 @@
+@font-face {
+	font-family: 'Gudea';
+	font-style: normal;
+	font-weight: normal;
+	src:
+		local('Gudea'),
+		/* from https://fonts.gstatic.com/s/gudea/v4/xnIrmcqnMQ-7ZqWOJs7CoA.eot */
+		url('Gudea.eot?#iefix') format('embedded-opentype'),
+		/* from https://fonts.gstatic.com/s/gudea/v4/Z6xYy_2MlN1cUISkeodEPA.woff */
+		url('Gudea.woff') format('woff'),
+		/* from https://fonts.gstatic.com/s/gudea/v4/WTDyO8MdshuMhAnoLO0WMw.woff2 */
+		url('Gudea.woff2') format('woff2'),
+		/* from https://fonts.gstatic.com/l/font?kit=qOix1NOFJQySqUkTkymDMg&skey=cabc1f7b4ae0fcd9&v=v4#Gudea */
+		url('Gudea.svg#Gudea') format('svg'),
+		/* from https://fonts.gstatic.com/s/gudea/v4/TJBgbd7QSbnZkQrnM77kmw.ttf */
+		url('Gudea.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Gudea';
+	font-style: italic;
+	font-weight: normal;
+	src:
+		local('Gudea Italic'),
+		local('Gudea-Italic'),
+		/* from https://fonts.gstatic.com/s/gudea/v4/Z_lb9gBqiC1MSM7251z7_Q.eot */
+		url('Gudea_italic.eot?#iefix') format('embedded-opentype'),
+		/* from https://fonts.gstatic.com/s/gudea/v4/7K8okIOV072GIwnptze9lg.woff */
+		url('Gudea_italic.woff') format('woff'),
+		/* from https://fonts.gstatic.com/s/gudea/v4/kvCX_I6neb4EN5z031M87g.woff2 */
+		url('Gudea_italic.woff2') format('woff2'),
+		/* from https://fonts.gstatic.com/l/font?kit=SY76NhUME8gD3bQNrp2bwQ&skey=dba7fb2bf51a5d81&v=v4#Gudea */
+		url('Gudea_italic.svg#Gudea') format('svg'),
+		/* from https://fonts.gstatic.com/s/gudea/v4/YETrVqJHJHw2eRWYIh0BAg.ttf */
+		url('Gudea_italic.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Gudea';
+	font-style: normal;
+	font-weight: 700;
+	src:
+		local('Gudea Bold'),
+		local('Gudea-Bold'),
+		/* from https://fonts.gstatic.com/s/gudea/v4/WHDzltq9N_SYEyWp7wyx7_esZW2xOQ-xsNqO47m55DA.eot */
+		url('Gudea_700.eot?#iefix') format('embedded-opentype'),
+		/* from https://fonts.gstatic.com/s/gudea/v4/6M2RKly85u67vSsXH0-zqvesZW2xOQ-xsNqO47m55DA.woff */
+		url('Gudea_700.woff') format('woff'),
+		/* from https://fonts.gstatic.com/s/gudea/v4/jayXbUsof2FdMCHG3BRDEPesZW2xOQ-xsNqO47m55DA.woff2 */
+		url('Gudea_700.woff2') format('woff2'),
+		/* from https://fonts.gstatic.com/l/font?kit=QZo8OTMUCp-n8Nr5KRDJUPesZW2xOQ-xsNqO47m55DA&skey=61f6a66f0762939&v=v4#Gudea */
+		url('Gudea_700.svg#Gudea') format('svg'),
+		/* from https://fonts.gstatic.com/s/gudea/v4/5_80veqYtMg_mX_C_gEF_PesZW2xOQ-xsNqO47m55DA.ttf */
+		url('Gudea_700.ttf') format('truetype');
+}

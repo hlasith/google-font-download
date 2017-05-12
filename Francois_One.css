@@ -1,0 +1,18 @@
+@font-face {
+	font-family: 'Francois One';
+	font-style: normal;
+	font-weight: normal;
+	src:
+		local('Francois One Regular'),
+		local('FrancoisOne-Regular'),
+		/* from https://fonts.gstatic.com/s/francoisone/v10/bYbkq2nU2TSx4SwFbz5sCHZ2MAKAc2x4R1uOSeegc5U.eot */
+		url('Francois_One.eot?#iefix') format('embedded-opentype'),
+		/* from https://fonts.gstatic.com/s/francoisone/v10/bYbkq2nU2TSx4SwFbz5sCHhCUOGz7vYGh680lGh-uXM.woff */
+		url('Francois_One.woff') format('woff'),
+		/* from https://fonts.gstatic.com/s/francoisone/v10/bYbkq2nU2TSx4SwFbz5sCOgdm0LZdjqr5-oayXSOefg.woff2 */
+		url('Francois_One.woff2') format('woff2'),
+		/* from https://fonts.gstatic.com/l/font?kit=bYbkq2nU2TSx4SwFbz5sCFlIn5tFQcqMuf-jhyJP0ps&skey=37e55f964c88f579&v=v10#FrancoisOne */
+		url('Francois_One.svg#FrancoisOne') format('svg'),
+		/* from https://fonts.gstatic.com/s/francoisone/v10/bYbkq2nU2TSx4SwFbz5sCInF5uFdDttMLvmWuJdhhgs.ttf */
+		url('Francois_One.ttf') format('truetype');
+}

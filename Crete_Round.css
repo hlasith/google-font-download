@@ -1,0 +1,36 @@
+@font-face {
+	font-family: 'Crete Round';
+	font-style: normal;
+	font-weight: normal;
+	src:
+		local('Crete Round'),
+		local('CreteRound-Regular'),
+		/* from https://fonts.gstatic.com/s/creteround/v5/ZCcPJiCGOzh84o2siPk48WfQcKutQXcIrRfyR5jdjY8.eot */
+		url('Crete_Round.eot?#iefix') format('embedded-opentype'),
+		/* from https://fonts.gstatic.com/s/creteround/v5/ZCcPJiCGOzh84o2siPk48YbN6UDyHWBl620a-IRfuBk.woff */
+		url('Crete_Round.woff') format('woff'),
+		/* from https://fonts.gstatic.com/s/creteround/v5/ZCcPJiCGOzh84o2siPk48Y4P5ICox8Kq3LLUNMylGO4.woff2 */
+		url('Crete_Round.woff2') format('woff2'),
+		/* from https://fonts.gstatic.com/l/font?kit=ZCcPJiCGOzh84o2siPk48XNsigHlcrQGNV8nkUSFQfc&skey=d604d2367fd68cff&v=v5#CreteRound */
+		url('Crete_Round.svg#CreteRound') format('svg'),
+		/* from https://fonts.gstatic.com/s/creteround/v5/ZCcPJiCGOzh84o2siPk48Z0EAVxt0G0biEntp43Qt6E.ttf */
+		url('Crete_Round.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Crete Round';
+	font-style: italic;
+	font-weight: normal;
+	src:
+		local('Crete Round Italic'),
+		local('CreteRound-Italic'),
+		/* from https://fonts.gstatic.com/s/creteround/v5/5xAt7XK2vkUdjhGtt98unaSxSvC1lIsK_unZDHWqTBg.eot */
+		url('Crete_Round_italic.eot?#iefix') format('embedded-opentype'),
+		/* from https://fonts.gstatic.com/s/creteround/v5/5xAt7XK2vkUdjhGtt98undkZXW4sYc4BjuAIFc1SXII.woff */
+		url('Crete_Round_italic.woff') format('woff'),
+		/* from https://fonts.gstatic.com/s/creteround/v5/5xAt7XK2vkUdjhGtt98uncu2Q0OS-KeTAWjgkS85mDg.woff2 */
+		url('Crete_Round_italic.woff2') format('woff2'),
+		/* from https://fonts.gstatic.com/l/font?kit=5xAt7XK2vkUdjhGtt98unTGefNBPGWcFPRAoUX_lgLU&skey=8176e819c3fe9b&v=v5#CreteRound */
+		url('Crete_Round_italic.svg#CreteRound') format('svg'),
+		/* from https://fonts.gstatic.com/s/creteround/v5/5xAt7XK2vkUdjhGtt98uneLrC4Du4e_yfTJ8Ol60xk0.ttf */
+		url('Crete_Round_italic.ttf') format('truetype');
+}

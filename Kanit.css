@@ -1,0 +1,324 @@
+@font-face {
+	font-family: 'Kanit';
+	font-style: normal;
+	font-weight: 100;
+	src:
+		local('Kanit Thin'),
+		local('Kanit-Thin'),
+		/* from https://fonts.gstatic.com/s/kanit/v1/Tvr_p8QvikK_T3p3Oe5fFw.eot */
+		url('Kanit_100.eot?#iefix') format('embedded-opentype'),
+		/* from https://fonts.gstatic.com/s/kanit/v1/CRGUAF1mVBaeSyBI8V6jdA.woff */
+		url('Kanit_100.woff') format('woff'),
+		/* from https://fonts.gstatic.com/s/kanit/v1/9mc1eFBC6whiP297Oi1KKA.woff2 */
+		url('Kanit_100.woff2') format('woff2'),
+		/* from https://fonts.gstatic.com/l/font?kit=zV3CqKaKUMZmu4tB7rhZ6g&skey=1fafa5416853f7e5&v=v1#Kanit */
+		url('Kanit_100.svg#Kanit') format('svg'),
+		/* from https://fonts.gstatic.com/s/kanit/v1/4RMGqD4_2sDfNMUBMOeaOg.ttf */
+		url('Kanit_100.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Kanit';
+	font-style: italic;
+	font-weight: 100;
+	src:
+		local('Kanit Thin Italic'),
+		local('Kanit-ThinItalic'),
+		/* from https://fonts.gstatic.com/s/kanit/v1/-zkpKr1CqKVn_t92HtMzdvY6323mHUZFJMgTvxaG2iE.eot */
+		url('Kanit_100italic.eot?#iefix') format('embedded-opentype'),
+		/* from https://fonts.gstatic.com/s/kanit/v1/-zkpKr1CqKVn_t92HtMzdj8E0i7KZn-EPnyo3HZu7kw.woff */
+		url('Kanit_100italic.woff') format('woff'),
+		/* from https://fonts.gstatic.com/s/kanit/v1/-zkpKr1CqKVn_t92HtMzdltXRa8TVwTICgirnJhmVJw.woff2 */
+		url('Kanit_100italic.woff2') format('woff2'),
+		/* from https://fonts.gstatic.com/l/font?kit=-zkpKr1CqKVn_t92HtMzdpbd9NUM7myrQQz30yPaGQ4&skey=af6ebcb691038333&v=v1#Kanit */
+		url('Kanit_100italic.svg#Kanit') format('svg'),
+		/* from https://fonts.gstatic.com/s/kanit/v1/-zkpKr1CqKVn_t92HtMzdqCWcynf_cDxXwCLxiixG1c.ttf */
+		url('Kanit_100italic.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Kanit';
+	font-style: normal;
+	font-weight: 200;
+	src:
+		local('Kanit ExtraLight'),
+		local('Kanit-ExtraLight'),
+		/* from https://fonts.gstatic.com/s/kanit/v1/zT1fS00SmTdQScwBj2oNzfesZW2xOQ-xsNqO47m55DA.eot */
+		url('Kanit_200.eot?#iefix') format('embedded-opentype'),
+		/* from https://fonts.gstatic.com/s/kanit/v1/OyZKKcht3KrMYcCn6Icyb_esZW2xOQ-xsNqO47m55DA.woff */
+		url('Kanit_200.woff') format('woff'),
+		/* from https://fonts.gstatic.com/s/kanit/v1/ILRJxvacvDA7qSNYAE2Em_esZW2xOQ-xsNqO47m55DA.woff2 */
+		url('Kanit_200.woff2') format('woff2'),
+		/* from https://fonts.gstatic.com/l/font?kit=Vu4Id-exYDSIy0Eqc-IaSPesZW2xOQ-xsNqO47m55DA&skey=4f9bb3526a17f8a6&v=v1#Kanit */
+		url('Kanit_200.svg#Kanit') format('svg'),
+		/* from https://fonts.gstatic.com/s/kanit/v1/78A_MuksWFObUwG_MEQ07PesZW2xOQ-xsNqO47m55DA.ttf */
+		url('Kanit_200.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Kanit';
+	font-style: italic;
+	font-weight: 200;
+	src:
+		local('Kanit ExtraLight Italic'),
+		local('Kanit-ExtraLightItalic'),
+		/* from https://fonts.gstatic.com/s/kanit/v1/ciEbSB1rTWU7huOQDd2xf1QlYEbsez9cZjKsNMjLOwM.eot */
+		url('Kanit_200italic.eot?#iefix') format('embedded-opentype'),
+		/* from https://fonts.gstatic.com/s/kanit/v1/ciEbSB1rTWU7huOQDd2xfxsxEYwM7FgeyaSgU71cLG0.woff */
+		url('Kanit_200italic.woff') format('woff'),
+		/* from https://fonts.gstatic.com/s/kanit/v1/ciEbSB1rTWU7huOQDd2xf_k_vArhqVIZ0nv9q090hN8.woff2 */
+		url('Kanit_200italic.woff2') format('woff2'),
+		/* from https://fonts.gstatic.com/l/font?kit=ciEbSB1rTWU7huOQDd2xf6WUboTb-jS2tyCOQMtm97g&skey=5be4818c7c5589cd&v=v1#Kanit */
+		url('Kanit_200italic.svg#Kanit') format('svg'),
+		/* from https://fonts.gstatic.com/s/kanit/v1/ciEbSB1rTWU7huOQDd2xfy3USBnSvpkopQaUR-2r7iU.ttf */
+		url('Kanit_200italic.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Kanit';
+	font-style: normal;
+	font-weight: 300;
+	src:
+		local('Kanit Light'),
+		local('Kanit-Light'),
+		/* from https://fonts.gstatic.com/s/kanit/v1/6S9GSpR7vToCgO-dJr_7HPesZW2xOQ-xsNqO47m55DA.eot */
+		url('Kanit_300.eot?#iefix') format('embedded-opentype'),
+		/* from https://fonts.gstatic.com/s/kanit/v1/F5CHTvwXXoTHSmei9N3sL_esZW2xOQ-xsNqO47m55DA.woff */
+		url('Kanit_300.woff') format('woff'),
+		/* from https://fonts.gstatic.com/s/kanit/v1/cxHEBsWwed1A7aDhJATlyPesZW2xOQ-xsNqO47m55DA.woff2 */
+		url('Kanit_300.woff2') format('woff2'),
+		/* from https://fonts.gstatic.com/l/font?kit=jSQmvy4LnXxt-ssHasdJFfesZW2xOQ-xsNqO47m55DA&skey=14ca640360d8623e&v=v1#Kanit */
+		url('Kanit_300.svg#Kanit') format('svg'),
+		/* from https://fonts.gstatic.com/s/kanit/v1/j-foJ3Hr0M7CNxChyJlvxvesZW2xOQ-xsNqO47m55DA.ttf */
+		url('Kanit_300.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Kanit';
+	font-style: italic;
+	font-weight: 300;
+	src:
+		local('Kanit Light Italic'),
+		local('Kanit-LightItalic'),
+		/* from https://fonts.gstatic.com/s/kanit/v1/eGJKVNdFKopZqaExEyxLZ1QlYEbsez9cZjKsNMjLOwM.eot */
+		url('Kanit_300italic.eot?#iefix') format('embedded-opentype'),
+		/* from https://fonts.gstatic.com/s/kanit/v1/eGJKVNdFKopZqaExEyxLZxsxEYwM7FgeyaSgU71cLG0.woff */
+		url('Kanit_300italic.woff') format('woff'),
+		/* from https://fonts.gstatic.com/s/kanit/v1/eGJKVNdFKopZqaExEyxLZ_k_vArhqVIZ0nv9q090hN8.woff2 */
+		url('Kanit_300italic.woff2') format('woff2'),
+		/* from https://fonts.gstatic.com/l/font?kit=eGJKVNdFKopZqaExEyxLZ6WUboTb-jS2tyCOQMtm97g&skey=26ce3b98d24c6e21&v=v1#Kanit */
+		url('Kanit_300italic.svg#Kanit') format('svg'),
+		/* from https://fonts.gstatic.com/s/kanit/v1/eGJKVNdFKopZqaExEyxLZy3USBnSvpkopQaUR-2r7iU.ttf */
+		url('Kanit_300italic.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Kanit';
+	font-style: normal;
+	font-weight: normal;
+	src:
+		local('Kanit'),
+		local('Kanit-Regular'),
+		/* from https://fonts.gstatic.com/s/kanit/v1/oCIc-9ZH6OHLemLC7yu7ug.eot */
+		url('Kanit.eot?#iefix') format('embedded-opentype'),
+		/* from https://fonts.gstatic.com/s/kanit/v1/JVz_oKf_FwFUD9iaz4pcLA.woff */
+		url('Kanit.woff') format('woff'),
+		/* from https://fonts.gstatic.com/s/kanit/v1/5NAKUBdE3Nb95aTaJlZOXQ.woff2 */
+		url('Kanit.woff2') format('woff2'),
+		/* from https://fonts.gstatic.com/l/font?kit=6NqFl3gqdI1XQsZzY0N5Lw&skey=f700248af71fb487&v=v1#Kanit */
+		url('Kanit.svg#Kanit') format('svg'),
+		/* from https://fonts.gstatic.com/s/kanit/v1/kkq0USULIwHHdoKxKBuLog.ttf */
+		url('Kanit.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Kanit';
+	font-style: italic;
+	font-weight: normal;
+	src:
+		local('Kanit Italic'),
+		local('Kanit-Italic'),
+		/* from https://fonts.gstatic.com/s/kanit/v1/OvUHRs8HIN00AZHW-maw7w.eot */
+		url('Kanit_italic.eot?#iefix') format('embedded-opentype'),
+		/* from https://fonts.gstatic.com/s/kanit/v1/1eWwtw8TAQtQQpaimP6tkQ.woff */
+		url('Kanit_italic.woff') format('woff'),
+		/* from https://fonts.gstatic.com/s/kanit/v1/-HSkZA4t5sxUrAMDGkrO1A.woff2 */
+		url('Kanit_italic.woff2') format('woff2'),
+		/* from https://fonts.gstatic.com/l/font?kit=bPgdfyM5C9sv1t4Q2wzsEg&skey=336f203e2505743&v=v1#Kanit */
+		url('Kanit_italic.svg#Kanit') format('svg'),
+		/* from https://fonts.gstatic.com/s/kanit/v1/e-WQiy6MBi5HWcrnEtbm3w.ttf */
+		url('Kanit_italic.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Kanit';
+	font-style: normal;
+	font-weight: 500;
+	src:
+		local('Kanit Medium'),
+		local('Kanit-Medium'),
+		/* from https://fonts.gstatic.com/s/kanit/v1/T96mqH7V-VdXoIPVVY-RwPesZW2xOQ-xsNqO47m55DA.eot */
+		url('Kanit_500.eot?#iefix') format('embedded-opentype'),
+		/* from https://fonts.gstatic.com/s/kanit/v1/Q0E62izzPnEuOB9NUkL1gPesZW2xOQ-xsNqO47m55DA.woff */
+		url('Kanit_500.woff') format('woff'),
+		/* from https://fonts.gstatic.com/s/kanit/v1/RHqh14DjcvgZGJknoCzKXvesZW2xOQ-xsNqO47m55DA.woff2 */
+		url('Kanit_500.woff2') format('woff2'),
+		/* from https://fonts.gstatic.com/l/font?kit=5SiCC3tabkJf82uUyQKb4_esZW2xOQ-xsNqO47m55DA&skey=6cd9965664507be9&v=v1#Kanit */
+		url('Kanit_500.svg#Kanit') format('svg'),
+		/* from https://fonts.gstatic.com/s/kanit/v1/AcJ_ZLqwDmA83KMgq71QK_esZW2xOQ-xsNqO47m55DA.ttf */
+		url('Kanit_500.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Kanit';
+	font-style: italic;
+	font-weight: 500;
+	src:
+		local('Kanit Medium Italic'),
+		local('Kanit-MediumItalic'),
+		/* from https://fonts.gstatic.com/s/kanit/v1/r638aJy265qenEsEzAGL1lQlYEbsez9cZjKsNMjLOwM.eot */
+		url('Kanit_500italic.eot?#iefix') format('embedded-opentype'),
+		/* from https://fonts.gstatic.com/s/kanit/v1/r638aJy265qenEsEzAGL1hsxEYwM7FgeyaSgU71cLG0.woff */
+		url('Kanit_500italic.woff') format('woff'),
+		/* from https://fonts.gstatic.com/s/kanit/v1/r638aJy265qenEsEzAGL1vk_vArhqVIZ0nv9q090hN8.woff2 */
+		url('Kanit_500italic.woff2') format('woff2'),
+		/* from https://fonts.gstatic.com/l/font?kit=r638aJy265qenEsEzAGL1qWUboTb-jS2tyCOQMtm97g&skey=dfeb335f5dc0c656&v=v1#Kanit */
+		url('Kanit_500italic.svg#Kanit') format('svg'),
+		/* from https://fonts.gstatic.com/s/kanit/v1/r638aJy265qenEsEzAGL1i3USBnSvpkopQaUR-2r7iU.ttf */
+		url('Kanit_500italic.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Kanit';
+	font-style: normal;
+	font-weight: 600;
+	src:
+		local('Kanit SemiBold'),
+		local('Kanit-SemiBold'),
+		/* from https://fonts.gstatic.com/s/kanit/v1/S-GblmAdRlJXC23XvvvLL_esZW2xOQ-xsNqO47m55DA.eot */
+		url('Kanit_600.eot?#iefix') format('embedded-opentype'),
+		/* from https://fonts.gstatic.com/s/kanit/v1/92wMIXXMcx9pAL8PI7QsGfesZW2xOQ-xsNqO47m55DA.woff */
+		url('Kanit_600.woff') format('woff'),
+		/* from https://fonts.gstatic.com/s/kanit/v1/ZqFcRUNlfbpcawIUlPQLC_esZW2xOQ-xsNqO47m55DA.woff2 */
+		url('Kanit_600.woff2') format('woff2'),
+		/* from https://fonts.gstatic.com/l/font?kit=l74zm-vM-08vzv6bdbhzbfesZW2xOQ-xsNqO47m55DA&skey=37a1924777d7d1eb&v=v1#Kanit */
+		url('Kanit_600.svg#Kanit') format('svg'),
+		/* from https://fonts.gstatic.com/s/kanit/v1/n1T9oMeJTeY179qpSDAhafesZW2xOQ-xsNqO47m55DA.ttf */
+		url('Kanit_600.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Kanit';
+	font-style: italic;
+	font-weight: 600;
+	src:
+		local('Kanit SemiBold Italic'),
+		local('Kanit-SemiBoldItalic'),
+		/* from https://fonts.gstatic.com/s/kanit/v1/A8L3Xqc6PqLCrXEDciIvIVQlYEbsez9cZjKsNMjLOwM.eot */
+		url('Kanit_600italic.eot?#iefix') format('embedded-opentype'),
+		/* from https://fonts.gstatic.com/s/kanit/v1/A8L3Xqc6PqLCrXEDciIvIRsxEYwM7FgeyaSgU71cLG0.woff */
+		url('Kanit_600italic.woff') format('woff'),
+		/* from https://fonts.gstatic.com/s/kanit/v1/A8L3Xqc6PqLCrXEDciIvIfk_vArhqVIZ0nv9q090hN8.woff2 */
+		url('Kanit_600italic.woff2') format('woff2'),
+		/* from https://fonts.gstatic.com/l/font?kit=A8L3Xqc6PqLCrXEDciIvIaWUboTb-jS2tyCOQMtm97g&skey=c9bb313d836b6604&v=v1#Kanit */
+		url('Kanit_600italic.svg#Kanit') format('svg'),
+		/* from https://fonts.gstatic.com/s/kanit/v1/A8L3Xqc6PqLCrXEDciIvIS3USBnSvpkopQaUR-2r7iU.ttf */
+		url('Kanit_600italic.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Kanit';
+	font-style: normal;
+	font-weight: 700;
+	src:
+		local('Kanit Bold'),
+		local('Kanit-Bold'),
+		/* from https://fonts.gstatic.com/s/kanit/v1/oRAoY-ZPXFosMTWUkS74WPesZW2xOQ-xsNqO47m55DA.eot */
+		url('Kanit_700.eot?#iefix') format('embedded-opentype'),
+		/* from https://fonts.gstatic.com/s/kanit/v1/80N5qy6eWS6rAwuoTuuAlvesZW2xOQ-xsNqO47m55DA.woff */
+		url('Kanit_700.woff') format('woff'),
+		/* from https://fonts.gstatic.com/s/kanit/v1/mEn4jJ-yZGnuuUYbIaJjw_esZW2xOQ-xsNqO47m55DA.woff2 */
+		url('Kanit_700.woff2') format('woff2'),
+		/* from https://fonts.gstatic.com/l/font?kit=ErlsYgudODsVRo_kFKXLWvesZW2xOQ-xsNqO47m55DA&skey=5c0b966606f30209&v=v1#Kanit */
+		url('Kanit_700.svg#Kanit') format('svg'),
+		/* from https://fonts.gstatic.com/s/kanit/v1/8RyrrV_zjRvqislh0WkjjPesZW2xOQ-xsNqO47m55DA.ttf */
+		url('Kanit_700.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Kanit';
+	font-style: italic;
+	font-weight: 700;
+	src:
+		local('Kanit Bold Italic'),
+		local('Kanit-BoldItalic'),
+		/* from https://fonts.gstatic.com/s/kanit/v1/gX3yGGDjFXypfrBE-Lx8SVQlYEbsez9cZjKsNMjLOwM.eot */
+		url('Kanit_700italic.eot?#iefix') format('embedded-opentype'),
+		/* from https://fonts.gstatic.com/s/kanit/v1/gX3yGGDjFXypfrBE-Lx8SRsxEYwM7FgeyaSgU71cLG0.woff */
+		url('Kanit_700italic.woff') format('woff'),
+		/* from https://fonts.gstatic.com/s/kanit/v1/gX3yGGDjFXypfrBE-Lx8Sfk_vArhqVIZ0nv9q090hN8.woff2 */
+		url('Kanit_700italic.woff2') format('woff2'),
+		/* from https://fonts.gstatic.com/l/font?kit=gX3yGGDjFXypfrBE-Lx8SaWUboTb-jS2tyCOQMtm97g&skey=639445fe76360cd9&v=v1#Kanit */
+		url('Kanit_700italic.svg#Kanit') format('svg'),
+		/* from https://fonts.gstatic.com/s/kanit/v1/gX3yGGDjFXypfrBE-Lx8SS3USBnSvpkopQaUR-2r7iU.ttf */
+		url('Kanit_700italic.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Kanit';
+	font-style: normal;
+	font-weight: 800;
+	src:
+		local('Kanit ExtraBold'),
+		local('Kanit-ExtraBold'),
+		/* from https://fonts.gstatic.com/s/kanit/v1/m0XNdsOQXYHO8-nofwveCPesZW2xOQ-xsNqO47m55DA.eot */
+		url('Kanit_800.eot?#iefix') format('embedded-opentype'),
+		/* from https://fonts.gstatic.com/s/kanit/v1/3M1y2fPVerGfvJl9-LfJ3PesZW2xOQ-xsNqO47m55DA.woff */
+		url('Kanit_800.woff') format('woff'),
+		/* from https://fonts.gstatic.com/s/kanit/v1/-pN35p94GGARWHK7lHn_7PesZW2xOQ-xsNqO47m55DA.woff2 */
+		url('Kanit_800.woff2') format('woff2'),
+		/* from https://fonts.gstatic.com/l/font?kit=IGpHfJ2jmgAKIg79WQEUYvesZW2xOQ-xsNqO47m55DA&skey=33753599227b342&v=v1#Kanit */
+		url('Kanit_800.svg#Kanit') format('svg'),
+		/* from https://fonts.gstatic.com/s/kanit/v1/ejD9BdYo4VLGCi7OuF04OPesZW2xOQ-xsNqO47m55DA.ttf */
+		url('Kanit_800.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Kanit';
+	font-style: italic;
+	font-weight: 800;
+	src:
+		local('Kanit ExtraBold Italic'),
+		local('Kanit-ExtraBoldItalic'),
+		/* from https://fonts.gstatic.com/s/kanit/v1/0vrlIznC5nH1q_DfHrYWIFQlYEbsez9cZjKsNMjLOwM.eot */
+		url('Kanit_800italic.eot?#iefix') format('embedded-opentype'),
+		/* from https://fonts.gstatic.com/s/kanit/v1/0vrlIznC5nH1q_DfHrYWIBsxEYwM7FgeyaSgU71cLG0.woff */
+		url('Kanit_800italic.woff') format('woff'),
+		/* from https://fonts.gstatic.com/s/kanit/v1/0vrlIznC5nH1q_DfHrYWIPk_vArhqVIZ0nv9q090hN8.woff2 */
+		url('Kanit_800italic.woff2') format('woff2'),
+		/* from https://fonts.gstatic.com/l/font?kit=0vrlIznC5nH1q_DfHrYWIKWUboTb-jS2tyCOQMtm97g&skey=54e5861002b7cf3e&v=v1#Kanit */
+		url('Kanit_800italic.svg#Kanit') format('svg'),
+		/* from https://fonts.gstatic.com/s/kanit/v1/0vrlIznC5nH1q_DfHrYWIC3USBnSvpkopQaUR-2r7iU.ttf */
+		url('Kanit_800italic.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Kanit';
+	font-style: normal;
+	font-weight: 900;
+	src:
+		local('Kanit Black'),
+		local('Kanit-Black'),
+		/* from https://fonts.gstatic.com/s/kanit/v1/FjIUkqmtCLFURsI5XMHbSPesZW2xOQ-xsNqO47m55DA.eot */
+		url('Kanit_900.eot?#iefix') format('embedded-opentype'),
+		/* from https://fonts.gstatic.com/s/kanit/v1/vSneB21fBRsnRvCav0Zi2fesZW2xOQ-xsNqO47m55DA.woff */
+		url('Kanit_900.woff') format('woff'),
+		/* from https://fonts.gstatic.com/s/kanit/v1/Si9-GTyWVP2DNn3VdLOJt_esZW2xOQ-xsNqO47m55DA.woff2 */
+		url('Kanit_900.woff2') format('woff2'),
+		/* from https://fonts.gstatic.com/l/font?kit=ECJxNldcXD_dLuF56-LtJfesZW2xOQ-xsNqO47m55DA&skey=d7003f9a8964e1d2&v=v1#Kanit */
+		url('Kanit_900.svg#Kanit') format('svg'),
+		/* from https://fonts.gstatic.com/s/kanit/v1/hI5anSXkFywu--PSyNnyd_esZW2xOQ-xsNqO47m55DA.ttf */
+		url('Kanit_900.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Kanit';
+	font-style: italic;
+	font-weight: 900;
+	src:
+		local('Kanit Black Italic'),
+		local('Kanit-BlackItalic'),
+		/* from https://fonts.gstatic.com/s/kanit/v1/1XzmRoVArHzlJC_HcHwb0FQlYEbsez9cZjKsNMjLOwM.eot */
+		url('Kanit_900italic.eot?#iefix') format('embedded-opentype'),
+		/* from https://fonts.gstatic.com/s/kanit/v1/1XzmRoVArHzlJC_HcHwb0BsxEYwM7FgeyaSgU71cLG0.woff */
+		url('Kanit_900italic.woff') format('woff'),
+		/* from https://fonts.gstatic.com/s/kanit/v1/1XzmRoVArHzlJC_HcHwb0Pk_vArhqVIZ0nv9q090hN8.woff2 */
+		url('Kanit_900italic.woff2') format('woff2'),
+		/* from https://fonts.gstatic.com/l/font?kit=1XzmRoVArHzlJC_HcHwb0KWUboTb-jS2tyCOQMtm97g&skey=7947e1141cd9170&v=v1#Kanit */
+		url('Kanit_900italic.svg#Kanit') format('svg'),
+		/* from https://fonts.gstatic.com/s/kanit/v1/1XzmRoVArHzlJC_HcHwb0C3USBnSvpkopQaUR-2r7iU.ttf */
+		url('Kanit_900italic.ttf') format('truetype');
+}

@@ -1,0 +1,18 @@
+@font-face {
+	font-family: 'Fjalla One';
+	font-style: normal;
+	font-weight: normal;
+	src:
+		local('Fjalla One'),
+		local('FjallaOne-Regular'),
+		/* from https://fonts.gstatic.com/s/fjallaone/v4/rxxXUYj4oZ6Q5oDJFtEd6lQlYEbsez9cZjKsNMjLOwM.eot */
+		url('Fjalla_One.eot?#iefix') format('embedded-opentype'),
+		/* from https://fonts.gstatic.com/s/fjallaone/v4/rxxXUYj4oZ6Q5oDJFtEd6hsxEYwM7FgeyaSgU71cLG0.woff */
+		url('Fjalla_One.woff') format('woff'),
+		/* from https://fonts.gstatic.com/s/fjallaone/v4/rxxXUYj4oZ6Q5oDJFtEd6vk_vArhqVIZ0nv9q090hN8.woff2 */
+		url('Fjalla_One.woff2') format('woff2'),
+		/* from https://fonts.gstatic.com/l/font?kit=rxxXUYj4oZ6Q5oDJFtEd6qWUboTb-jS2tyCOQMtm97g&skey=81738d23c31d6227&v=v4#FjallaOne */
+		url('Fjalla_One.svg#FjallaOne') format('svg'),
+		/* from https://fonts.gstatic.com/s/fjallaone/v4/rxxXUYj4oZ6Q5oDJFtEd6i3USBnSvpkopQaUR-2r7iU.ttf */
+		url('Fjalla_One.ttf') format('truetype');
+}

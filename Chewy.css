@@ -1,0 +1,17 @@
+@font-face {
+	font-family: 'Chewy';
+	font-style: normal;
+	font-weight: normal;
+	src:
+		local('Chewy'),
+		/* from https://fonts.gstatic.com/s/chewy/v7/DMbSC7GKZZvySnH_OcA3ow.eot */
+		url('Chewy.eot?#iefix') format('embedded-opentype'),
+		/* from https://fonts.gstatic.com/s/chewy/v7/nB-Yp57-ChbdqJ4CkQVXAQ.woff */
+		url('Chewy.woff') format('woff'),
+		/* from https://fonts.gstatic.com/s/chewy/v7/rb3O4cUMVLYzfgbaJOdJHw.woff2 */
+		url('Chewy.woff2') format('woff2'),
+		/* from https://fonts.gstatic.com/l/font?kit=25D7X4M93YAGKjqR10DELA&skey=7ed5ab3a634ee0b0&v=v7#Chewy */
+		url('Chewy.svg#Chewy') format('svg'),
+		/* from https://fonts.gstatic.com/s/chewy/v7/9pHJyFOcO5WaMZJw9XnkAw.ttf */
+		url('Chewy.ttf') format('truetype');
+}

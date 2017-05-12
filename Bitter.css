@@ -1,0 +1,51 @@
+@font-face {
+	font-family: 'Bitter';
+	font-style: normal;
+	font-weight: normal;
+	src:
+		local('Bitter-Regular'),
+		/* from https://fonts.gstatic.com/s/bitter/v10/XexqN1a_o27MhVVdJFKAcA.eot */
+		url('Bitter.eot?#iefix') format('embedded-opentype'),
+		/* from https://fonts.gstatic.com/s/bitter/v10/SHIcXhdd5RknatSgOzyEkA.woff */
+		url('Bitter.woff') format('woff'),
+		/* from https://fonts.gstatic.com/s/bitter/v10/zfs6I-5mjWQ3nxqccMoL2A.woff2 */
+		url('Bitter.woff2') format('woff2'),
+		/* from https://fonts.gstatic.com/l/font?kit=GczfTD6N3Eo3_EcQuBd3Kg&skey=c92268a3e57ee309&v=v10#Bitter */
+		url('Bitter.svg#Bitter') format('svg'),
+		/* from https://fonts.gstatic.com/s/bitter/v10/2hig-tnMw8lXZsjwuh-9ow.ttf */
+		url('Bitter.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Bitter';
+	font-style: italic;
+	font-weight: normal;
+	src:
+		local('Bitter-Italic'),
+		/* from https://fonts.gstatic.com/s/bitter/v10/_5gUH5fHSDnpRupSlBdtgfesZW2xOQ-xsNqO47m55DA.eot */
+		url('Bitter_italic.eot?#iefix') format('embedded-opentype'),
+		/* from https://fonts.gstatic.com/s/bitter/v10/eMS0tViDqryBl0EG1pqFZfesZW2xOQ-xsNqO47m55DA.woff */
+		url('Bitter_italic.woff') format('woff'),
+		/* from https://fonts.gstatic.com/s/bitter/v10/-t3SK6sofTjAH0MNf_tLaPesZW2xOQ-xsNqO47m55DA.woff2 */
+		url('Bitter_italic.woff2') format('woff2'),
+		/* from https://fonts.gstatic.com/l/font?kit=ORW2p5cHVPQkt0uy5woGCPesZW2xOQ-xsNqO47m55DA&skey=7ce735f7301da1b7&v=v10#Bitter */
+		url('Bitter_italic.svg#Bitter') format('svg'),
+		/* from https://fonts.gstatic.com/s/bitter/v10/E44LYN4bXPiBT-TMwacNsvesZW2xOQ-xsNqO47m55DA.ttf */
+		url('Bitter_italic.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Bitter';
+	font-style: normal;
+	font-weight: 700;
+	src:
+		local('Bitter-Bold'),
+		/* from https://fonts.gstatic.com/s/bitter/v10/evC1haE-MsorTl_A7_uSGfY6323mHUZFJMgTvxaG2iE.eot */
+		url('Bitter_700.eot?#iefix') format('embedded-opentype'),
+		/* from https://fonts.gstatic.com/s/bitter/v10/evC1haE-MsorTl_A7_uSGT8E0i7KZn-EPnyo3HZu7kw.woff */
+		url('Bitter_700.woff') format('woff'),
+		/* from https://fonts.gstatic.com/s/bitter/v10/evC1haE-MsorTl_A7_uSGVtXRa8TVwTICgirnJhmVJw.woff2 */
+		url('Bitter_700.woff2') format('woff2'),
+		/* from https://fonts.gstatic.com/l/font?kit=evC1haE-MsorTl_A7_uSGZbd9NUM7myrQQz30yPaGQ4&skey=e4df9b9066e26755&v=v10#Bitter */
+		url('Bitter_700.svg#Bitter') format('svg'),
+		/* from https://fonts.gstatic.com/s/bitter/v10/evC1haE-MsorTl_A7_uSGaCWcynf_cDxXwCLxiixG1c.ttf */
+		url('Bitter_700.ttf') format('truetype');
+}

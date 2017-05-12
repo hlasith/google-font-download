@@ -1,0 +1,17 @@
+@font-face {
+	font-family: 'Yellowtail';
+	font-style: normal;
+	font-weight: normal;
+	src:
+		local('Yellowtail'),
+		/* from https://fonts.gstatic.com/s/yellowtail/v6/GcIHC9QEwVkrA19LJU1qlFQlYEbsez9cZjKsNMjLOwM.eot */
+		url('Yellowtail.eot?#iefix') format('embedded-opentype'),
+		/* from https://fonts.gstatic.com/s/yellowtail/v6/GcIHC9QEwVkrA19LJU1qlBsxEYwM7FgeyaSgU71cLG0.woff */
+		url('Yellowtail.woff') format('woff'),
+		/* from https://fonts.gstatic.com/s/yellowtail/v6/GcIHC9QEwVkrA19LJU1qlPk_vArhqVIZ0nv9q090hN8.woff2 */
+		url('Yellowtail.woff2') format('woff2'),
+		/* from https://fonts.gstatic.com/l/font?kit=GcIHC9QEwVkrA19LJU1qlKWUboTb-jS2tyCOQMtm97g&skey=22fa7c6bface696b&v=v6#Yellowtail */
+		url('Yellowtail.svg#Yellowtail') format('svg'),
+		/* from https://fonts.gstatic.com/s/yellowtail/v6/GcIHC9QEwVkrA19LJU1qlC3USBnSvpkopQaUR-2r7iU.ttf */
+		url('Yellowtail.ttf') format('truetype');
+}

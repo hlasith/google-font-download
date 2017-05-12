@@ -1,0 +1,18 @@
+@font-face {
+	font-family: 'Questrial';
+	font-style: normal;
+	font-weight: normal;
+	src:
+		local('Questrial'),
+		local('Questrial-Regular'),
+		/* from https://fonts.gstatic.com/s/questrial/v6/MYWJ4lYm5dbZ1UBuYox79PY6323mHUZFJMgTvxaG2iE.eot */
+		url('Questrial.eot?#iefix') format('embedded-opentype'),
+		/* from https://fonts.gstatic.com/s/questrial/v6/MYWJ4lYm5dbZ1UBuYox79D8E0i7KZn-EPnyo3HZu7kw.woff */
+		url('Questrial.woff') format('woff'),
+		/* from https://fonts.gstatic.com/s/questrial/v6/MYWJ4lYm5dbZ1UBuYox79FtXRa8TVwTICgirnJhmVJw.woff2 */
+		url('Questrial.woff2') format('woff2'),
+		/* from https://fonts.gstatic.com/l/font?kit=MYWJ4lYm5dbZ1UBuYox79Jbd9NUM7myrQQz30yPaGQ4&skey=52b8dabeb218987d&v=v6#Questrial */
+		url('Questrial.svg#Questrial') format('svg'),
+		/* from https://fonts.gstatic.com/s/questrial/v6/MYWJ4lYm5dbZ1UBuYox79KCWcynf_cDxXwCLxiixG1c.ttf */
+		url('Questrial.ttf') format('truetype');
+}

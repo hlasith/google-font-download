@@ -1,0 +1,126 @@
+@font-face {
+	font-family: 'Dosis';
+	font-style: normal;
+	font-weight: 200;
+	src:
+		local('Dosis ExtraLight'),
+		local('Dosis-ExtraLight'),
+		/* from https://fonts.gstatic.com/s/dosis/v6/ObbIOKT7x5q3tD-LZ0O70fesZW2xOQ-xsNqO47m55DA.eot */
+		url('Dosis_200.eot?#iefix') format('embedded-opentype'),
+		/* from https://fonts.gstatic.com/s/dosis/v6/zuuDDmIlQfJeEM3Uf6kkpvesZW2xOQ-xsNqO47m55DA.woff */
+		url('Dosis_200.woff') format('woff'),
+		/* from https://fonts.gstatic.com/s/dosis/v6/RPKDmaFi75RJkvjWaDDb0vesZW2xOQ-xsNqO47m55DA.woff2 */
+		url('Dosis_200.woff2') format('woff2'),
+		/* from https://fonts.gstatic.com/l/font?kit=7Rno8JpHMLQx69KPHKIkEPesZW2xOQ-xsNqO47m55DA&skey=cf9d3151c95294b6&v=v6#Dosis */
+		url('Dosis_200.svg#Dosis') format('svg'),
+		/* from https://fonts.gstatic.com/s/dosis/v6/05xr33FHwecUTIADg28rEfesZW2xOQ-xsNqO47m55DA.ttf */
+		url('Dosis_200.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Dosis';
+	font-style: normal;
+	font-weight: 300;
+	src:
+		local('Dosis Light'),
+		local('Dosis-Light'),
+		/* from https://fonts.gstatic.com/s/dosis/v6/piAeziXdjUmpEWux15l7q_esZW2xOQ-xsNqO47m55DA.eot */
+		url('Dosis_300.eot?#iefix') format('embedded-opentype'),
+		/* from https://fonts.gstatic.com/s/dosis/v6/GpmMKE0dnXylect5ObzLR_esZW2xOQ-xsNqO47m55DA.woff */
+		url('Dosis_300.woff') format('woff'),
+		/* from https://fonts.gstatic.com/s/dosis/v6/7aJzV14HzAOiwNTiPgucGfesZW2xOQ-xsNqO47m55DA.woff2 */
+		url('Dosis_300.woff2') format('woff2'),
+		/* from https://fonts.gstatic.com/l/font?kit=jQfTTSBIYSWz13x51VUsmPesZW2xOQ-xsNqO47m55DA&skey=a88ea9d907460694&v=v6#Dosis */
+		url('Dosis_300.svg#Dosis') format('svg'),
+		/* from https://fonts.gstatic.com/s/dosis/v6/0b3R8ORT0i9mlMGM3BxXF_esZW2xOQ-xsNqO47m55DA.ttf */
+		url('Dosis_300.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Dosis';
+	font-style: normal;
+	font-weight: normal;
+	src:
+		local('Dosis Regular'),
+		local('Dosis-Regular'),
+		/* from https://fonts.gstatic.com/s/dosis/v6/RHp5spKuj-AQOgQKPITXrQ.eot */
+		url('Dosis.eot?#iefix') format('embedded-opentype'),
+		/* from https://fonts.gstatic.com/s/dosis/v6/xIAtSaglM8LZOYdGmG1JqQ.woff */
+		url('Dosis.woff') format('woff'),
+		/* from https://fonts.gstatic.com/s/dosis/v6/4hYyXH_8WmbBLamf6WjLwg.woff2 */
+		url('Dosis.woff2') format('woff2'),
+		/* from https://fonts.gstatic.com/l/font?kit=sDejRsJZPVX8xZ7-AA6xQQ&skey=91e90d677384bade&v=v6#Dosis */
+		url('Dosis.svg#Dosis') format('svg'),
+		/* from https://fonts.gstatic.com/s/dosis/v6/guC5lwT5Dw7anV_xfpCGqw.ttf */
+		url('Dosis.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Dosis';
+	font-style: normal;
+	font-weight: 500;
+	src:
+		local('Dosis Medium'),
+		local('Dosis-Medium'),
+		/* from https://fonts.gstatic.com/s/dosis/v6/ELvCmRUbtOdCk3jbD-FqUPesZW2xOQ-xsNqO47m55DA.eot */
+		url('Dosis_500.eot?#iefix') format('embedded-opentype'),
+		/* from https://fonts.gstatic.com/s/dosis/v6/A4RWZsncmJ25G8iqn2EHN_esZW2xOQ-xsNqO47m55DA.woff */
+		url('Dosis_500.woff') format('woff'),
+		/* from https://fonts.gstatic.com/s/dosis/v6/mAcLJWdPWDNiDJwJvcWKc_esZW2xOQ-xsNqO47m55DA.woff2 */
+		url('Dosis_500.woff2') format('woff2'),
+		/* from https://fonts.gstatic.com/l/font?kit=9LvcqeAjXVRmMNl7TMkmlPesZW2xOQ-xsNqO47m55DA&skey=21884fc543bb1165&v=v6#Dosis */
+		url('Dosis_500.svg#Dosis') format('svg'),
+		/* from https://fonts.gstatic.com/s/dosis/v6/obisuY-MenYRAFwd-r2NhfesZW2xOQ-xsNqO47m55DA.ttf */
+		url('Dosis_500.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Dosis';
+	font-style: normal;
+	font-weight: 600;
+	src:
+		local('Dosis SemiBold'),
+		local('Dosis-SemiBold'),
+		/* from https://fonts.gstatic.com/s/dosis/v6/cP5EXqzXauRrjnP79eZ-MPesZW2xOQ-xsNqO47m55DA.eot */
+		url('Dosis_600.eot?#iefix') format('embedded-opentype'),
+		/* from https://fonts.gstatic.com/s/dosis/v6/f8qltGyj2S-SS_tsOHsjgfesZW2xOQ-xsNqO47m55DA.woff */
+		url('Dosis_600.woff') format('woff'),
+		/* from https://fonts.gstatic.com/s/dosis/v6/O6SOu9hYsPHTU43R17NS5fesZW2xOQ-xsNqO47m55DA.woff2 */
+		url('Dosis_600.woff2') format('woff2'),
+		/* from https://fonts.gstatic.com/l/font?kit=MVVQR3msXeurfQzmlgrXtfesZW2xOQ-xsNqO47m55DA&skey=95721c9dadac3c6d&v=v6#Dosis */
+		url('Dosis_600.svg#Dosis') format('svg'),
+		/* from https://fonts.gstatic.com/s/dosis/v6/URSgP3aplSko3CQAzdXHwPesZW2xOQ-xsNqO47m55DA.ttf */
+		url('Dosis_600.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Dosis';
+	font-style: normal;
+	font-weight: 700;
+	src:
+		local('Dosis Bold'),
+		local('Dosis-Bold'),
+		/* from https://fonts.gstatic.com/s/dosis/v6/tyj4dcX-j2M0ERUlmIDlrvesZW2xOQ-xsNqO47m55DA.eot */
+		url('Dosis_700.eot?#iefix') format('embedded-opentype'),
+		/* from https://fonts.gstatic.com/s/dosis/v6/x-7NZTw0n-ypOAaIE8uSrvesZW2xOQ-xsNqO47m55DA.woff */
+		url('Dosis_700.woff') format('woff'),
+		/* from https://fonts.gstatic.com/s/dosis/v6/22aDRG5X9l7obljtz7tihvesZW2xOQ-xsNqO47m55DA.woff2 */
+		url('Dosis_700.woff2') format('woff2'),
+		/* from https://fonts.gstatic.com/l/font?kit=ov7kLVYVc5Zy2sgT6AjgN_esZW2xOQ-xsNqO47m55DA&skey=4116a45de4c0238a&v=v6#Dosis */
+		url('Dosis_700.svg#Dosis') format('svg'),
+		/* from https://fonts.gstatic.com/s/dosis/v6/Luunk03-uSz9LnB7oNEUuvesZW2xOQ-xsNqO47m55DA.ttf */
+		url('Dosis_700.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Dosis';
+	font-style: normal;
+	font-weight: 800;
+	src:
+		local('Dosis ExtraBold'),
+		local('Dosis-ExtraBold'),
+		/* from https://fonts.gstatic.com/s/dosis/v6/mPoGKQuC65tedUakfBsfBfesZW2xOQ-xsNqO47m55DA.eot */
+		url('Dosis_800.eot?#iefix') format('embedded-opentype'),
+		/* from https://fonts.gstatic.com/s/dosis/v6/k9xA3bmr7wstksq4xsFJafesZW2xOQ-xsNqO47m55DA.woff */
+		url('Dosis_800.woff') format('woff'),
+		/* from https://fonts.gstatic.com/s/dosis/v6/nq3OPeKr7RUSF_YDJ1woxvesZW2xOQ-xsNqO47m55DA.woff2 */
+		url('Dosis_800.woff2') format('woff2'),
+		/* from https://fonts.gstatic.com/l/font?kit=DTV-Hxaiy_XSeKEBththpvesZW2xOQ-xsNqO47m55DA&skey=19b54ae6e098bf9f&v=v6#Dosis */
+		url('Dosis_800.svg#Dosis') format('svg'),
+		/* from https://fonts.gstatic.com/s/dosis/v6/T4JvHtpMHbjlr73o1YLMo_esZW2xOQ-xsNqO47m55DA.ttf */
+		url('Dosis_800.ttf') format('truetype');
+}

@@ -1,0 +1,18 @@
+@font-face {
+	font-family: 'Indie Flower';
+	font-style: normal;
+	font-weight: normal;
+	src:
+		local('Indie Flower'),
+		local('IndieFlower'),
+		/* from https://fonts.gstatic.com/s/indieflower/v8/10JVD_humAd5zP2yrFqw6nZ2MAKAc2x4R1uOSeegc5U.eot */
+		url('Indie_Flower.eot?#iefix') format('embedded-opentype'),
+		/* from https://fonts.gstatic.com/s/indieflower/v8/10JVD_humAd5zP2yrFqw6nhCUOGz7vYGh680lGh-uXM.woff */
+		url('Indie_Flower.woff') format('woff'),
+		/* from https://fonts.gstatic.com/s/indieflower/v8/10JVD_humAd5zP2yrFqw6ugdm0LZdjqr5-oayXSOefg.woff2 */
+		url('Indie_Flower.woff2') format('woff2'),
+		/* from https://fonts.gstatic.com/l/font?kit=10JVD_humAd5zP2yrFqw6llIn5tFQcqMuf-jhyJP0ps&skey=cdda66716f19c532&v=v8#IndieFlower */
+		url('Indie_Flower.svg#IndieFlower') format('svg'),
+		/* from https://fonts.gstatic.com/s/indieflower/v8/10JVD_humAd5zP2yrFqw6onF5uFdDttMLvmWuJdhhgs.ttf */
+		url('Indie_Flower.ttf') format('truetype');
+}

@@ -1,0 +1,54 @@
+@font-face {
+	font-family: 'Cinzel';
+	font-style: normal;
+	font-weight: normal;
+	src:
+		local('Cinzel Regular'),
+		local('Cinzel-Regular'),
+		/* from https://fonts.gstatic.com/s/cinzel/v5/AJV8Cpuc3TnmQZiYfRqP9Q.eot */
+		url('Cinzel.eot?#iefix') format('embedded-opentype'),
+		/* from https://fonts.gstatic.com/s/cinzel/v5/mLL0ZqnXRx3m16FnBy9gcg.woff */
+		url('Cinzel.woff') format('woff'),
+		/* from https://fonts.gstatic.com/s/cinzel/v5/zOdksD_UUTk1LJF9z4tURA.woff2 */
+		url('Cinzel.woff2') format('woff2'),
+		/* from https://fonts.gstatic.com/l/font?kit=eDhPXP9v8KvQomWB84nKuQ&skey=f319ae43d1034808&v=v5#Cinzel */
+		url('Cinzel.svg#Cinzel') format('svg'),
+		/* from https://fonts.gstatic.com/s/cinzel/v5/Hm1qjDlZpOdVXoa-QGE7_w.ttf */
+		url('Cinzel.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Cinzel';
+	font-style: normal;
+	font-weight: 700;
+	src:
+		local('Cinzel Bold'),
+		local('Cinzel-Bold'),
+		/* from https://fonts.gstatic.com/s/cinzel/v5/L74890HNVnUypqWjqGUt1fY6323mHUZFJMgTvxaG2iE.eot */
+		url('Cinzel_700.eot?#iefix') format('embedded-opentype'),
+		/* from https://fonts.gstatic.com/s/cinzel/v5/L74890HNVnUypqWjqGUt1T8E0i7KZn-EPnyo3HZu7kw.woff */
+		url('Cinzel_700.woff') format('woff'),
+		/* from https://fonts.gstatic.com/s/cinzel/v5/L74890HNVnUypqWjqGUt1VtXRa8TVwTICgirnJhmVJw.woff2 */
+		url('Cinzel_700.woff2') format('woff2'),
+		/* from https://fonts.gstatic.com/l/font?kit=L74890HNVnUypqWjqGUt1Zbd9NUM7myrQQz30yPaGQ4&skey=d0bd7ac4911fce5f&v=v5#Cinzel */
+		url('Cinzel_700.svg#Cinzel') format('svg'),
+		/* from https://fonts.gstatic.com/s/cinzel/v5/L74890HNVnUypqWjqGUt1aCWcynf_cDxXwCLxiixG1c.ttf */
+		url('Cinzel_700.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Cinzel';
+	font-style: normal;
+	font-weight: 900;
+	src:
+		local('Cinzel Black'),
+		local('Cinzel-Black'),
+		/* from https://fonts.gstatic.com/s/cinzel/v5/u8CPqNcpTcF_eDy_SWp9tfY6323mHUZFJMgTvxaG2iE.eot */
+		url('Cinzel_900.eot?#iefix') format('embedded-opentype'),
+		/* from https://fonts.gstatic.com/s/cinzel/v5/u8CPqNcpTcF_eDy_SWp9tT8E0i7KZn-EPnyo3HZu7kw.woff */
+		url('Cinzel_900.woff') format('woff'),
+		/* from https://fonts.gstatic.com/s/cinzel/v5/u8CPqNcpTcF_eDy_SWp9tVtXRa8TVwTICgirnJhmVJw.woff2 */
+		url('Cinzel_900.woff2') format('woff2'),
+		/* from https://fonts.gstatic.com/l/font?kit=u8CPqNcpTcF_eDy_SWp9tZbd9NUM7myrQQz30yPaGQ4&skey=be449759839bebc9&v=v5#Cinzel */
+		url('Cinzel_900.svg#Cinzel') format('svg'),
+		/* from https://fonts.gstatic.com/s/cinzel/v5/u8CPqNcpTcF_eDy_SWp9taCWcynf_cDxXwCLxiixG1c.ttf */
+		url('Cinzel_900.ttf') format('truetype');
+}

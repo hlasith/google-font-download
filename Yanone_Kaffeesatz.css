@@ -1,0 +1,72 @@
+@font-face {
+	font-family: 'Yanone Kaffeesatz';
+	font-style: normal;
+	font-weight: 200;
+	src:
+		local('Yanone Kaffeesatz ExtraLight'),
+		local('YanoneKaffeesatz-ExtraLight'),
+		/* from https://fonts.gstatic.com/s/yanonekaffeesatz/v8/We_iSDqttE3etzfdfhuPRWq2CVSYRrhnN0MLOqfxTW0.eot */
+		url('Yanone_Kaffeesatz_200.eot?#iefix') format('embedded-opentype'),
+		/* from https://fonts.gstatic.com/s/yanonekaffeesatz/v8/We_iSDqttE3etzfdfhuPRYa6iXjgqaxY3DU3RqApPOI.woff */
+		url('Yanone_Kaffeesatz_200.woff') format('woff'),
+		/* from https://fonts.gstatic.com/s/yanonekaffeesatz/v8/We_iSDqttE3etzfdfhuPRQqftcMOL_w0yR9WY4zwDNA.woff2 */
+		url('Yanone_Kaffeesatz_200.woff2') format('woff2'),
+		/* from https://fonts.gstatic.com/l/font?kit=We_iSDqttE3etzfdfhuPRZA_RcW81QXec6uytui-FqY&skey=28742c87b28c371c&v=v8#YanoneKaffeesatz */
+		url('Yanone_Kaffeesatz_200.svg#YanoneKaffeesatz') format('svg'),
+		/* from https://fonts.gstatic.com/s/yanonekaffeesatz/v8/We_iSDqttE3etzfdfhuPRQqTbvZhoFeVhlHCS0LaBIg.ttf */
+		url('Yanone_Kaffeesatz_200.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Yanone Kaffeesatz';
+	font-style: normal;
+	font-weight: 300;
+	src:
+		local('Yanone Kaffeesatz Light'),
+		local('YanoneKaffeesatz-Light'),
+		/* from https://fonts.gstatic.com/s/yanonekaffeesatz/v8/We_iSDqttE3etzfdfhuPRWTXtl1c-F3iJbb1BFQFj0g.eot */
+		url('Yanone_Kaffeesatz_300.eot?#iefix') format('embedded-opentype'),
+		/* from https://fonts.gstatic.com/s/yanonekaffeesatz/v8/We_iSDqttE3etzfdfhuPRVMR8FhBa8rkfAKaPBwAU3s.woff */
+		url('Yanone_Kaffeesatz_300.woff') format('woff'),
+		/* from https://fonts.gstatic.com/s/yanonekaffeesatz/v8/We_iSDqttE3etzfdfhuPRcITWGgmQvtcmgaGakhz0f4.woff2 */
+		url('Yanone_Kaffeesatz_300.woff2') format('woff2'),
+		/* from https://fonts.gstatic.com/l/font?kit=We_iSDqttE3etzfdfhuPRURO0EwNgNke8B660orAdog&skey=7ed7f9a84d49bf3e&v=v8#YanoneKaffeesatz */
+		url('Yanone_Kaffeesatz_300.svg#YanoneKaffeesatz') format('svg'),
+		/* from https://fonts.gstatic.com/s/yanonekaffeesatz/v8/We_iSDqttE3etzfdfhuPRX4NhRhUVU1NOvrEWRXSCoI.ttf */
+		url('Yanone_Kaffeesatz_300.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Yanone Kaffeesatz';
+	font-style: normal;
+	font-weight: normal;
+	src:
+		local('Yanone Kaffeesatz Regular'),
+		local('YanoneKaffeesatz-Regular'),
+		/* from https://fonts.gstatic.com/s/yanonekaffeesatz/v8/YDAoLskQQ5MOAgvHUQCcLbcQawGFB1zaa2VYh64hVv8.eot */
+		url('Yanone_Kaffeesatz.eot?#iefix') format('embedded-opentype'),
+		/* from https://fonts.gstatic.com/s/yanonekaffeesatz/v8/YDAoLskQQ5MOAgvHUQCcLRTHiN2BPBirwIkMLKUspj4.woff */
+		url('Yanone_Kaffeesatz.woff') format('woff'),
+		/* from https://fonts.gstatic.com/s/yanonekaffeesatz/v8/YDAoLskQQ5MOAgvHUQCcLfGwxTS8d1Q9KiDNCMKLFUM.woff2 */
+		url('Yanone_Kaffeesatz.woff2') format('woff2'),
+		/* from https://fonts.gstatic.com/l/font?kit=YDAoLskQQ5MOAgvHUQCcLVo5cPwm5NmpXPRhl3HDdWE&skey=3fc37ea29e333560&v=v8#YanoneKaffeesatz */
+		url('Yanone_Kaffeesatz.svg#YanoneKaffeesatz') format('svg'),
+		/* from https://fonts.gstatic.com/s/yanonekaffeesatz/v8/YDAoLskQQ5MOAgvHUQCcLbvy90DtE_Pg_qiF9bHvTzw.ttf */
+		url('Yanone_Kaffeesatz.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Yanone Kaffeesatz';
+	font-style: normal;
+	font-weight: 700;
+	src:
+		local('Yanone Kaffeesatz Bold'),
+		local('YanoneKaffeesatz-Bold'),
+		/* from https://fonts.gstatic.com/s/yanonekaffeesatz/v8/We_iSDqttE3etzfdfhuPRV9v2LUGHTMs1d0N_ux_BpI.eot */
+		url('Yanone_Kaffeesatz_700.eot?#iefix') format('embedded-opentype'),
+		/* from https://fonts.gstatic.com/s/yanonekaffeesatz/v8/We_iSDqttE3etzfdfhuPRWwXwFHHZlCwprwJOQ-Se7k.woff */
+		url('Yanone_Kaffeesatz_700.woff') format('woff'),
+		/* from https://fonts.gstatic.com/s/yanonekaffeesatz/v8/We_iSDqttE3etzfdfhuPRfZL2QQ6ZygscP6wIFo8mp8.woff2 */
+		url('Yanone_Kaffeesatz_700.woff2') format('woff2'),
+		/* from https://fonts.gstatic.com/l/font?kit=We_iSDqttE3etzfdfhuPRcgHHbnmeswU9dr5eq_yjmc&skey=32629c9b4862b696&v=v8#YanoneKaffeesatz */
+		url('Yanone_Kaffeesatz_700.svg#YanoneKaffeesatz') format('svg'),
+		/* from https://fonts.gstatic.com/s/yanonekaffeesatz/v8/We_iSDqttE3etzfdfhuPRUgbSk09ekaEjkXjfj0Ujx8.ttf */
+		url('Yanone_Kaffeesatz_700.ttf') format('truetype');
+}

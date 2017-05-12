@@ -1,0 +1,18 @@
+@font-face {
+	font-family: 'Bree Serif';
+	font-style: normal;
+	font-weight: normal;
+	src:
+		local('Bree Serif'),
+		local('BreeSerif-Regular'),
+		/* from https://fonts.gstatic.com/s/breeserif/v5/LQ7WLTaITDg4OSRuOZCps1QlYEbsez9cZjKsNMjLOwM.eot */
+		url('Bree_Serif.eot?#iefix') format('embedded-opentype'),
+		/* from https://fonts.gstatic.com/s/breeserif/v5/LQ7WLTaITDg4OSRuOZCpsxsxEYwM7FgeyaSgU71cLG0.woff */
+		url('Bree_Serif.woff') format('woff'),
+		/* from https://fonts.gstatic.com/s/breeserif/v5/LQ7WLTaITDg4OSRuOZCps_k_vArhqVIZ0nv9q090hN8.woff2 */
+		url('Bree_Serif.woff2') format('woff2'),
+		/* from https://fonts.gstatic.com/l/font?kit=LQ7WLTaITDg4OSRuOZCps6WUboTb-jS2tyCOQMtm97g&skey=31c3ad25dd3d74b0&v=v5#BreeSerif */
+		url('Bree_Serif.svg#BreeSerif') format('svg'),
+		/* from https://fonts.gstatic.com/s/breeserif/v5/LQ7WLTaITDg4OSRuOZCpsy3USBnSvpkopQaUR-2r7iU.ttf */
+		url('Bree_Serif.ttf') format('truetype');
+}

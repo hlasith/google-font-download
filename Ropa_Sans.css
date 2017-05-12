@@ -1,0 +1,36 @@
+@font-face {
+	font-family: 'Ropa Sans';
+	font-style: normal;
+	font-weight: normal;
+	src:
+		local('Ropa Sans Regular'),
+		local('RopaSans-Regular'),
+		/* from https://fonts.gstatic.com/s/ropasans/v6/QnguTd82yEUxQZygH2gm8PY6323mHUZFJMgTvxaG2iE.eot */
+		url('Ropa_Sans.eot?#iefix') format('embedded-opentype'),
+		/* from https://fonts.gstatic.com/s/ropasans/v6/QnguTd82yEUxQZygH2gm8D8E0i7KZn-EPnyo3HZu7kw.woff */
+		url('Ropa_Sans.woff') format('woff'),
+		/* from https://fonts.gstatic.com/s/ropasans/v6/QnguTd82yEUxQZygH2gm8FtXRa8TVwTICgirnJhmVJw.woff2 */
+		url('Ropa_Sans.woff2') format('woff2'),
+		/* from https://fonts.gstatic.com/l/font?kit=QnguTd82yEUxQZygH2gm8Jbd9NUM7myrQQz30yPaGQ4&skey=edf65b5a911839ad&v=v6#RopaSans */
+		url('Ropa_Sans.svg#RopaSans') format('svg'),
+		/* from https://fonts.gstatic.com/s/ropasans/v6/QnguTd82yEUxQZygH2gm8KCWcynf_cDxXwCLxiixG1c.ttf */
+		url('Ropa_Sans.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Ropa Sans';
+	font-style: italic;
+	font-weight: normal;
+	src:
+		local('Ropa Sans Italic'),
+		local('RopaSans-Italic'),
+		/* from https://fonts.gstatic.com/s/ropasans/v6/Wprc8_GrCVbQmKc-0NykFGfQcKutQXcIrRfyR5jdjY8.eot */
+		url('Ropa_Sans_italic.eot?#iefix') format('embedded-opentype'),
+		/* from https://fonts.gstatic.com/s/ropasans/v6/Wprc8_GrCVbQmKc-0NykFIbN6UDyHWBl620a-IRfuBk.woff */
+		url('Ropa_Sans_italic.woff') format('woff'),
+		/* from https://fonts.gstatic.com/s/ropasans/v6/Wprc8_GrCVbQmKc-0NykFI4P5ICox8Kq3LLUNMylGO4.woff2 */
+		url('Ropa_Sans_italic.woff2') format('woff2'),
+		/* from https://fonts.gstatic.com/l/font?kit=Wprc8_GrCVbQmKc-0NykFHNsigHlcrQGNV8nkUSFQfc&skey=c6198dadd1bf5d82&v=v6#RopaSans */
+		url('Ropa_Sans_italic.svg#RopaSans') format('svg'),
+		/* from https://fonts.gstatic.com/s/ropasans/v6/Wprc8_GrCVbQmKc-0NykFJ0EAVxt0G0biEntp43Qt6E.ttf */
+		url('Ropa_Sans_italic.ttf') format('truetype');
+}

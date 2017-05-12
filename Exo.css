@@ -1,0 +1,324 @@
+@font-face {
+	font-family: 'Exo';
+	font-style: normal;
+	font-weight: 100;
+	src:
+		local('Exo Thin'),
+		local('Exo-Thin'),
+		/* from https://fonts.gstatic.com/s/exo/v4/VOjseMs0W_ksoG9OL6sjpQ.eot */
+		url('Exo_100.eot?#iefix') format('embedded-opentype'),
+		/* from https://fonts.gstatic.com/s/exo/v4/qyfp0OSqk7TET2opvcMBmw.woff */
+		url('Exo_100.woff') format('woff'),
+		/* from https://fonts.gstatic.com/s/exo/v4/bSEuBfAK9i16rKak_EdKNA.woff2 */
+		url('Exo_100.woff2') format('woff2'),
+		/* from https://fonts.gstatic.com/l/font?kit=f4pHyNkoi9ECgBVkeShzug&skey=150f29d0dd342204&v=v4#Exo */
+		url('Exo_100.svg#Exo') format('svg'),
+		/* from https://fonts.gstatic.com/s/exo/v4/Zr0MbJYTAN-HcZ_bTgvIlw.ttf */
+		url('Exo_100.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Exo';
+	font-style: italic;
+	font-weight: 100;
+	src:
+		local('Exo Thin Italic'),
+		local('Exo-ThinItalic'),
+		/* from https://fonts.gstatic.com/s/exo/v4/ogJI9GcDrrdUNfxuCUzX2A.eot */
+		url('Exo_100italic.eot?#iefix') format('embedded-opentype'),
+		/* from https://fonts.gstatic.com/s/exo/v4/-KJ68G4vOQ0iT-Z_CUBd8g.woff */
+		url('Exo_100italic.woff') format('woff'),
+		/* from https://fonts.gstatic.com/s/exo/v4/0FowQzHsbSUXYXQSNXDxZQ.woff2 */
+		url('Exo_100italic.woff2') format('woff2'),
+		/* from https://fonts.gstatic.com/l/font?kit=TrlXfQd1QcyRg_HCCXv_WA&skey=3a0a54bdb7dec61e&v=v4#Exo */
+		url('Exo_100italic.svg#Exo') format('svg'),
+		/* from https://fonts.gstatic.com/s/exo/v4/4_gM-2xprP9aijXPNKBsdw.ttf */
+		url('Exo_100italic.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Exo';
+	font-style: normal;
+	font-weight: 200;
+	src:
+		local('Exo ExtraLight'),
+		local('Exo-ExtraLight'),
+		/* from https://fonts.gstatic.com/s/exo/v4/6qQWt5DRe819A_OLSfea_g.eot */
+		url('Exo_200.eot?#iefix') format('embedded-opentype'),
+		/* from https://fonts.gstatic.com/s/exo/v4/z1hPnoJcXaXYata_d2utlw.woff */
+		url('Exo_200.woff') format('woff'),
+		/* from https://fonts.gstatic.com/s/exo/v4/lA-XzkxvFbAS7qSN5Rm7dw.woff2 */
+		url('Exo_200.woff2') format('woff2'),
+		/* from https://fonts.gstatic.com/l/font?kit=TtvTjj7-3Dy7gGqp7SBstA&skey=2558ecaabf36cab6&v=v4#Exo */
+		url('Exo_200.svg#Exo') format('svg'),
+		/* from https://fonts.gstatic.com/s/exo/v4/CMKhhPu7qcBoVeO_FVLYTg.ttf */
+		url('Exo_200.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Exo';
+	font-style: italic;
+	font-weight: 200;
+	src:
+		local('Exo ExtraLight Italic'),
+		local('Exo-ExtraLightItalic'),
+		/* from https://fonts.gstatic.com/s/exo/v4/bPaOoFN460bwbLDC1739p_esZW2xOQ-xsNqO47m55DA.eot */
+		url('Exo_200italic.eot?#iefix') format('embedded-opentype'),
+		/* from https://fonts.gstatic.com/s/exo/v4/nNEH4yXWO5IRvRnrB8N0o_esZW2xOQ-xsNqO47m55DA.woff */
+		url('Exo_200italic.woff') format('woff'),
+		/* from https://fonts.gstatic.com/s/exo/v4/ksgOZSvBz0KxrfGBw7dPafesZW2xOQ-xsNqO47m55DA.woff2 */
+		url('Exo_200italic.woff2') format('woff2'),
+		/* from https://fonts.gstatic.com/l/font?kit=ZS4g5weXE5xx8I3SUy5a2vesZW2xOQ-xsNqO47m55DA&skey=bb8551abc124e341&v=v4#Exo */
+		url('Exo_200italic.svg#Exo') format('svg'),
+		/* from https://fonts.gstatic.com/s/exo/v4/KZkPTFM02P3uTVfiDk6i2_esZW2xOQ-xsNqO47m55DA.ttf */
+		url('Exo_200italic.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Exo';
+	font-style: normal;
+	font-weight: 300;
+	src:
+		local('Exo Light'),
+		local('Exo-Light'),
+		/* from https://fonts.gstatic.com/s/exo/v4/f7h3uM6Fc-o-wzyP4yY8ew.eot */
+		url('Exo_300.eot?#iefix') format('embedded-opentype'),
+		/* from https://fonts.gstatic.com/s/exo/v4/q_s1igR8FunFvLlUJksouQ.woff */
+		url('Exo_300.woff') format('woff'),
+		/* from https://fonts.gstatic.com/s/exo/v4/941bfrYtYbqlIetUPXD4ww.woff2 */
+		url('Exo_300.woff2') format('woff2'),
+		/* from https://fonts.gstatic.com/l/font?kit=8QOm49pxpxDNKkquzuhabA&skey=6eae7d942f52dbe4&v=v4#Exo */
+		url('Exo_300.svg#Exo') format('svg'),
+		/* from https://fonts.gstatic.com/s/exo/v4/dmD6gKcs59jrq1uKvTTMxQ.ttf */
+		url('Exo_300.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Exo';
+	font-style: italic;
+	font-weight: 300;
+	src:
+		local('Exo Light Italic'),
+		local('Exo-LightItalic'),
+		/* from https://fonts.gstatic.com/s/exo/v4/9Eh3TQAsmD4fal8OOPuTa_esZW2xOQ-xsNqO47m55DA.eot */
+		url('Exo_300italic.eot?#iefix') format('embedded-opentype'),
+		/* from https://fonts.gstatic.com/s/exo/v4/MvuC31KewP-QFsxbMzfMJfesZW2xOQ-xsNqO47m55DA.woff */
+		url('Exo_300italic.woff') format('woff'),
+		/* from https://fonts.gstatic.com/s/exo/v4/03NQSoZ7CsKvmGnpKsEEM_esZW2xOQ-xsNqO47m55DA.woff2 */
+		url('Exo_300italic.woff2') format('woff2'),
+		/* from https://fonts.gstatic.com/l/font?kit=5htIOIG6yi1A-jDKqXwfb_esZW2xOQ-xsNqO47m55DA&skey=c913fe6886eb11a6&v=v4#Exo */
+		url('Exo_300italic.svg#Exo') format('svg'),
+		/* from https://fonts.gstatic.com/s/exo/v4/FO--mEKyXT4ugIkHKUxgOvesZW2xOQ-xsNqO47m55DA.ttf */
+		url('Exo_300italic.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Exo';
+	font-style: normal;
+	font-weight: normal;
+	src:
+		local('Exo Regular'),
+		local('Exo-Regular'),
+		/* from https://fonts.gstatic.com/s/exo/v4/dyHAhrKQv_y08D_BHFQ0zA.eot */
+		url('Exo.eot?#iefix') format('embedded-opentype'),
+		/* from https://fonts.gstatic.com/s/exo/v4/wocyXRLWPo2Av-yUTmmbTA.woff */
+		url('Exo.woff') format('woff'),
+		/* from https://fonts.gstatic.com/s/exo/v4/kA_pX0U45Eb7PbHijV1x2w.woff2 */
+		url('Exo.woff2') format('woff2'),
+		/* from https://fonts.gstatic.com/l/font?kit=cvTBUZIA6fkfZ-kQoUuiKg&skey=863005d54d49b6b0&v=v4#Exo */
+		url('Exo.svg#Exo') format('svg'),
+		/* from https://fonts.gstatic.com/s/exo/v4/m5W5Curk5POZ4iQOoRn-Ug.ttf */
+		url('Exo.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Exo';
+	font-style: italic;
+	font-weight: normal;
+	src:
+		local('Exo Italic'),
+		local('Exo-Italic'),
+		/* from https://fonts.gstatic.com/s/exo/v4/j5-A0SDRUMMsVNSIuqr_tg.eot */
+		url('Exo_italic.eot?#iefix') format('embedded-opentype'),
+		/* from https://fonts.gstatic.com/s/exo/v4/SrRPhC0khZfK-pbowUGBAw.woff */
+		url('Exo_italic.woff') format('woff'),
+		/* from https://fonts.gstatic.com/s/exo/v4/OYgAYULBTKMJJUVQZpJ1ug.woff2 */
+		url('Exo_italic.woff2') format('woff2'),
+		/* from https://fonts.gstatic.com/l/font?kit=w2BntWMuc0Fmk5BM15fQmg&skey=2161cc604861ac4f&v=v4#Exo */
+		url('Exo_italic.svg#Exo') format('svg'),
+		/* from https://fonts.gstatic.com/s/exo/v4/ouqjB58-qIbIc6tNtOafrA.ttf */
+		url('Exo_italic.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Exo';
+	font-style: normal;
+	font-weight: 500;
+	src:
+		local('Exo Medium'),
+		local('Exo-Medium'),
+		/* from https://fonts.gstatic.com/s/exo/v4/8rLK3CifJ3ocszySMSwoLA.eot */
+		url('Exo_500.eot?#iefix') format('embedded-opentype'),
+		/* from https://fonts.gstatic.com/s/exo/v4/yLVQVmQgTSUkafMu4HoVJA.woff */
+		url('Exo_500.woff') format('woff'),
+		/* from https://fonts.gstatic.com/s/exo/v4/cfsS7mtf7BxCwNsl8jG12A.woff2 */
+		url('Exo_500.woff2') format('woff2'),
+		/* from https://fonts.gstatic.com/l/font?kit=nNXZdQktuiUx14gwTwBdnQ&skey=2072b70fe7bb0135&v=v4#Exo */
+		url('Exo_500.svg#Exo') format('svg'),
+		/* from https://fonts.gstatic.com/s/exo/v4/9GQrDsQoLNPSbu4a8XkaZw.ttf */
+		url('Exo_500.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Exo';
+	font-style: italic;
+	font-weight: 500;
+	src:
+		local('Exo Medium Italic'),
+		local('Exo-MediumItalic'),
+		/* from https://fonts.gstatic.com/s/exo/v4/iV35VkJ8WH4-QDb34ffvQPesZW2xOQ-xsNqO47m55DA.eot */
+		url('Exo_500italic.eot?#iefix') format('embedded-opentype'),
+		/* from https://fonts.gstatic.com/s/exo/v4/1LnzhM6dYPICwfoM9MfuCvesZW2xOQ-xsNqO47m55DA.woff */
+		url('Exo_500italic.woff') format('woff'),
+		/* from https://fonts.gstatic.com/s/exo/v4/gt2C348WKP6Tg5YiMi0znPesZW2xOQ-xsNqO47m55DA.woff2 */
+		url('Exo_500italic.woff2') format('woff2'),
+		/* from https://fonts.gstatic.com/l/font?kit=NJYki527kG7jl0ctdQ8j9fesZW2xOQ-xsNqO47m55DA&skey=53fc48e2860c5a9b&v=v4#Exo */
+		url('Exo_500italic.svg#Exo') format('svg'),
+		/* from https://fonts.gstatic.com/s/exo/v4/EirSuhHc5LPsqOkwuKdd8PesZW2xOQ-xsNqO47m55DA.ttf */
+		url('Exo_500italic.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Exo';
+	font-style: normal;
+	font-weight: 600;
+	src:
+		local('Exo DemiBold'),
+		local('Exo-DemiBold'),
+		/* from https://fonts.gstatic.com/s/exo/v4/U0OOWpwWYfUE8Sb7dldpuQ.eot */
+		url('Exo_600.eot?#iefix') format('embedded-opentype'),
+		/* from https://fonts.gstatic.com/s/exo/v4/yQnHD5L8a9aDb09o13m_pg.woff */
+		url('Exo_600.woff') format('woff'),
+		/* from https://fonts.gstatic.com/s/exo/v4/7elr158u735yPgzh9pDCKA.woff2 */
+		url('Exo_600.woff2') format('woff2'),
+		/* from https://fonts.gstatic.com/l/font?kit=zWsh8dtxPylcq0O0P4sPzw&skey=77e591a6753a9a2a&v=v4#Exo */
+		url('Exo_600.svg#Exo') format('svg'),
+		/* from https://fonts.gstatic.com/s/exo/v4/BfPy-oLZyJitfovLhnoy1A.ttf */
+		url('Exo_600.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Exo';
+	font-style: italic;
+	font-weight: 600;
+	src:
+		local('Exo DemiBold Italic'),
+		local('Exo-DemiBoldItalic'),
+		/* from https://fonts.gstatic.com/s/exo/v4/MoN1T7I1tnJv0ZaLPHngrPesZW2xOQ-xsNqO47m55DA.eot */
+		url('Exo_600italic.eot?#iefix') format('embedded-opentype'),
+		/* from https://fonts.gstatic.com/s/exo/v4/cS7UYuQb9nyqGPgy45MPV_esZW2xOQ-xsNqO47m55DA.woff */
+		url('Exo_600italic.woff') format('woff'),
+		/* from https://fonts.gstatic.com/s/exo/v4/cvUEH30wvJ41QjMDDF8gS_esZW2xOQ-xsNqO47m55DA.woff2 */
+		url('Exo_600italic.woff2') format('woff2'),
+		/* from https://fonts.gstatic.com/l/font?kit=EtJyIugLkIFZCX5jf1pIG_esZW2xOQ-xsNqO47m55DA&skey=471edf49a1304d68&v=v4#Exo */
+		url('Exo_600italic.svg#Exo') format('svg'),
+		/* from https://fonts.gstatic.com/s/exo/v4/Ek_R6ngmT59El5kpkoxOePesZW2xOQ-xsNqO47m55DA.ttf */
+		url('Exo_600italic.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Exo';
+	font-style: normal;
+	font-weight: 700;
+	src:
+		local('Exo Bold'),
+		local('Exo-Bold'),
+		/* from https://fonts.gstatic.com/s/exo/v4/OqFmJmsFlYjHnwejpSKkeA.eot */
+		url('Exo_700.eot?#iefix') format('embedded-opentype'),
+		/* from https://fonts.gstatic.com/s/exo/v4/RokIQ-knd7LT9uhmuUjL2g.woff */
+		url('Exo_700.woff') format('woff'),
+		/* from https://fonts.gstatic.com/s/exo/v4/brV063mXxrmTeVdLP9P6Kw.woff2 */
+		url('Exo_700.woff2') format('woff2'),
+		/* from https://fonts.gstatic.com/l/font?kit=Vwb9N8hmeDsYZStIPHxi2g&skey=6759387ed4e2b00a&v=v4#Exo */
+		url('Exo_700.svg#Exo') format('svg'),
+		/* from https://fonts.gstatic.com/s/exo/v4/Pb-Tqi3xXEdTJ3ZTpmCsBw.ttf */
+		url('Exo_700.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Exo';
+	font-style: italic;
+	font-weight: 700;
+	src:
+		local('Exo Bold Italic'),
+		local('Exo-BoldItalic'),
+		/* from https://fonts.gstatic.com/s/exo/v4/w1T345y6R264yP2x7dODNfesZW2xOQ-xsNqO47m55DA.eot */
+		url('Exo_700italic.eot?#iefix') format('embedded-opentype'),
+		/* from https://fonts.gstatic.com/s/exo/v4/ENjw15vOU74UM6LyiOhPTvesZW2xOQ-xsNqO47m55DA.woff */
+		url('Exo_700italic.woff') format('woff'),
+		/* from https://fonts.gstatic.com/s/exo/v4/RUd6U3c1BMbwtyTv2U6XJfesZW2xOQ-xsNqO47m55DA.woff2 */
+		url('Exo_700italic.woff2') format('woff2'),
+		/* from https://fonts.gstatic.com/l/font?kit=oUSh_mPyt1UTq5MsK7LcmfesZW2xOQ-xsNqO47m55DA&skey=8a55f10e7b609870&v=v4#Exo */
+		url('Exo_700italic.svg#Exo') format('svg'),
+		/* from https://fonts.gstatic.com/s/exo/v4/SCJ8lcLktXFnX90KWp_oHPesZW2xOQ-xsNqO47m55DA.ttf */
+		url('Exo_700italic.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Exo';
+	font-style: normal;
+	font-weight: 800;
+	src:
+		local('Exo ExtraBold'),
+		local('Exo-ExtraBold'),
+		/* from https://fonts.gstatic.com/s/exo/v4/_0lZ4rpzKoEeSwD2vr3bzw.eot */
+		url('Exo_800.eot?#iefix') format('embedded-opentype'),
+		/* from https://fonts.gstatic.com/s/exo/v4/JZqdj-HRS4iJsSlrSwRCxA.woff */
+		url('Exo_800.woff') format('woff'),
+		/* from https://fonts.gstatic.com/s/exo/v4/bxee2kBKNXMDa_dqwEq7Bg.woff2 */
+		url('Exo_800.woff2') format('woff2'),
+		/* from https://fonts.gstatic.com/l/font?kit=3XXMoq23EHjy-eUgMlTIHA&skey=c99d7166b365909a&v=v4#Exo */
+		url('Exo_800.svg#Exo') format('svg'),
+		/* from https://fonts.gstatic.com/s/exo/v4/q6KmdSsfN6LEK-raIRJ77Q.ttf */
+		url('Exo_800.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Exo';
+	font-style: italic;
+	font-weight: 800;
+	src:
+		local('Exo ExtraBold Italic'),
+		local('Exo-ExtraBoldItalic'),
+		/* from https://fonts.gstatic.com/s/exo/v4/iB-Gkexg6ZMds7bgbjLbGvesZW2xOQ-xsNqO47m55DA.eot */
+		url('Exo_800italic.eot?#iefix') format('embedded-opentype'),
+		/* from https://fonts.gstatic.com/s/exo/v4/OxHvdhxScdJBgJvW3f2di_esZW2xOQ-xsNqO47m55DA.woff */
+		url('Exo_800italic.woff') format('woff'),
+		/* from https://fonts.gstatic.com/s/exo/v4/VOUNauBNZHRPXwo-B101VvesZW2xOQ-xsNqO47m55DA.woff2 */
+		url('Exo_800italic.woff2') format('woff2'),
+		/* from https://fonts.gstatic.com/l/font?kit=sz26T5cwQICVvUeISfqLD_esZW2xOQ-xsNqO47m55DA&skey=7e2ab59806b31a20&v=v4#Exo */
+		url('Exo_800italic.svg#Exo') format('svg'),
+		/* from https://fonts.gstatic.com/s/exo/v4/mdnzu29W-cFZeYROHmmUVfesZW2xOQ-xsNqO47m55DA.ttf */
+		url('Exo_800italic.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Exo';
+	font-style: normal;
+	font-weight: 900;
+	src:
+		local('Exo Black'),
+		local('Exo-Black'),
+		/* from https://fonts.gstatic.com/s/exo/v4/Z_9mpTFG4gyBbpuwvgPjcA.eot */
+		url('Exo_900.eot?#iefix') format('embedded-opentype'),
+		/* from https://fonts.gstatic.com/s/exo/v4/vUUX2FySly3npcleKTbosw.woff */
+		url('Exo_900.woff') format('woff'),
+		/* from https://fonts.gstatic.com/s/exo/v4/zss5QirmJkYz6dW5juecsA.woff2 */
+		url('Exo_900.woff2') format('woff2'),
+		/* from https://fonts.gstatic.com/l/font?kit=1sappH6fyqUr7jS55g5ipg&skey=a6a95706168b5491&v=v4#Exo */
+		url('Exo_900.svg#Exo') format('svg'),
+		/* from https://fonts.gstatic.com/s/exo/v4/1eQ4lxSu6Wlzo5DJtsj51w.ttf */
+		url('Exo_900.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Exo';
+	font-style: italic;
+	font-weight: 900;
+	src:
+		local('Exo Black Italic'),
+		local('Exo-BlackItalic'),
+		/* from https://fonts.gstatic.com/s/exo/v4/R_-He4veb-vmLJRHMeMXKfesZW2xOQ-xsNqO47m55DA.eot */
+		url('Exo_900italic.eot?#iefix') format('embedded-opentype'),
+		/* from https://fonts.gstatic.com/s/exo/v4/3cavH_EZOAWIiny3PJAOYfesZW2xOQ-xsNqO47m55DA.woff */
+		url('Exo_900italic.woff') format('woff'),
+		/* from https://fonts.gstatic.com/s/exo/v4/Js4AswrKxFUW89UW03LfJvesZW2xOQ-xsNqO47m55DA.woff2 */
+		url('Exo_900italic.woff2') format('woff2'),
+		/* from https://fonts.gstatic.com/l/font?kit=pe-_l207gGXlFf0J9PjL0PesZW2xOQ-xsNqO47m55DA&skey=fe9831c0ffbd860f&v=v4#Exo */
+		url('Exo_900italic.svg#Exo') format('svg'),
+		/* from https://fonts.gstatic.com/s/exo/v4/i-d6hMaRtGJeX1Ae4vloR_esZW2xOQ-xsNqO47m55DA.ttf */
+		url('Exo_900italic.ttf') format('truetype');
+}

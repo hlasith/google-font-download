@@ -1,0 +1,108 @@
+@font-face {
+	font-family: 'Asap';
+	font-style: normal;
+	font-weight: normal;
+	src:
+		local('Asap Regular'),
+		local('Asap-Regular'),
+		/* from https://fonts.gstatic.com/s/asap/v5/7U2WVQLzYo7fqCE9hsW0CA.eot */
+		url('Asap.eot?#iefix') format('embedded-opentype'),
+		/* from https://fonts.gstatic.com/s/asap/v5/SgBaq0dzhSGNMfqm2JX5ng.woff */
+		url('Asap.woff') format('woff'),
+		/* from https://fonts.gstatic.com/s/asap/v5/oiVlPAjaPL0EznW3E5Z2DQ.woff2 */
+		url('Asap.woff2') format('woff2'),
+		/* from https://fonts.gstatic.com/l/font?kit=l1PhYN9wwRtKpadC331j4Q&skey=1e05f6b66acebc28&v=v5#Asap */
+		url('Asap.svg#Asap') format('svg'),
+		/* from https://fonts.gstatic.com/s/asap/v5/-KZsao_xwBpcExaHoPH8_w.ttf */
+		url('Asap.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Asap';
+	font-style: italic;
+	font-weight: normal;
+	src:
+		local('Asap Italic'),
+		local('Asap-Italic'),
+		/* from https://fonts.gstatic.com/s/asap/v5/GrwpWydk-X9BTbxj1iL9jg.eot */
+		url('Asap_italic.eot?#iefix') format('embedded-opentype'),
+		/* from https://fonts.gstatic.com/s/asap/v5/MdJnJ_Rxy6GcPmasGZsTfQ.woff */
+		url('Asap_italic.woff') format('woff'),
+		/* from https://fonts.gstatic.com/s/asap/v5/fpSkRkcsVvo2_AnP2Zt5Yg.woff2 */
+		url('Asap_italic.woff2') format('woff2'),
+		/* from https://fonts.gstatic.com/l/font?kit=CCJDIgT_caxmdwpYbudQfQ&skey=ed90f3b9cc892982&v=v5#Asap */
+		url('Asap_italic.svg#Asap') format('svg'),
+		/* from https://fonts.gstatic.com/s/asap/v5/8YIp-EIJXA6NJdTPxy9qiQ.ttf */
+		url('Asap_italic.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Asap';
+	font-style: normal;
+	font-weight: 500;
+	src:
+		local('Asap Medium'),
+		local('Asap-Medium'),
+		/* from https://fonts.gstatic.com/s/asap/v5/PsJ2SN2R1tc9du_RJFM2rA.eot */
+		url('Asap_500.eot?#iefix') format('embedded-opentype'),
+		/* from https://fonts.gstatic.com/s/asap/v5/5LPMv47DnkTSMsTmLffcAg.woff */
+		url('Asap_500.woff') format('woff'),
+		/* from https://fonts.gstatic.com/s/asap/v5/IQ_J-iW9w6_hWQNdfyeVJQ.woff2 */
+		url('Asap_500.woff2') format('woff2'),
+		/* from https://fonts.gstatic.com/l/font?kit=jlzCtmumF9dHUJyrehB7BQ&skey=81073966f7643c90&v=v5#Asap */
+		url('Asap_500.svg#Asap') format('svg'),
+		/* from https://fonts.gstatic.com/s/asap/v5/5CGNNia4z04rXH-iABCwKg.ttf */
+		url('Asap_500.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Asap';
+	font-style: italic;
+	font-weight: 500;
+	src:
+		local('Asap Medium Italic'),
+		local('Asap-MediumItalic'),
+		/* from https://fonts.gstatic.com/s/asap/v5/LCCJ8c2RzIweiQY73wb28PY6323mHUZFJMgTvxaG2iE.eot */
+		url('Asap_500italic.eot?#iefix') format('embedded-opentype'),
+		/* from https://fonts.gstatic.com/s/asap/v5/LCCJ8c2RzIweiQY73wb28D8E0i7KZn-EPnyo3HZu7kw.woff */
+		url('Asap_500italic.woff') format('woff'),
+		/* from https://fonts.gstatic.com/s/asap/v5/LCCJ8c2RzIweiQY73wb28FtXRa8TVwTICgirnJhmVJw.woff2 */
+		url('Asap_500italic.woff2') format('woff2'),
+		/* from https://fonts.gstatic.com/l/font?kit=LCCJ8c2RzIweiQY73wb28Jbd9NUM7myrQQz30yPaGQ4&skey=8357f0a58b20dc07&v=v5#Asap */
+		url('Asap_500italic.svg#Asap') format('svg'),
+		/* from https://fonts.gstatic.com/s/asap/v5/LCCJ8c2RzIweiQY73wb28KCWcynf_cDxXwCLxiixG1c.ttf */
+		url('Asap_500italic.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Asap';
+	font-style: normal;
+	font-weight: 700;
+	src:
+		local('Asap Bold'),
+		local('Asap-Bold'),
+		/* from https://fonts.gstatic.com/s/asap/v5/KzpxSwmYdiqHjA_2Peg1Xw.eot */
+		url('Asap_700.eot?#iefix') format('embedded-opentype'),
+		/* from https://fonts.gstatic.com/s/asap/v5/yVILXKVgPzaz72DegpV7Bg.woff */
+		url('Asap_700.woff') format('woff'),
+		/* from https://fonts.gstatic.com/s/asap/v5/YUlqaYZPVSsAAN2ZtG3iyA.woff2 */
+		url('Asap_700.woff2') format('woff2'),
+		/* from https://fonts.gstatic.com/l/font?kit=CJrjw4xoDEQHEz0xOpNqmA&skey=74c571863af0d085&v=v5#Asap */
+		url('Asap_700.svg#Asap') format('svg'),
+		/* from https://fonts.gstatic.com/s/asap/v5/5DVGWnz9Skaq1amwwwGZEw.ttf */
+		url('Asap_700.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Asap';
+	font-style: italic;
+	font-weight: 700;
+	src:
+		local('Asap Bold Italic'),
+		local('Asap-BoldItalic'),
+		/* from https://fonts.gstatic.com/s/asap/v5/_sVKdO-TLWvaH-ptGimJBfY6323mHUZFJMgTvxaG2iE.eot */
+		url('Asap_700italic.eot?#iefix') format('embedded-opentype'),
+		/* from https://fonts.gstatic.com/s/asap/v5/_sVKdO-TLWvaH-ptGimJBT8E0i7KZn-EPnyo3HZu7kw.woff */
+		url('Asap_700italic.woff') format('woff'),
+		/* from https://fonts.gstatic.com/s/asap/v5/_sVKdO-TLWvaH-ptGimJBVtXRa8TVwTICgirnJhmVJw.woff2 */
+		url('Asap_700italic.woff2') format('woff2'),
+		/* from https://fonts.gstatic.com/l/font?kit=_sVKdO-TLWvaH-ptGimJBZbd9NUM7myrQQz30yPaGQ4&skey=45dbf840e00782fc&v=v5#Asap */
+		url('Asap_700italic.svg#Asap') format('svg'),
+		/* from https://fonts.gstatic.com/s/asap/v5/_sVKdO-TLWvaH-ptGimJBaCWcynf_cDxXwCLxiixG1c.ttf */
+		url('Asap_700italic.ttf') format('truetype');
+}

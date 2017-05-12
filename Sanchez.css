@@ -1,0 +1,36 @@
+@font-face {
+	font-family: 'Sanchez';
+	font-style: normal;
+	font-weight: normal;
+	src:
+		local('Sanchez'),
+		local('Sanchez-Regular'),
+		/* from https://fonts.gstatic.com/s/sanchez/v4/jmAEUIQSCRFE1APV8uXw3Q.eot */
+		url('Sanchez.eot?#iefix') format('embedded-opentype'),
+		/* from https://fonts.gstatic.com/s/sanchez/v4/mx466fsxfR1AA3OwUm3waQ.woff */
+		url('Sanchez.woff') format('woff'),
+		/* from https://fonts.gstatic.com/s/sanchez/v4/ASmipTgPwTrjcfmzf6Zfwg.woff2 */
+		url('Sanchez.woff2') format('woff2'),
+		/* from https://fonts.gstatic.com/l/font?kit=3H7cXck_suk_41PPNByoZQ&skey=64b13ed5b348e87e&v=v4#Sanchez */
+		url('Sanchez.svg#Sanchez') format('svg'),
+		/* from https://fonts.gstatic.com/s/sanchez/v4/Eh9ZVPLDFF2xhCIl_We4NA.ttf */
+		url('Sanchez.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Sanchez';
+	font-style: italic;
+	font-weight: normal;
+	src:
+		local('Sanchez Italic'),
+		local('Sanchez-Italic'),
+		/* from https://fonts.gstatic.com/s/sanchez/v4/HsmMg_Kwn-sTuZvQJORnl_Y6323mHUZFJMgTvxaG2iE.eot */
+		url('Sanchez_italic.eot?#iefix') format('embedded-opentype'),
+		/* from https://fonts.gstatic.com/s/sanchez/v4/HsmMg_Kwn-sTuZvQJORnlz8E0i7KZn-EPnyo3HZu7kw.woff */
+		url('Sanchez_italic.woff') format('woff'),
+		/* from https://fonts.gstatic.com/s/sanchez/v4/HsmMg_Kwn-sTuZvQJORnl1tXRa8TVwTICgirnJhmVJw.woff2 */
+		url('Sanchez_italic.woff2') format('woff2'),
+		/* from https://fonts.gstatic.com/l/font?kit=HsmMg_Kwn-sTuZvQJORnl5bd9NUM7myrQQz30yPaGQ4&skey=e057493cb287083c&v=v4#Sanchez */
+		url('Sanchez_italic.svg#Sanchez') format('svg'),
+		/* from https://fonts.gstatic.com/s/sanchez/v4/HsmMg_Kwn-sTuZvQJORnl6CWcynf_cDxXwCLxiixG1c.ttf */
+		url('Sanchez_italic.ttf') format('truetype');
+}

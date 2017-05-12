@@ -1,0 +1,180 @@
+@font-face {
+	font-family: 'Josefin Slab';
+	font-style: normal;
+	font-weight: 100;
+	src:
+		local('Josefin Slab Thin'),
+		local('JosefinSlab-Thin'),
+		/* from https://fonts.gstatic.com/s/josefinslab/v6/etsUjZYO8lTLU85lDhZwUtP2OS6Bzu7BENq0TH5sayk.eot */
+		url('Josefin_Slab_100.eot?#iefix') format('embedded-opentype'),
+		/* from https://fonts.gstatic.com/s/josefinslab/v6/etsUjZYO8lTLU85lDhZwUi1dfeF-hbOdKKuBDEXxqhQ.woff */
+		url('Josefin_Slab_100.woff') format('woff'),
+		/* from https://fonts.gstatic.com/s/josefinslab/v6/etsUjZYO8lTLU85lDhZwUldBB84BqlWy1BjOnCrU9PY.woff2 */
+		url('Josefin_Slab_100.woff2') format('woff2'),
+		/* from https://fonts.gstatic.com/l/font?kit=etsUjZYO8lTLU85lDhZwUk_rrxwVtVRydRAQEfd8qLU&skey=448977901b9fea74&v=v6#JosefinSlab */
+		url('Josefin_Slab_100.svg#JosefinSlab') format('svg'),
+		/* from https://fonts.gstatic.com/s/josefinslab/v6/etsUjZYO8lTLU85lDhZwUm-gXUWvikdRm39El-Kldqo.ttf */
+		url('Josefin_Slab_100.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Josefin Slab';
+	font-style: italic;
+	font-weight: 100;
+	src:
+		local('Josefin Slab Thin Italic'),
+		local('JosefinSlab-ThinItalic'),
+		/* from https://fonts.gstatic.com/s/josefinslab/v6/8BjDChqLgBF3RJKfwHIYh64TT5J8ULaPC23bJYiVmx8.eot */
+		url('Josefin_Slab_100italic.eot?#iefix') format('embedded-opentype'),
+		/* from https://fonts.gstatic.com/s/josefinslab/v6/8BjDChqLgBF3RJKfwHIYh6EyK9Hr0SO5vc2-ZCW-Yes.woff */
+		url('Josefin_Slab_100italic.woff') format('woff'),
+		/* from https://fonts.gstatic.com/s/josefinslab/v6/8BjDChqLgBF3RJKfwHIYh7E63cHX5PwrPrCPBczlasc.woff2 */
+		url('Josefin_Slab_100italic.woff2') format('woff2'),
+		/* from https://fonts.gstatic.com/l/font?kit=8BjDChqLgBF3RJKfwHIYhzjsE7ZsbzlznLFkNzySkM8&skey=c0dba48e8b1ffed2&v=v6#JosefinSlab */
+		url('Josefin_Slab_100italic.svg#JosefinSlab') format('svg'),
+		/* from https://fonts.gstatic.com/s/josefinslab/v6/8BjDChqLgBF3RJKfwHIYhxNDIA8twkEsorcr_fdT1vI.ttf */
+		url('Josefin_Slab_100italic.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Josefin Slab';
+	font-style: normal;
+	font-weight: 300;
+	src:
+		local('Josefin Slab Light'),
+		local('JosefinSlab-Light'),
+		/* from https://fonts.gstatic.com/s/josefinslab/v6/NbE6ykYuM2IyEwxQxOIi2IySLpARcVRs9uFJp0LRZgE.eot */
+		url('Josefin_Slab_300.eot?#iefix') format('embedded-opentype'),
+		/* from https://fonts.gstatic.com/s/josefinslab/v6/NbE6ykYuM2IyEwxQxOIi2GFp2sMiApZm5Dx7NpSTOZk.woff */
+		url('Josefin_Slab_300.woff') format('woff'),
+		/* from https://fonts.gstatic.com/s/josefinslab/v6/NbE6ykYuM2IyEwxQxOIi2E4GofcKVZz6wtzX_QUIqsI.woff2 */
+		url('Josefin_Slab_300.woff2') format('woff2'),
+		/* from https://fonts.gstatic.com/l/font?kit=NbE6ykYuM2IyEwxQxOIi2LJg1hA63dzswhy4NvEPrPM&skey=d649455df9e86d45&v=v6#JosefinSlab */
+		url('Josefin_Slab_300.svg#JosefinSlab') format('svg'),
+		/* from https://fonts.gstatic.com/s/josefinslab/v6/NbE6ykYuM2IyEwxQxOIi2AV_pQ1T3xN3K1c3sB361us.ttf */
+		url('Josefin_Slab_300.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Josefin Slab';
+	font-style: italic;
+	font-weight: 300;
+	src:
+		local('Josefin Slab Light Italic'),
+		local('JosefinSlab-LightItalic'),
+		/* from https://fonts.gstatic.com/s/josefinslab/v6/af9sBoKGPbGO0r21xJulyyH_XWDaITL6s384ufbsW_o.eot */
+		url('Josefin_Slab_300italic.eot?#iefix') format('embedded-opentype'),
+		/* from https://fonts.gstatic.com/s/josefinslab/v6/af9sBoKGPbGO0r21xJuly20Xvi9kvVpeKmlONF1xhUs.woff */
+		url('Josefin_Slab_300italic.woff') format('woff'),
+		/* from https://fonts.gstatic.com/s/josefinslab/v6/af9sBoKGPbGO0r21xJuly3M1hBkL4m68a-ReB_y0NYc.woff2 */
+		url('Josefin_Slab_300italic.woff2') format('woff2'),
+		/* from https://fonts.gstatic.com/l/font?kit=af9sBoKGPbGO0r21xJuly9v65-B3V1C1aB1PFKVs0gQ&skey=e478fe952f135176&v=v6#JosefinSlab */
+		url('Josefin_Slab_300italic.svg#JosefinSlab') format('svg'),
+		/* from https://fonts.gstatic.com/s/josefinslab/v6/af9sBoKGPbGO0r21xJuly33uxQAI1Bvm-GxtFNy4yl0.ttf */
+		url('Josefin_Slab_300italic.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Josefin Slab';
+	font-style: normal;
+	font-weight: normal;
+	src:
+		local('Josefin Slab'),
+		local('JosefinSlab'),
+		/* from https://fonts.gstatic.com/s/josefinslab/v6/46aYWdgz-1oFX11flmyEfXZ2MAKAc2x4R1uOSeegc5U.eot */
+		url('Josefin_Slab.eot?#iefix') format('embedded-opentype'),
+		/* from https://fonts.gstatic.com/s/josefinslab/v6/46aYWdgz-1oFX11flmyEfXhCUOGz7vYGh680lGh-uXM.woff */
+		url('Josefin_Slab.woff') format('woff'),
+		/* from https://fonts.gstatic.com/s/josefinslab/v6/46aYWdgz-1oFX11flmyEfegdm0LZdjqr5-oayXSOefg.woff2 */
+		url('Josefin_Slab.woff2') format('woff2'),
+		/* from https://fonts.gstatic.com/l/font?kit=46aYWdgz-1oFX11flmyEfVlIn5tFQcqMuf-jhyJP0ps&skey=691565cf3ae1dcfe&v=v6#JosefinSlab */
+		url('Josefin_Slab.svg#JosefinSlab') format('svg'),
+		/* from https://fonts.gstatic.com/s/josefinslab/v6/46aYWdgz-1oFX11flmyEfYnF5uFdDttMLvmWuJdhhgs.ttf */
+		url('Josefin_Slab.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Josefin Slab';
+	font-style: italic;
+	font-weight: normal;
+	src:
+		local('Josefin Slab Italic'),
+		local('JosefinSlab-Italic'),
+		/* from https://fonts.gstatic.com/s/josefinslab/v6/etsUjZYO8lTLU85lDhZwUjoGYR7Z3iWH66EXnaJoKgg.eot */
+		url('Josefin_Slab_italic.eot?#iefix') format('embedded-opentype'),
+		/* from https://fonts.gstatic.com/s/josefinslab/v6/etsUjZYO8lTLU85lDhZwUnpumDtkw9GHrrDfd7ZnWpU.woff */
+		url('Josefin_Slab_italic.woff') format('woff'),
+		/* from https://fonts.gstatic.com/s/josefinslab/v6/etsUjZYO8lTLU85lDhZwUhMBlNeli-0RcAdOFWWLdxQ.woff2 */
+		url('Josefin_Slab_italic.woff2') format('woff2'),
+		/* from https://fonts.gstatic.com/l/font?kit=etsUjZYO8lTLU85lDhZwUn2UFnxWCzsMUZbVj2XRF5M&skey=a35ae65c04c96c3f&v=v6#JosefinSlab */
+		url('Josefin_Slab_italic.svg#JosefinSlab') format('svg'),
+		/* from https://fonts.gstatic.com/s/josefinslab/v6/etsUjZYO8lTLU85lDhZwUitfYakCkPqOMDce0h_3gD8.ttf */
+		url('Josefin_Slab_italic.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Josefin Slab';
+	font-style: normal;
+	font-weight: 600;
+	src:
+		local('Josefin Slab SemiBold'),
+		local('JosefinSlab-SemiBold'),
+		/* from https://fonts.gstatic.com/s/josefinslab/v6/NbE6ykYuM2IyEwxQxOIi2DBIQ40lcwWW3vj9tFMKvqw.eot */
+		url('Josefin_Slab_600.eot?#iefix') format('embedded-opentype'),
+		/* from https://fonts.gstatic.com/s/josefinslab/v6/NbE6ykYuM2IyEwxQxOIi2NOd4RnLmtUrdSQkDmC5b8k.woff */
+		url('Josefin_Slab_600.woff') format('woff'),
+		/* from https://fonts.gstatic.com/s/josefinslab/v6/NbE6ykYuM2IyEwxQxOIi2PBf3Xtc57ojmY2ox2Xv8Go.woff2 */
+		url('Josefin_Slab_600.woff2') format('woff2'),
+		/* from https://fonts.gstatic.com/l/font?kit=NbE6ykYuM2IyEwxQxOIi2AmE8htD-SDrf7umQTfloJ8&skey=5878910710dc2472&v=v6#JosefinSlab */
+		url('Josefin_Slab_600.svg#JosefinSlab') format('svg'),
+		/* from https://fonts.gstatic.com/s/josefinslab/v6/NbE6ykYuM2IyEwxQxOIi2FFZMcfX2SbzQ69I7OWmkGo.ttf */
+		url('Josefin_Slab_600.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Josefin Slab';
+	font-style: italic;
+	font-weight: 600;
+	src:
+		local('Josefin Slab SemiBold Italic'),
+		local('JosefinSlab-SemiBoldItalic'),
+		/* from https://fonts.gstatic.com/s/josefinslab/v6/af9sBoKGPbGO0r21xJulyxHNzmFb2hSkh0OZsv7eSbE.eot */
+		url('Josefin_Slab_600italic.eot?#iefix') format('embedded-opentype'),
+		/* from https://fonts.gstatic.com/s/josefinslab/v6/af9sBoKGPbGO0r21xJuly6xza3rXaV_G32gF04a66fI.woff */
+		url('Josefin_Slab_600italic.woff') format('woff'),
+		/* from https://fonts.gstatic.com/s/josefinslab/v6/af9sBoKGPbGO0r21xJuly0rrE62zycmuf6NB1JeYrwM.woff2 */
+		url('Josefin_Slab_600italic.woff2') format('woff2'),
+		/* from https://fonts.gstatic.com/l/font?kit=af9sBoKGPbGO0r21xJuly5xbAKLHh33tiENh7myeekA&skey=dd96638cd4ec72b8&v=v6#JosefinSlab */
+		url('Josefin_Slab_600italic.svg#JosefinSlab') format('svg'),
+		/* from https://fonts.gstatic.com/s/josefinslab/v6/af9sBoKGPbGO0r21xJulyzolfeppZzFSKvLyJNPKLMk.ttf */
+		url('Josefin_Slab_600italic.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Josefin Slab';
+	font-style: normal;
+	font-weight: 700;
+	src:
+		local('Josefin Slab Bold'),
+		local('JosefinSlab-Bold'),
+		/* from https://fonts.gstatic.com/s/josefinslab/v6/NbE6ykYuM2IyEwxQxOIi2GmsoyWrDyoltQVIP7q_RGg.eot */
+		url('Josefin_Slab_700.eot?#iefix') format('embedded-opentype'),
+		/* from https://fonts.gstatic.com/s/josefinslab/v6/NbE6ykYuM2IyEwxQxOIi2Hl4twXkwp3_u9ZoePkT564.woff */
+		url('Josefin_Slab_700.woff') format('woff'),
+		/* from https://fonts.gstatic.com/s/josefinslab/v6/NbE6ykYuM2IyEwxQxOIi2HNuWYKPzoeKl5tYj8yhly0.woff2 */
+		url('Josefin_Slab_700.woff2') format('woff2'),
+		/* from https://fonts.gstatic.com/l/font?kit=NbE6ykYuM2IyEwxQxOIi2Aay50PuN8loMJ9QAXsTs7U&skey=ffbc5283fb6828f7&v=v6#JosefinSlab */
+		url('Josefin_Slab_700.svg#JosefinSlab') format('svg'),
+		/* from https://fonts.gstatic.com/s/josefinslab/v6/NbE6ykYuM2IyEwxQxOIi2H06qf9KHRHwsVx7iw5MXmY.ttf */
+		url('Josefin_Slab_700.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Josefin Slab';
+	font-style: italic;
+	font-weight: 700;
+	src:
+		local('Josefin Slab Bold Italic'),
+		local('JosefinSlab-BoldItalic'),
+		/* from https://fonts.gstatic.com/s/josefinslab/v6/af9sBoKGPbGO0r21xJulyyy7jlJQNiTiB3-MejPw_5E.eot */
+		url('Josefin_Slab_700italic.eot?#iefix') format('embedded-opentype'),
+		/* from https://fonts.gstatic.com/s/josefinslab/v6/af9sBoKGPbGO0r21xJuly70qgHI2SEqiJszC-CVc3gY.woff */
+		url('Josefin_Slab_700italic.woff') format('woff'),
+		/* from https://fonts.gstatic.com/s/josefinslab/v6/af9sBoKGPbGO0r21xJuly0cqRxak6Wc5LUVz-l064SE.woff2 */
+		url('Josefin_Slab_700italic.woff2') format('woff2'),
+		/* from https://fonts.gstatic.com/l/font?kit=af9sBoKGPbGO0r21xJuly-iOBN1C42tFdXFKJTGlCXo&skey=6dcc8336c5e5f361&v=v6#JosefinSlab */
+		url('Josefin_Slab_700italic.svg#JosefinSlab') format('svg'),
+		/* from https://fonts.gstatic.com/s/josefinslab/v6/af9sBoKGPbGO0r21xJulyyxQL91WRy8t8mPvAX_dIgA.ttf */
+		url('Josefin_Slab_700italic.ttf') format('truetype');
+}

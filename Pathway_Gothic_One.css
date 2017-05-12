@@ -1,0 +1,18 @@
+@font-face {
+	font-family: 'Pathway Gothic One';
+	font-style: normal;
+	font-weight: normal;
+	src:
+		local('Pathway Gothic One'),
+		local('PathwayGothicOne-Regular'),
+		/* from https://fonts.gstatic.com/s/pathwaygothicone/v4/Lqv9ztoTUV8Q0FmQZzPqaAjAnKTMEEQ9po2V9TuH-X8.eot */
+		url('Pathway_Gothic_One.eot?#iefix') format('embedded-opentype'),
+		/* from https://fonts.gstatic.com/s/pathwaygothicone/v4/Lqv9ztoTUV8Q0FmQZzPqaBfSZ9PF2sGs8WIylam6T2Y.woff */
+		url('Pathway_Gothic_One.woff') format('woff'),
+		/* from https://fonts.gstatic.com/s/pathwaygothicone/v4/Lqv9ztoTUV8Q0FmQZzPqaL4J1CEROx9mnpUAGKYKzuk.woff2 */
+		url('Pathway_Gothic_One.woff2') format('woff2'),
+		/* from https://fonts.gstatic.com/l/font?kit=Lqv9ztoTUV8Q0FmQZzPqaNwUDzd2SgGQbhEAj5N-Lw0&skey=fdd3ccfa4bb0720f&v=v4#PathwayGothicOne */
+		url('Pathway_Gothic_One.svg#PathwayGothicOne') format('svg'),
+		/* from https://fonts.gstatic.com/s/pathwaygothicone/v4/Lqv9ztoTUV8Q0FmQZzPqaDZ8Xgu54OUP9A9ig-MN_aY.ttf */
+		url('Pathway_Gothic_One.ttf') format('truetype');
+}

@@ -1,0 +1,18 @@
+@font-face {
+	font-family: 'EB Garamond';
+	font-style: normal;
+	font-weight: normal;
+	src:
+		local('EB Garamond'),
+		local('EBGaramond'),
+		/* from https://fonts.gstatic.com/s/ebgaramond/v7/kYZt1bJ8UsGAPRGnkXPeFWfQcKutQXcIrRfyR5jdjY8.eot */
+		url('EB_Garamond.eot?#iefix') format('embedded-opentype'),
+		/* from https://fonts.gstatic.com/s/ebgaramond/v7/kYZt1bJ8UsGAPRGnkXPeFYbN6UDyHWBl620a-IRfuBk.woff */
+		url('EB_Garamond.woff') format('woff'),
+		/* from https://fonts.gstatic.com/s/ebgaramond/v7/kYZt1bJ8UsGAPRGnkXPeFY4P5ICox8Kq3LLUNMylGO4.woff2 */
+		url('EB_Garamond.woff2') format('woff2'),
+		/* from https://fonts.gstatic.com/l/font?kit=kYZt1bJ8UsGAPRGnkXPeFXNsigHlcrQGNV8nkUSFQfc&skey=fde9b303600e495b&v=v7#EBGaramond */
+		url('EB_Garamond.svg#EBGaramond') format('svg'),
+		/* from https://fonts.gstatic.com/s/ebgaramond/v7/kYZt1bJ8UsGAPRGnkXPeFZ0EAVxt0G0biEntp43Qt6E.ttf */
+		url('EB_Garamond.ttf') format('truetype');
+}

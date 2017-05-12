@@ -1,0 +1,324 @@
+@font-face {
+	font-family: 'Exo 2';
+	font-style: normal;
+	font-weight: 100;
+	src:
+		local('Exo 2 Thin'),
+		local('Exo2-Thin'),
+		/* from https://fonts.gstatic.com/s/exo2/v3/AZO3nx1TUXtpgUJlEnUipA.eot */
+		url('Exo_2_100.eot?#iefix') format('embedded-opentype'),
+		/* from https://fonts.gstatic.com/s/exo2/v3/H184PiVPwxcA4lae41SXXA.woff */
+		url('Exo_2_100.woff') format('woff'),
+		/* from https://fonts.gstatic.com/s/exo2/v3/ADiRusfMayFwcntf9MXsGQ.woff2 */
+		url('Exo_2_100.woff2') format('woff2'),
+		/* from https://fonts.gstatic.com/l/font?kit=ogV240kkGAqaNGfz3nKEPw&skey=85d177efa5c4888f&v=v3#Exo2 */
+		url('Exo_2_100.svg#Exo2') format('svg'),
+		/* from https://fonts.gstatic.com/s/exo2/v3/jmbn8mddLWoVoG0kG4RB3g.ttf */
+		url('Exo_2_100.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Exo 2';
+	font-style: italic;
+	font-weight: 100;
+	src:
+		local('Exo 2 Thin Italic'),
+		local('Exo2-ThinItalic'),
+		/* from https://fonts.gstatic.com/s/exo2/v3/BcTwYQH4QHiI46xew8Vt5PY6323mHUZFJMgTvxaG2iE.eot */
+		url('Exo_2_100italic.eot?#iefix') format('embedded-opentype'),
+		/* from https://fonts.gstatic.com/s/exo2/v3/BcTwYQH4QHiI46xew8Vt5D8E0i7KZn-EPnyo3HZu7kw.woff */
+		url('Exo_2_100italic.woff') format('woff'),
+		/* from https://fonts.gstatic.com/s/exo2/v3/BcTwYQH4QHiI46xew8Vt5FtXRa8TVwTICgirnJhmVJw.woff2 */
+		url('Exo_2_100italic.woff2') format('woff2'),
+		/* from https://fonts.gstatic.com/l/font?kit=BcTwYQH4QHiI46xew8Vt5Jbd9NUM7myrQQz30yPaGQ4&skey=52bea75ffc259864&v=v3#Exo2 */
+		url('Exo_2_100italic.svg#Exo2') format('svg'),
+		/* from https://fonts.gstatic.com/s/exo2/v3/BcTwYQH4QHiI46xew8Vt5KCWcynf_cDxXwCLxiixG1c.ttf */
+		url('Exo_2_100italic.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Exo 2';
+	font-style: normal;
+	font-weight: 200;
+	src:
+		local('Exo 2 Extra Light'),
+		local('Exo2-ExtraLight'),
+		/* from https://fonts.gstatic.com/s/exo2/v3/YSV8PjI9HmscsTCu-J96BfesZW2xOQ-xsNqO47m55DA.eot */
+		url('Exo_2_200.eot?#iefix') format('embedded-opentype'),
+		/* from https://fonts.gstatic.com/s/exo2/v3/RFCNDwJa8dM0kzqVeuqPjPesZW2xOQ-xsNqO47m55DA.woff */
+		url('Exo_2_200.woff') format('woff'),
+		/* from https://fonts.gstatic.com/s/exo2/v3/4VH1sjauXOSoJIJOdxuAC_esZW2xOQ-xsNqO47m55DA.woff2 */
+		url('Exo_2_200.woff2') format('woff2'),
+		/* from https://fonts.gstatic.com/l/font?kit=4-tbHg9brRu-z-HO0ZXJjvesZW2xOQ-xsNqO47m55DA&skey=5f4a17bb39d9ab81&v=v3#Exo2 */
+		url('Exo_2_200.svg#Exo2') format('svg'),
+		/* from https://fonts.gstatic.com/s/exo2/v3/IX6dkwi1dH8PF3iuoKi9rvesZW2xOQ-xsNqO47m55DA.ttf */
+		url('Exo_2_200.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Exo 2';
+	font-style: italic;
+	font-weight: 200;
+	src:
+		local('Exo 2 Extra Light Italic'),
+		local('Exo2-ExtraLightItalic'),
+		/* from https://fonts.gstatic.com/s/exo2/v3/FoL3DQ5h24Mp-VKZ-NjJxFQlYEbsez9cZjKsNMjLOwM.eot */
+		url('Exo_2_200italic.eot?#iefix') format('embedded-opentype'),
+		/* from https://fonts.gstatic.com/s/exo2/v3/FoL3DQ5h24Mp-VKZ-NjJxBsxEYwM7FgeyaSgU71cLG0.woff */
+		url('Exo_2_200italic.woff') format('woff'),
+		/* from https://fonts.gstatic.com/s/exo2/v3/FoL3DQ5h24Mp-VKZ-NjJxPk_vArhqVIZ0nv9q090hN8.woff2 */
+		url('Exo_2_200italic.woff2') format('woff2'),
+		/* from https://fonts.gstatic.com/l/font?kit=FoL3DQ5h24Mp-VKZ-NjJxKWUboTb-jS2tyCOQMtm97g&skey=c27fb4069c750f73&v=v3#Exo2 */
+		url('Exo_2_200italic.svg#Exo2') format('svg'),
+		/* from https://fonts.gstatic.com/s/exo2/v3/FoL3DQ5h24Mp-VKZ-NjJxC3USBnSvpkopQaUR-2r7iU.ttf */
+		url('Exo_2_200italic.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Exo 2';
+	font-style: normal;
+	font-weight: 300;
+	src:
+		local('Exo 2 Light'),
+		local('Exo2-Light'),
+		/* from https://fonts.gstatic.com/s/exo2/v3/2duESAtMv5vo0-oNb1BLCPesZW2xOQ-xsNqO47m55DA.eot */
+		url('Exo_2_300.eot?#iefix') format('embedded-opentype'),
+		/* from https://fonts.gstatic.com/s/exo2/v3/JWvvdsUbb528VH-BDTzpW_esZW2xOQ-xsNqO47m55DA.woff */
+		url('Exo_2_300.woff') format('woff'),
+		/* from https://fonts.gstatic.com/s/exo2/v3/TZlHHgxEfHXA7uKM1eaCjfesZW2xOQ-xsNqO47m55DA.woff2 */
+		url('Exo_2_300.woff2') format('woff2'),
+		/* from https://fonts.gstatic.com/l/font?kit=OpY9ZCloyHFqk_SeBuz-CPesZW2xOQ-xsNqO47m55DA&skey=7bf673c8cb49eaf1&v=v3#Exo2 */
+		url('Exo_2_300.svg#Exo2') format('svg'),
+		/* from https://fonts.gstatic.com/s/exo2/v3/ngiFXK5ukde3w4E-Lmb_OvesZW2xOQ-xsNqO47m55DA.ttf */
+		url('Exo_2_300.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Exo 2';
+	font-style: italic;
+	font-weight: 300;
+	src:
+		local('Exo 2 Light Italic'),
+		local('Exo2-LightItalic'),
+		/* from https://fonts.gstatic.com/s/exo2/v3/nWbHq5XdqJFjIrJyBvpVo1QlYEbsez9cZjKsNMjLOwM.eot */
+		url('Exo_2_300italic.eot?#iefix') format('embedded-opentype'),
+		/* from https://fonts.gstatic.com/s/exo2/v3/nWbHq5XdqJFjIrJyBvpVoxsxEYwM7FgeyaSgU71cLG0.woff */
+		url('Exo_2_300italic.woff') format('woff'),
+		/* from https://fonts.gstatic.com/s/exo2/v3/nWbHq5XdqJFjIrJyBvpVo_k_vArhqVIZ0nv9q090hN8.woff2 */
+		url('Exo_2_300italic.woff2') format('woff2'),
+		/* from https://fonts.gstatic.com/l/font?kit=nWbHq5XdqJFjIrJyBvpVo6WUboTb-jS2tyCOQMtm97g&skey=9d2d7f158082f68b&v=v3#Exo2 */
+		url('Exo_2_300italic.svg#Exo2') format('svg'),
+		/* from https://fonts.gstatic.com/s/exo2/v3/nWbHq5XdqJFjIrJyBvpVoy3USBnSvpkopQaUR-2r7iU.ttf */
+		url('Exo_2_300italic.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Exo 2';
+	font-style: normal;
+	font-weight: normal;
+	src:
+		local('Exo 2'),
+		local('Exo2-Regular'),
+		/* from https://fonts.gstatic.com/s/exo2/v3/1f-JR30cwCpEua5F7Wpkjg.eot */
+		url('Exo_2.eot?#iefix') format('embedded-opentype'),
+		/* from https://fonts.gstatic.com/s/exo2/v3/8C2PVL2WIMUnPF90ukjrZQ.woff */
+		url('Exo_2.woff') format('woff'),
+		/* from https://fonts.gstatic.com/s/exo2/v3/-A4eIjQkAwKL411pgtQ4VA.woff2 */
+		url('Exo_2.woff2') format('woff2'),
+		/* from https://fonts.gstatic.com/l/font?kit=UaJJNujq9sDPVrjoyxn8ng&skey=1b9a3dc5c6de9cce&v=v3#Exo2 */
+		url('Exo_2.svg#Exo2') format('svg'),
+		/* from https://fonts.gstatic.com/s/exo2/v3/N9KSa305HxlY5zk6XisHxw.ttf */
+		url('Exo_2.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Exo 2';
+	font-style: italic;
+	font-weight: normal;
+	src:
+		local('Exo 2 Italic'),
+		local('Exo2-Italic'),
+		/* from https://fonts.gstatic.com/s/exo2/v3/ieeiH_XppA5A-SYzmthJBQ.eot */
+		url('Exo_2_italic.eot?#iefix') format('embedded-opentype'),
+		/* from https://fonts.gstatic.com/s/exo2/v3/G075hziEYGpfdK2KgVmqBQ.woff */
+		url('Exo_2_italic.woff') format('woff'),
+		/* from https://fonts.gstatic.com/s/exo2/v3/LMIL7_Tt4ZR7oImp-8ghHw.woff2 */
+		url('Exo_2_italic.woff2') format('woff2'),
+		/* from https://fonts.gstatic.com/l/font?kit=uQsX0yEM4Xc04vqO5M_rXQ&skey=5ebaaa86d2ddd87&v=v3#Exo2 */
+		url('Exo_2_italic.svg#Exo2') format('svg'),
+		/* from https://fonts.gstatic.com/s/exo2/v3/7fsA7NyuUlF3GmSznP4iUA.ttf */
+		url('Exo_2_italic.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Exo 2';
+	font-style: normal;
+	font-weight: 500;
+	src:
+		local('Exo 2 Medium'),
+		local('Exo2-Medium'),
+		/* from https://fonts.gstatic.com/s/exo2/v3/2YCVyscJ-jpJ5gxy1fi8ufesZW2xOQ-xsNqO47m55DA.eot */
+		url('Exo_2_500.eot?#iefix') format('embedded-opentype'),
+		/* from https://fonts.gstatic.com/s/exo2/v3/SJSKlaAoPzG8E6EMHXZfevesZW2xOQ-xsNqO47m55DA.woff */
+		url('Exo_2_500.woff') format('woff'),
+		/* from https://fonts.gstatic.com/s/exo2/v3/6b9HPGUYUr8qZeNu0Z7o-PesZW2xOQ-xsNqO47m55DA.woff2 */
+		url('Exo_2_500.woff2') format('woff2'),
+		/* from https://fonts.gstatic.com/l/font?kit=KFU8iDggpBSOJpynA2ou0PesZW2xOQ-xsNqO47m55DA&skey=adb63786cb87541c&v=v3#Exo2 */
+		url('Exo_2_500.svg#Exo2') format('svg'),
+		/* from https://fonts.gstatic.com/s/exo2/v3/Aj85fDXQrYnqAVDyNP57H_esZW2xOQ-xsNqO47m55DA.ttf */
+		url('Exo_2_500.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Exo 2';
+	font-style: italic;
+	font-weight: 500;
+	src:
+		local('Exo 2 Medium Italic'),
+		local('Exo2-MediumItalic'),
+		/* from https://fonts.gstatic.com/s/exo2/v3/1_2um3wNMzErQK93dC9HelQlYEbsez9cZjKsNMjLOwM.eot */
+		url('Exo_2_500italic.eot?#iefix') format('embedded-opentype'),
+		/* from https://fonts.gstatic.com/s/exo2/v3/1_2um3wNMzErQK93dC9HehsxEYwM7FgeyaSgU71cLG0.woff */
+		url('Exo_2_500italic.woff') format('woff'),
+		/* from https://fonts.gstatic.com/s/exo2/v3/1_2um3wNMzErQK93dC9Hevk_vArhqVIZ0nv9q090hN8.woff2 */
+		url('Exo_2_500italic.woff2') format('woff2'),
+		/* from https://fonts.gstatic.com/l/font?kit=1_2um3wNMzErQK93dC9HeqWUboTb-jS2tyCOQMtm97g&skey=836cae0cc8180a9&v=v3#Exo2 */
+		url('Exo_2_500italic.svg#Exo2') format('svg'),
+		/* from https://fonts.gstatic.com/s/exo2/v3/1_2um3wNMzErQK93dC9Hei3USBnSvpkopQaUR-2r7iU.ttf */
+		url('Exo_2_500italic.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Exo 2';
+	font-style: normal;
+	font-weight: 600;
+	src:
+		local('Exo 2 Semi Bold'),
+		local('Exo2-SemiBold'),
+		/* from https://fonts.gstatic.com/s/exo2/v3/jHsN8GtMqoNkw6LdgMMDsfesZW2xOQ-xsNqO47m55DA.eot */
+		url('Exo_2_600.eot?#iefix') format('embedded-opentype'),
+		/* from https://fonts.gstatic.com/s/exo2/v3/L7cKReMyy06lvTzTWfUEtfesZW2xOQ-xsNqO47m55DA.woff */
+		url('Exo_2_600.woff') format('woff'),
+		/* from https://fonts.gstatic.com/s/exo2/v3/0BGKjb5TxeNM_vPrpoWDWPesZW2xOQ-xsNqO47m55DA.woff2 */
+		url('Exo_2_600.woff2') format('woff2'),
+		/* from https://fonts.gstatic.com/l/font?kit=SDl7TyCiLNiGrjCAzCGjLPesZW2xOQ-xsNqO47m55DA&skey=80fcc2c639fbd240&v=v3#Exo2 */
+		url('Exo_2_600.svg#Exo2') format('svg'),
+		/* from https://fonts.gstatic.com/s/exo2/v3/hFqlepBer-IXtJK7U5poifesZW2xOQ-xsNqO47m55DA.ttf */
+		url('Exo_2_600.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Exo 2';
+	font-style: italic;
+	font-weight: 600;
+	src:
+		local('Exo 2 Semi Bold Italic'),
+		local('Exo2-SemiBoldItalic'),
+		/* from https://fonts.gstatic.com/s/exo2/v3/1cBqBVaZ3i9Efab2hdPpzFQlYEbsez9cZjKsNMjLOwM.eot */
+		url('Exo_2_600italic.eot?#iefix') format('embedded-opentype'),
+		/* from https://fonts.gstatic.com/s/exo2/v3/1cBqBVaZ3i9Efab2hdPpzBsxEYwM7FgeyaSgU71cLG0.woff */
+		url('Exo_2_600italic.woff') format('woff'),
+		/* from https://fonts.gstatic.com/s/exo2/v3/1cBqBVaZ3i9Efab2hdPpzPk_vArhqVIZ0nv9q090hN8.woff2 */
+		url('Exo_2_600italic.woff2') format('woff2'),
+		/* from https://fonts.gstatic.com/l/font?kit=1cBqBVaZ3i9Efab2hdPpzKWUboTb-jS2tyCOQMtm97g&skey=80c2d9ae0dd344cc&v=v3#Exo2 */
+		url('Exo_2_600italic.svg#Exo2') format('svg'),
+		/* from https://fonts.gstatic.com/s/exo2/v3/1cBqBVaZ3i9Efab2hdPpzC3USBnSvpkopQaUR-2r7iU.ttf */
+		url('Exo_2_600italic.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Exo 2';
+	font-style: normal;
+	font-weight: 700;
+	src:
+		local('Exo 2 Bold'),
+		local('Exo2-Bold'),
+		/* from https://fonts.gstatic.com/s/exo2/v3/1hc6b3MWJWPMwBflRiHGbfesZW2xOQ-xsNqO47m55DA.eot */
+		url('Exo_2_700.eot?#iefix') format('embedded-opentype'),
+		/* from https://fonts.gstatic.com/s/exo2/v3/RZBBdEhQV3g9mUXUAU9PpvesZW2xOQ-xsNqO47m55DA.woff */
+		url('Exo_2_700.woff') format('woff'),
+		/* from https://fonts.gstatic.com/s/exo2/v3/AbMslUVu4Wq5jvNwOBLwLvesZW2xOQ-xsNqO47m55DA.woff2 */
+		url('Exo_2_700.woff2') format('woff2'),
+		/* from https://fonts.gstatic.com/l/font?kit=EPC8CFTsqwb6BMKOYJrHe_esZW2xOQ-xsNqO47m55DA&skey=82f369e367a555a6&v=v3#Exo2 */
+		url('Exo_2_700.svg#Exo2') format('svg'),
+		/* from https://fonts.gstatic.com/s/exo2/v3/F-JaJbplW75-CW3MZ1qMbvesZW2xOQ-xsNqO47m55DA.ttf */
+		url('Exo_2_700.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Exo 2';
+	font-style: italic;
+	font-weight: 700;
+	src:
+		local('Exo 2 Bold Italic'),
+		local('Exo2-BoldItalic'),
+		/* from https://fonts.gstatic.com/s/exo2/v3/Rpc1bsIIcqFfucX8mi4y5lQlYEbsez9cZjKsNMjLOwM.eot */
+		url('Exo_2_700italic.eot?#iefix') format('embedded-opentype'),
+		/* from https://fonts.gstatic.com/s/exo2/v3/Rpc1bsIIcqFfucX8mi4y5hsxEYwM7FgeyaSgU71cLG0.woff */
+		url('Exo_2_700italic.woff') format('woff'),
+		/* from https://fonts.gstatic.com/s/exo2/v3/Rpc1bsIIcqFfucX8mi4y5vk_vArhqVIZ0nv9q090hN8.woff2 */
+		url('Exo_2_700italic.woff2') format('woff2'),
+		/* from https://fonts.gstatic.com/l/font?kit=Rpc1bsIIcqFfucX8mi4y5qWUboTb-jS2tyCOQMtm97g&skey=3785555033a6839e&v=v3#Exo2 */
+		url('Exo_2_700italic.svg#Exo2') format('svg'),
+		/* from https://fonts.gstatic.com/s/exo2/v3/Rpc1bsIIcqFfucX8mi4y5i3USBnSvpkopQaUR-2r7iU.ttf */
+		url('Exo_2_700italic.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Exo 2';
+	font-style: normal;
+	font-weight: 800;
+	src:
+		local('Exo 2 Extra Bold'),
+		local('Exo2-ExtraBold'),
+		/* from https://fonts.gstatic.com/s/exo2/v3/EXzwnUbMXMMICZjIZcT2jvesZW2xOQ-xsNqO47m55DA.eot */
+		url('Exo_2_800.eot?#iefix') format('embedded-opentype'),
+		/* from https://fonts.gstatic.com/s/exo2/v3/WevIkQJBpGU3SVYl4lPELfesZW2xOQ-xsNqO47m55DA.woff */
+		url('Exo_2_800.woff') format('woff'),
+		/* from https://fonts.gstatic.com/s/exo2/v3/CJVzeXcVfU8kDtg9_l0We_esZW2xOQ-xsNqO47m55DA.woff2 */
+		url('Exo_2_800.woff2') format('woff2'),
+		/* from https://fonts.gstatic.com/l/font?kit=BNKWZ_pnzjze1469_AgEvfesZW2xOQ-xsNqO47m55DA&skey=5d0eafc8238747c6&v=v3#Exo2 */
+		url('Exo_2_800.svg#Exo2') format('svg'),
+		/* from https://fonts.gstatic.com/s/exo2/v3/xB6kRicEILL8IHLLClUt2PesZW2xOQ-xsNqO47m55DA.ttf */
+		url('Exo_2_800.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Exo 2';
+	font-style: italic;
+	font-weight: 800;
+	src:
+		local('Exo 2 Extra Bold Italic'),
+		local('Exo2-ExtraBoldItalic'),
+		/* from https://fonts.gstatic.com/s/exo2/v3/Gj10EN9jO3BquHnP2Z4qNlQlYEbsez9cZjKsNMjLOwM.eot */
+		url('Exo_2_800italic.eot?#iefix') format('embedded-opentype'),
+		/* from https://fonts.gstatic.com/s/exo2/v3/Gj10EN9jO3BquHnP2Z4qNhsxEYwM7FgeyaSgU71cLG0.woff */
+		url('Exo_2_800italic.woff') format('woff'),
+		/* from https://fonts.gstatic.com/s/exo2/v3/Gj10EN9jO3BquHnP2Z4qNvk_vArhqVIZ0nv9q090hN8.woff2 */
+		url('Exo_2_800italic.woff2') format('woff2'),
+		/* from https://fonts.gstatic.com/l/font?kit=Gj10EN9jO3BquHnP2Z4qNqWUboTb-jS2tyCOQMtm97g&skey=aac2f3221350d23a&v=v3#Exo2 */
+		url('Exo_2_800italic.svg#Exo2') format('svg'),
+		/* from https://fonts.gstatic.com/s/exo2/v3/Gj10EN9jO3BquHnP2Z4qNi3USBnSvpkopQaUR-2r7iU.ttf */
+		url('Exo_2_800italic.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Exo 2';
+	font-style: normal;
+	font-weight: 900;
+	src:
+		local('Exo 2 Black'),
+		local('Exo2-Black'),
+		/* from https://fonts.gstatic.com/s/exo2/v3/T68xszPQRAmzQ9lzqJyk7PesZW2xOQ-xsNqO47m55DA.eot */
+		url('Exo_2_900.eot?#iefix') format('embedded-opentype'),
+		/* from https://fonts.gstatic.com/s/exo2/v3/QmjksWUTc2xgGTIqG4SUjfesZW2xOQ-xsNqO47m55DA.woff */
+		url('Exo_2_900.woff') format('woff'),
+		/* from https://fonts.gstatic.com/s/exo2/v3/GJUUsjMsQG_gk-UGzcMXofesZW2xOQ-xsNqO47m55DA.woff2 */
+		url('Exo_2_900.woff2') format('woff2'),
+		/* from https://fonts.gstatic.com/l/font?kit=WOoZhXguqVU5gFT23HvNtPesZW2xOQ-xsNqO47m55DA&skey=b3bd9138e41a9fec&v=v3#Exo2 */
+		url('Exo_2_900.svg#Exo2') format('svg'),
+		/* from https://fonts.gstatic.com/s/exo2/v3/RkvyadJpQFfhiOnziUIWgPesZW2xOQ-xsNqO47m55DA.ttf */
+		url('Exo_2_900.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Exo 2';
+	font-style: italic;
+	font-weight: 900;
+	src:
+		local('Exo 2 Black Italic'),
+		local('Exo2-BlackItalic'),
+		/* from https://fonts.gstatic.com/s/exo2/v3/4W580FLpNwVHxorEVMZVGVQlYEbsez9cZjKsNMjLOwM.eot */
+		url('Exo_2_900italic.eot?#iefix') format('embedded-opentype'),
+		/* from https://fonts.gstatic.com/s/exo2/v3/4W580FLpNwVHxorEVMZVGRsxEYwM7FgeyaSgU71cLG0.woff */
+		url('Exo_2_900italic.woff') format('woff'),
+		/* from https://fonts.gstatic.com/s/exo2/v3/4W580FLpNwVHxorEVMZVGfk_vArhqVIZ0nv9q090hN8.woff2 */
+		url('Exo_2_900italic.woff2') format('woff2'),
+		/* from https://fonts.gstatic.com/l/font?kit=4W580FLpNwVHxorEVMZVGaWUboTb-jS2tyCOQMtm97g&skey=7219eb71082c03cb&v=v3#Exo2 */
+		url('Exo_2_900italic.svg#Exo2') format('svg'),
+		/* from https://fonts.gstatic.com/s/exo2/v3/4W580FLpNwVHxorEVMZVGS3USBnSvpkopQaUR-2r7iU.ttf */
+		url('Exo_2_900italic.ttf') format('truetype');
+}

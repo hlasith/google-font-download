@@ -1,0 +1,36 @@
+@font-face {
+	font-family: 'PT Sans Caption';
+	font-style: normal;
+	font-weight: normal;
+	src:
+		local('PT Sans Caption'),
+		local('PTSans-Caption'),
+		/* from https://fonts.gstatic.com/s/ptsanscaption/v9/OXYTDOzBcXU8MTNBvBHeSebG2bpC97vgFIKC7TC5f4U.eot */
+		url('PT_Sans_Caption.eot?#iefix') format('embedded-opentype'),
+		/* from https://fonts.gstatic.com/s/ptsanscaption/v9/OXYTDOzBcXU8MTNBvBHeSQRW432DtwGNER78eOJ0i0s.woff */
+		url('PT_Sans_Caption.woff') format('woff'),
+		/* from https://fonts.gstatic.com/s/ptsanscaption/v9/OXYTDOzBcXU8MTNBvBHeSVu3pQpJXC1E_Hw7zMp8vJM.woff2 */
+		url('PT_Sans_Caption.woff2') format('woff2'),
+		/* from https://fonts.gstatic.com/l/font?kit=OXYTDOzBcXU8MTNBvBHeSUGdxaNEzIe9U2myqkmfmAQ&skey=3b791ca205af4a6f&v=v9#PTSansCaption */
+		url('PT_Sans_Caption.svg#PTSansCaption') format('svg'),
+		/* from https://fonts.gstatic.com/s/ptsanscaption/v9/OXYTDOzBcXU8MTNBvBHeSVQX5OToqP8MI8UfeMWsWEY.ttf */
+		url('PT_Sans_Caption.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'PT Sans Caption';
+	font-style: normal;
+	font-weight: 700;
+	src:
+		local('PT Sans Caption Bold'),
+		local('PTSans-CaptionBold'),
+		/* from https://fonts.gstatic.com/s/ptsanscaption/v9/Q-gJrFokeE7JydPpxASt25nlMvFCYMshL7Dmes_SRos.eot */
+		url('PT_Sans_Caption_700.eot?#iefix') format('embedded-opentype'),
+		/* from https://fonts.gstatic.com/s/ptsanscaption/v9/Q-gJrFokeE7JydPpxASt2w9wu1CdFtjuMIsaFqyYbWg.woff */
+		url('PT_Sans_Caption_700.woff') format('woff'),
+		/* from https://fonts.gstatic.com/s/ptsanscaption/v9/Q-gJrFokeE7JydPpxASt2-AG5JKECrpbRn4WyrgqwBM.woff2 */
+		url('PT_Sans_Caption_700.woff2') format('woff2'),
+		/* from https://fonts.gstatic.com/l/font?kit=Q-gJrFokeE7JydPpxASt20IQMNW6FbPaxUUUgd67Juk&skey=dca78bc6106fe068&v=v9#PTSansCaption */
+		url('PT_Sans_Caption_700.svg#PTSansCaption') format('svg'),
+		/* from https://fonts.gstatic.com/s/ptsanscaption/v9/Q-gJrFokeE7JydPpxASt20ERdfSURLZv58OmP7NOrmM.ttf */
+		url('PT_Sans_Caption_700.ttf') format('truetype');
+}

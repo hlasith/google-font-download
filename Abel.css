@@ -1,0 +1,18 @@
+@font-face {
+	font-family: 'Abel';
+	font-style: normal;
+	font-weight: normal;
+	src:
+		local('Abel Regular'),
+		local('Abel-Regular'),
+		/* from https://fonts.gstatic.com/s/abel/v7/3YEwT2a1878zysq92S8_9w.eot */
+		url('Abel.eot?#iefix') format('embedded-opentype'),
+		/* from https://fonts.gstatic.com/s/abel/v7/EAqh528fFdbUek8UOky4sA.woff */
+		url('Abel.woff') format('woff'),
+		/* from https://fonts.gstatic.com/s/abel/v7/brdGGFwqYJxjg2CD1E9o7g.woff2 */
+		url('Abel.woff2') format('woff2'),
+		/* from https://fonts.gstatic.com/l/font?kit=pb98amgrX4UHZo9JnVPobA&skey=bf47258294911e6d&v=v7#Abel */
+		url('Abel.svg#Abel') format('svg'),
+		/* from https://fonts.gstatic.com/s/abel/v7/N59kklKPso9WzbZH9jwJSg.ttf */
+		url('Abel.ttf') format('truetype');
+}

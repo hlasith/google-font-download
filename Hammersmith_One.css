@@ -1,0 +1,18 @@
+@font-face {
+	font-family: 'Hammersmith One';
+	font-style: normal;
+	font-weight: normal;
+	src:
+		local('Hammersmith One'),
+		local('HammersmithOne'),
+		/* from https://fonts.gstatic.com/s/hammersmithone/v7/FWNn6ITYqL6or7ZTmBxRhluTgT7He_T1DF6rp02aEO4.eot */
+		url('Hammersmith_One.eot?#iefix') format('embedded-opentype'),
+		/* from https://fonts.gstatic.com/s/hammersmithone/v7/FWNn6ITYqL6or7ZTmBxRhq3fkYX5z1QtDUdIWoaaD_k.woff */
+		url('Hammersmith_One.woff') format('woff'),
+		/* from https://fonts.gstatic.com/s/hammersmithone/v7/FWNn6ITYqL6or7ZTmBxRhiJccsb45t3MJKcv5BJtrIs.woff2 */
+		url('Hammersmith_One.woff2') format('woff2'),
+		/* from https://fonts.gstatic.com/l/font?kit=FWNn6ITYqL6or7ZTmBxRhuUK-EeIygXe5LAOHXDZOMs&skey=5f94f25a102337d5&v=v7#HammersmithOne */
+		url('Hammersmith_One.svg#HammersmithOne') format('svg'),
+		/* from https://fonts.gstatic.com/s/hammersmithone/v7/FWNn6ITYqL6or7ZTmBxRhu921tOcMok2fHawGmtxikA.ttf */
+		url('Hammersmith_One.ttf') format('truetype');
+}

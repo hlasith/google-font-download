@@ -1,0 +1,144 @@
+@font-face {
+	font-family: 'Cabin';
+	font-style: normal;
+	font-weight: normal;
+	src:
+		local('Cabin'),
+		local('Cabin-Regular'),
+		/* from https://fonts.gstatic.com/s/cabin/v10/ClwGbaMfQ5c9QfM1bHNo1g.eot */
+		url('Cabin.eot?#iefix') format('embedded-opentype'),
+		/* from https://fonts.gstatic.com/s/cabin/v10/JEgmtEDzc-IH8jBshQXrYA.woff */
+		url('Cabin.woff') format('woff'),
+		/* from https://fonts.gstatic.com/s/cabin/v10/yQOMOX5hR0-6LTD879t-PQ.woff2 */
+		url('Cabin.woff2') format('woff2'),
+		/* from https://fonts.gstatic.com/l/font?kit=reMsvhLtR_NipjCwZGPJyg&skey=d53a2c61c6b52b74&v=v10#Cabin */
+		url('Cabin.svg#Cabin') format('svg'),
+		/* from https://fonts.gstatic.com/s/cabin/v10/K6ngFdK5haaaRGBV8waDwA.ttf */
+		url('Cabin.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Cabin';
+	font-style: italic;
+	font-weight: normal;
+	src:
+		local('Cabin Italic'),
+		local('Cabin-Italic'),
+		/* from https://fonts.gstatic.com/s/cabin/v10/mOLawYJy7-OC1-rKIVMBSQ.eot */
+		url('Cabin_italic.eot?#iefix') format('embedded-opentype'),
+		/* from https://fonts.gstatic.com/s/cabin/v10/jZSwn9gMgsQpyndNljYDIw.woff */
+		url('Cabin_italic.woff') format('woff'),
+		/* from https://fonts.gstatic.com/s/cabin/v10/00o5zQ7GoPVPMQsCfDCAnw.woff2 */
+		url('Cabin_italic.woff2') format('woff2'),
+		/* from https://fonts.gstatic.com/l/font?kit=BHS7p0gcrQK6fgLWORZ4Cg&skey=72a025bcae5df692&v=v10#Cabin */
+		url('Cabin_italic.svg#Cabin') format('svg'),
+		/* from https://fonts.gstatic.com/s/cabin/v10/Et-v_QIck3adV65yIaqlhg.ttf */
+		url('Cabin_italic.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Cabin';
+	font-style: normal;
+	font-weight: 500;
+	src:
+		local('Cabin Medium'),
+		local('Cabin-Medium'),
+		/* from https://fonts.gstatic.com/s/cabin/v10/z3_LOr6ZZJ2VLNF3Csp42fesZW2xOQ-xsNqO47m55DA.eot */
+		url('Cabin_500.eot?#iefix') format('embedded-opentype'),
+		/* from https://fonts.gstatic.com/s/cabin/v10/km2iCywk7CnC11BE8pBNVPesZW2xOQ-xsNqO47m55DA.woff */
+		url('Cabin_500.woff') format('woff'),
+		/* from https://fonts.gstatic.com/s/cabin/v10/XHvvZj_uvRvYentxl9M1VvesZW2xOQ-xsNqO47m55DA.woff2 */
+		url('Cabin_500.woff2') format('woff2'),
+		/* from https://fonts.gstatic.com/l/font?kit=Jpa0St5xIM81Wt9aw1myvvesZW2xOQ-xsNqO47m55DA&skey=f79bd67cc4cfa68b&v=v10#Cabin */
+		url('Cabin_500.svg#Cabin') format('svg'),
+		/* from https://fonts.gstatic.com/s/cabin/v10/187TYb8ysVvxar86IcDsZ_esZW2xOQ-xsNqO47m55DA.ttf */
+		url('Cabin_500.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Cabin';
+	font-style: italic;
+	font-weight: 500;
+	src:
+		local('Cabin Medium Italic'),
+		local('Cabin-MediumItalic'),
+		/* from https://fonts.gstatic.com/s/cabin/v10/l3VlC5SZU-ZceiU15Vs2gFQlYEbsez9cZjKsNMjLOwM.eot */
+		url('Cabin_500italic.eot?#iefix') format('embedded-opentype'),
+		/* from https://fonts.gstatic.com/s/cabin/v10/l3VlC5SZU-ZceiU15Vs2gBsxEYwM7FgeyaSgU71cLG0.woff */
+		url('Cabin_500italic.woff') format('woff'),
+		/* from https://fonts.gstatic.com/s/cabin/v10/l3VlC5SZU-ZceiU15Vs2gPk_vArhqVIZ0nv9q090hN8.woff2 */
+		url('Cabin_500italic.woff2') format('woff2'),
+		/* from https://fonts.gstatic.com/l/font?kit=l3VlC5SZU-ZceiU15Vs2gKWUboTb-jS2tyCOQMtm97g&skey=9f6d89d3a095f515&v=v10#Cabin */
+		url('Cabin_500italic.svg#Cabin') format('svg'),
+		/* from https://fonts.gstatic.com/s/cabin/v10/l3VlC5SZU-ZceiU15Vs2gC3USBnSvpkopQaUR-2r7iU.ttf */
+		url('Cabin_500italic.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Cabin';
+	font-style: normal;
+	font-weight: 600;
+	src:
+		local('Cabin SemiBold'),
+		local('Cabin-SemiBold'),
+		/* from https://fonts.gstatic.com/s/cabin/v10/LFrn8lNsj_p1XCA7V0gJlfesZW2xOQ-xsNqO47m55DA.eot */
+		url('Cabin_600.eot?#iefix') format('embedded-opentype'),
+		/* from https://fonts.gstatic.com/s/cabin/v10/bSicyj3YibVhVPhGZyWVI_esZW2xOQ-xsNqO47m55DA.woff */
+		url('Cabin_600.woff') format('woff'),
+		/* from https://fonts.gstatic.com/s/cabin/v10/pOvYyCQeTTtw6RxdlpulSvesZW2xOQ-xsNqO47m55DA.woff2 */
+		url('Cabin_600.woff2') format('woff2'),
+		/* from https://fonts.gstatic.com/l/font?kit=LNlk3w_b81a4tP7z49bcr_esZW2xOQ-xsNqO47m55DA&skey=7553d1dffc73cbfc&v=v10#Cabin */
+		url('Cabin_600.svg#Cabin') format('svg'),
+		/* from https://fonts.gstatic.com/s/cabin/v10/TNtGAwzXtCEY_5hzRlIJNPesZW2xOQ-xsNqO47m55DA.ttf */
+		url('Cabin_600.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Cabin';
+	font-style: italic;
+	font-weight: 600;
+	src:
+		local('Cabin SemiBold Italic'),
+		local('Cabin-SemiBoldItalic'),
+		/* from https://fonts.gstatic.com/s/cabin/v10/Sn-0zpaF2c3wYt9xdgoYFVQlYEbsez9cZjKsNMjLOwM.eot */
+		url('Cabin_600italic.eot?#iefix') format('embedded-opentype'),
+		/* from https://fonts.gstatic.com/s/cabin/v10/Sn-0zpaF2c3wYt9xdgoYFRsxEYwM7FgeyaSgU71cLG0.woff */
+		url('Cabin_600italic.woff') format('woff'),
+		/* from https://fonts.gstatic.com/s/cabin/v10/Sn-0zpaF2c3wYt9xdgoYFfk_vArhqVIZ0nv9q090hN8.woff2 */
+		url('Cabin_600italic.woff2') format('woff2'),
+		/* from https://fonts.gstatic.com/l/font?kit=Sn-0zpaF2c3wYt9xdgoYFaWUboTb-jS2tyCOQMtm97g&skey=5564bd08dc7fbe67&v=v10#Cabin */
+		url('Cabin_600italic.svg#Cabin') format('svg'),
+		/* from https://fonts.gstatic.com/s/cabin/v10/Sn-0zpaF2c3wYt9xdgoYFS3USBnSvpkopQaUR-2r7iU.ttf */
+		url('Cabin_600italic.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Cabin';
+	font-style: normal;
+	font-weight: 700;
+	src:
+		local('Cabin Bold'),
+		local('Cabin-Bold'),
+		/* from https://fonts.gstatic.com/s/cabin/v10/0rwIbxvBLLkZ3TvRndzblvesZW2xOQ-xsNqO47m55DA.eot */
+		url('Cabin_700.eot?#iefix') format('embedded-opentype'),
+		/* from https://fonts.gstatic.com/s/cabin/v10/haOjnueK8Or1ztuuRtr8dvesZW2xOQ-xsNqO47m55DA.woff */
+		url('Cabin_700.woff') format('woff'),
+		/* from https://fonts.gstatic.com/s/cabin/v10/82B-3YlzWJm8zbCrVEmc_vesZW2xOQ-xsNqO47m55DA.woff2 */
+		url('Cabin_700.woff2') format('woff2'),
+		/* from https://fonts.gstatic.com/l/font?kit=mJjUNQHbVFvcEpZzGlJ9HfesZW2xOQ-xsNqO47m55DA&skey=bde0232fb97f4a72&v=v10#Cabin */
+		url('Cabin_700.svg#Cabin') format('svg'),
+		/* from https://fonts.gstatic.com/s/cabin/v10/nHiQo1BypvYzt95zlPq1TvesZW2xOQ-xsNqO47m55DA.ttf */
+		url('Cabin_700.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Cabin';
+	font-style: italic;
+	font-weight: 700;
+	src:
+		local('Cabin Bold Italic'),
+		local('Cabin-BoldItalic'),
+		/* from https://fonts.gstatic.com/s/cabin/v10/Ww23LQNlhn4dAm9uegPaX1QlYEbsez9cZjKsNMjLOwM.eot */
+		url('Cabin_700italic.eot?#iefix') format('embedded-opentype'),
+		/* from https://fonts.gstatic.com/s/cabin/v10/Ww23LQNlhn4dAm9uegPaXxsxEYwM7FgeyaSgU71cLG0.woff */
+		url('Cabin_700italic.woff') format('woff'),
+		/* from https://fonts.gstatic.com/s/cabin/v10/Ww23LQNlhn4dAm9uegPaX_k_vArhqVIZ0nv9q090hN8.woff2 */
+		url('Cabin_700italic.woff2') format('woff2'),
+		/* from https://fonts.gstatic.com/l/font?kit=Ww23LQNlhn4dAm9uegPaX6WUboTb-jS2tyCOQMtm97g&skey=ebc162262801060b&v=v10#Cabin */
+		url('Cabin_700italic.svg#Cabin') format('svg'),
+		/* from https://fonts.gstatic.com/s/cabin/v10/Ww23LQNlhn4dAm9uegPaXy3USBnSvpkopQaUR-2r7iU.ttf */
+		url('Cabin_700italic.ttf') format('truetype');
+}

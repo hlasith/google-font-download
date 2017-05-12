@@ -1,0 +1,180 @@
+@font-face {
+	font-family: 'Rubik';
+	font-style: normal;
+	font-weight: 300;
+	src:
+		local('Rubik Light'),
+		local('Rubik-Light'),
+		/* from https://fonts.gstatic.com/s/rubik/v4/WJYfot4nvWguliZiQ0KHUvesZW2xOQ-xsNqO47m55DA.eot */
+		url('Rubik_300.eot?#iefix') format('embedded-opentype'),
+		/* from https://fonts.gstatic.com/s/rubik/v4/lr6Pb3GuskYO6A0ddSEJcvesZW2xOQ-xsNqO47m55DA.woff */
+		url('Rubik_300.woff') format('woff'),
+		/* from https://fonts.gstatic.com/s/rubik/v4/tRvJQnSw4lmceQIbdzOKGPesZW2xOQ-xsNqO47m55DA.woff2 */
+		url('Rubik_300.woff2') format('woff2'),
+		/* from https://fonts.gstatic.com/l/font?kit=-OLTS8AgYeIVWJ5fwQc5FvesZW2xOQ-xsNqO47m55DA&skey=30892a5a5aea46ae&v=v4#Rubik */
+		url('Rubik_300.svg#Rubik') format('svg'),
+		/* from https://fonts.gstatic.com/s/rubik/v4/w1lv2ChwM2azNxvd4if7tvesZW2xOQ-xsNqO47m55DA.ttf */
+		url('Rubik_300.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Rubik';
+	font-style: italic;
+	font-weight: 300;
+	src:
+		local('Rubik Light Italic'),
+		local('Rubik-LightItalic'),
+		/* from https://fonts.gstatic.com/s/rubik/v4/jSFETpKxzveU_p3gZhzIHFQlYEbsez9cZjKsNMjLOwM.eot */
+		url('Rubik_300italic.eot?#iefix') format('embedded-opentype'),
+		/* from https://fonts.gstatic.com/s/rubik/v4/jSFETpKxzveU_p3gZhzIHBsxEYwM7FgeyaSgU71cLG0.woff */
+		url('Rubik_300italic.woff') format('woff'),
+		/* from https://fonts.gstatic.com/s/rubik/v4/jSFETpKxzveU_p3gZhzIHPk_vArhqVIZ0nv9q090hN8.woff2 */
+		url('Rubik_300italic.woff2') format('woff2'),
+		/* from https://fonts.gstatic.com/l/font?kit=jSFETpKxzveU_p3gZhzIHKWUboTb-jS2tyCOQMtm97g&skey=6f981796bf0029a9&v=v4#Rubik */
+		url('Rubik_300italic.svg#Rubik') format('svg'),
+		/* from https://fonts.gstatic.com/s/rubik/v4/jSFETpKxzveU_p3gZhzIHC3USBnSvpkopQaUR-2r7iU.ttf */
+		url('Rubik_300italic.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Rubik';
+	font-style: normal;
+	font-weight: normal;
+	src:
+		local('Rubik'),
+		local('Rubik-Regular'),
+		/* from https://fonts.gstatic.com/s/rubik/v4/0f976ZfzmmYp7Tv7T3DB3A.eot */
+		url('Rubik.eot?#iefix') format('embedded-opentype'),
+		/* from https://fonts.gstatic.com/s/rubik/v4/KOAvUwfoM3DiLr6_Ac8qkg.woff */
+		url('Rubik.woff') format('woff'),
+		/* from https://fonts.gstatic.com/s/rubik/v4/_mlO9_1N7oXYhEnEzC2l-g.woff2 */
+		url('Rubik.woff2') format('woff2'),
+		/* from https://fonts.gstatic.com/l/font?kit=sdkiqW7MrN_8Jb9FnJwQvQ&skey=cee854e66788286d&v=v4#Rubik */
+		url('Rubik.svg#Rubik') format('svg'),
+		/* from https://fonts.gstatic.com/s/rubik/v4/2AfMVb-218AAzRWsLqegwg.ttf */
+		url('Rubik.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Rubik';
+	font-style: italic;
+	font-weight: normal;
+	src:
+		local('Rubik Italic'),
+		local('Rubik-Italic'),
+		/* from https://fonts.gstatic.com/s/rubik/v4/aFXROJ6oH458ZIAMTgYySQ.eot */
+		url('Rubik_italic.eot?#iefix') format('embedded-opentype'),
+		/* from https://fonts.gstatic.com/s/rubik/v4/OPYJOGLS2lfdqoDEaGxyDA.woff */
+		url('Rubik_italic.woff') format('woff'),
+		/* from https://fonts.gstatic.com/s/rubik/v4/lgXEloT2N61mSYqQZpy1fQ.woff2 */
+		url('Rubik_italic.woff2') format('woff2'),
+		/* from https://fonts.gstatic.com/l/font?kit=GFOTf9P76fh3kNnny7YrZw&skey=80e52bf85b0b1958&v=v4#Rubik */
+		url('Rubik_italic.svg#Rubik') format('svg'),
+		/* from https://fonts.gstatic.com/s/rubik/v4/nfr-T1XWNAhh8EkHIUHCYw.ttf */
+		url('Rubik_italic.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Rubik';
+	font-style: normal;
+	font-weight: 500;
+	src:
+		local('Rubik Medium'),
+		local('Rubik-Medium'),
+		/* from https://fonts.gstatic.com/s/rubik/v4/yFvcRay1ZOu26HH6CacUgPesZW2xOQ-xsNqO47m55DA.eot */
+		url('Rubik_500.eot?#iefix') format('embedded-opentype'),
+		/* from https://fonts.gstatic.com/s/rubik/v4/dr9AO_oRJOJvBo3VnoPe1_esZW2xOQ-xsNqO47m55DA.woff */
+		url('Rubik_500.woff') format('woff'),
+		/* from https://fonts.gstatic.com/s/rubik/v4/IUSlgBbgyuDQpy87mBOAc_esZW2xOQ-xsNqO47m55DA.woff2 */
+		url('Rubik_500.woff2') format('woff2'),
+		/* from https://fonts.gstatic.com/l/font?kit=fI2KOb8jsADPU3AKqK5BdvesZW2xOQ-xsNqO47m55DA&skey=46488a639fde60e&v=v4#Rubik */
+		url('Rubik_500.svg#Rubik') format('svg'),
+		/* from https://fonts.gstatic.com/s/rubik/v4/HeonTWSI86KGXtp3ufvWUfesZW2xOQ-xsNqO47m55DA.ttf */
+		url('Rubik_500.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Rubik';
+	font-style: italic;
+	font-weight: 500;
+	src:
+		local('Rubik Medium Italic'),
+		local('Rubik-MediumItalic'),
+		/* from https://fonts.gstatic.com/s/rubik/v4/tPyoCFMoMFY1gioFWtoyXlQlYEbsez9cZjKsNMjLOwM.eot */
+		url('Rubik_500italic.eot?#iefix') format('embedded-opentype'),
+		/* from https://fonts.gstatic.com/s/rubik/v4/tPyoCFMoMFY1gioFWtoyXhsxEYwM7FgeyaSgU71cLG0.woff */
+		url('Rubik_500italic.woff') format('woff'),
+		/* from https://fonts.gstatic.com/s/rubik/v4/tPyoCFMoMFY1gioFWtoyXvk_vArhqVIZ0nv9q090hN8.woff2 */
+		url('Rubik_500italic.woff2') format('woff2'),
+		/* from https://fonts.gstatic.com/l/font?kit=tPyoCFMoMFY1gioFWtoyXqWUboTb-jS2tyCOQMtm97g&skey=365e095f56706d7c&v=v4#Rubik */
+		url('Rubik_500italic.svg#Rubik') format('svg'),
+		/* from https://fonts.gstatic.com/s/rubik/v4/tPyoCFMoMFY1gioFWtoyXi3USBnSvpkopQaUR-2r7iU.ttf */
+		url('Rubik_500italic.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Rubik';
+	font-style: normal;
+	font-weight: 700;
+	src:
+		local('Rubik Bold'),
+		local('Rubik-Bold'),
+		/* from https://fonts.gstatic.com/s/rubik/v4/AGAINRfrc_sL5zxVdgH1O_esZW2xOQ-xsNqO47m55DA.eot */
+		url('Rubik_700.eot?#iefix') format('embedded-opentype'),
+		/* from https://fonts.gstatic.com/s/rubik/v4/dwBNC4Sd5CDAYmaqw1hU7PesZW2xOQ-xsNqO47m55DA.woff */
+		url('Rubik_700.woff') format('woff'),
+		/* from https://fonts.gstatic.com/s/rubik/v4/0hS39AKxpJlEXQF3mVPgrvesZW2xOQ-xsNqO47m55DA.woff2 */
+		url('Rubik_700.woff2') format('woff2'),
+		/* from https://fonts.gstatic.com/l/font?kit=6yUu_-_QXhRwGv456ytu3vesZW2xOQ-xsNqO47m55DA&skey=1a6c716ce617d1f0&v=v4#Rubik */
+		url('Rubik_700.svg#Rubik') format('svg'),
+		/* from https://fonts.gstatic.com/s/rubik/v4/o4CaoMI5GtiGgfunwzx_K_esZW2xOQ-xsNqO47m55DA.ttf */
+		url('Rubik_700.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Rubik';
+	font-style: italic;
+	font-weight: 700;
+	src:
+		local('Rubik Bold Italic'),
+		local('Rubik-BoldItalic'),
+		/* from https://fonts.gstatic.com/s/rubik/v4/wD94vlSNmKRl1po-RMwWclQlYEbsez9cZjKsNMjLOwM.eot */
+		url('Rubik_700italic.eot?#iefix') format('embedded-opentype'),
+		/* from https://fonts.gstatic.com/s/rubik/v4/wD94vlSNmKRl1po-RMwWchsxEYwM7FgeyaSgU71cLG0.woff */
+		url('Rubik_700italic.woff') format('woff'),
+		/* from https://fonts.gstatic.com/s/rubik/v4/wD94vlSNmKRl1po-RMwWcvk_vArhqVIZ0nv9q090hN8.woff2 */
+		url('Rubik_700italic.woff2') format('woff2'),
+		/* from https://fonts.gstatic.com/l/font?kit=wD94vlSNmKRl1po-RMwWcqWUboTb-jS2tyCOQMtm97g&skey=7fb6cca0b88a6f03&v=v4#Rubik */
+		url('Rubik_700italic.svg#Rubik') format('svg'),
+		/* from https://fonts.gstatic.com/s/rubik/v4/wD94vlSNmKRl1po-RMwWci3USBnSvpkopQaUR-2r7iU.ttf */
+		url('Rubik_700italic.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Rubik';
+	font-style: normal;
+	font-weight: 900;
+	src:
+		local('Rubik Black'),
+		local('Rubik-Black'),
+		/* from https://fonts.gstatic.com/s/rubik/v4/uoYmAnIa8NjRiXX5h5bcEfesZW2xOQ-xsNqO47m55DA.eot */
+		url('Rubik_900.eot?#iefix') format('embedded-opentype'),
+		/* from https://fonts.gstatic.com/s/rubik/v4/sTiPQxXk0M6XQ-AVBh7ef_esZW2xOQ-xsNqO47m55DA.woff */
+		url('Rubik_900.woff') format('woff'),
+		/* from https://fonts.gstatic.com/s/rubik/v4/q1zR17dXuC8hEk69Lb7Bo_esZW2xOQ-xsNqO47m55DA.woff2 */
+		url('Rubik_900.woff2') format('woff2'),
+		/* from https://fonts.gstatic.com/l/font?kit=5C4VEXJ0p-e_d7U3Ywhy4vesZW2xOQ-xsNqO47m55DA&skey=4686bf6ff420b57&v=v4#Rubik */
+		url('Rubik_900.svg#Rubik') format('svg'),
+		/* from https://fonts.gstatic.com/s/rubik/v4/Dqn9zxRqLl6Cv_edhEvHJfesZW2xOQ-xsNqO47m55DA.ttf */
+		url('Rubik_900.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Rubik';
+	font-style: italic;
+	font-weight: 900;
+	src:
+		local('Rubik Black Italic'),
+		local('Rubik-BlackItalic'),
+		/* from https://fonts.gstatic.com/s/rubik/v4/UAhftYFr35UpkSlTfXNWL1QlYEbsez9cZjKsNMjLOwM.eot */
+		url('Rubik_900italic.eot?#iefix') format('embedded-opentype'),
+		/* from https://fonts.gstatic.com/s/rubik/v4/UAhftYFr35UpkSlTfXNWLxsxEYwM7FgeyaSgU71cLG0.woff */
+		url('Rubik_900italic.woff') format('woff'),
+		/* from https://fonts.gstatic.com/s/rubik/v4/UAhftYFr35UpkSlTfXNWL_k_vArhqVIZ0nv9q090hN8.woff2 */
+		url('Rubik_900italic.woff2') format('woff2'),
+		/* from https://fonts.gstatic.com/l/font?kit=UAhftYFr35UpkSlTfXNWL6WUboTb-jS2tyCOQMtm97g&skey=339785daaf4dc57&v=v4#Rubik */
+		url('Rubik_900italic.svg#Rubik') format('svg'),
+		/* from https://fonts.gstatic.com/s/rubik/v4/UAhftYFr35UpkSlTfXNWLy3USBnSvpkopQaUR-2r7iU.ttf */
+		url('Rubik_900italic.ttf') format('truetype');
+}

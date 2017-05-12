@@ -1,0 +1,72 @@
+@font-face {
+	font-family: 'Cuprum';
+	font-style: normal;
+	font-weight: normal;
+	src:
+		local('Cuprum Regular'),
+		local('Cuprum-Regular'),
+		/* from https://fonts.gstatic.com/s/cuprum/v8/-iGmidt4SirRkI4DjBoTLA.eot */
+		url('Cuprum.eot?#iefix') format('embedded-opentype'),
+		/* from https://fonts.gstatic.com/s/cuprum/v8/sp1_LTSOMWWV0K5VTuZzvQ.woff */
+		url('Cuprum.woff') format('woff'),
+		/* from https://fonts.gstatic.com/s/cuprum/v8/rZj40-VH1f1Wt0yg6Fkbcw.woff2 */
+		url('Cuprum.woff2') format('woff2'),
+		/* from https://fonts.gstatic.com/l/font?kit=6wwhMqhIwKdXuLa4UEiOsQ&skey=89fd952ea8dac949&v=v8#Cuprum */
+		url('Cuprum.svg#Cuprum') format('svg'),
+		/* from https://fonts.gstatic.com/s/cuprum/v8/PKBzyL4HSyakLt5dMEVc8A.ttf */
+		url('Cuprum.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Cuprum';
+	font-style: italic;
+	font-weight: normal;
+	src:
+		local('Cuprum Italic'),
+		local('Cuprum-Italic'),
+		/* from https://fonts.gstatic.com/s/cuprum/v8/j1ineI03kVVOJFqE7ocuIfesZW2xOQ-xsNqO47m55DA.eot */
+		url('Cuprum_italic.eot?#iefix') format('embedded-opentype'),
+		/* from https://fonts.gstatic.com/s/cuprum/v8/ZqGKlaN5npewtoCRUIPIrvesZW2xOQ-xsNqO47m55DA.woff */
+		url('Cuprum_italic.woff') format('woff'),
+		/* from https://fonts.gstatic.com/s/cuprum/v8/7Tr22pFIqlbT5cnmIKi5P_esZW2xOQ-xsNqO47m55DA.woff2 */
+		url('Cuprum_italic.woff2') format('woff2'),
+		/* from https://fonts.gstatic.com/l/font?kit=APb3vVfvsZNHW1EiNn7t5vesZW2xOQ-xsNqO47m55DA&skey=e4f5190924c87a50&v=v8#Cuprum */
+		url('Cuprum_italic.svg#Cuprum') format('svg'),
+		/* from https://fonts.gstatic.com/s/cuprum/v8/l3yrRVaqvH5GB04fhOvAifesZW2xOQ-xsNqO47m55DA.ttf */
+		url('Cuprum_italic.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Cuprum';
+	font-style: normal;
+	font-weight: 700;
+	src:
+		local('Cuprum Bold'),
+		local('Cuprum-Bold'),
+		/* from https://fonts.gstatic.com/s/cuprum/v8/SfDyn5tWOk7I1we45jpLK_Y6323mHUZFJMgTvxaG2iE.eot */
+		url('Cuprum_700.eot?#iefix') format('embedded-opentype'),
+		/* from https://fonts.gstatic.com/s/cuprum/v8/SfDyn5tWOk7I1we45jpLKz8E0i7KZn-EPnyo3HZu7kw.woff */
+		url('Cuprum_700.woff') format('woff'),
+		/* from https://fonts.gstatic.com/s/cuprum/v8/SfDyn5tWOk7I1we45jpLK1tXRa8TVwTICgirnJhmVJw.woff2 */
+		url('Cuprum_700.woff2') format('woff2'),
+		/* from https://fonts.gstatic.com/l/font?kit=SfDyn5tWOk7I1we45jpLK5bd9NUM7myrQQz30yPaGQ4&skey=7b6263ce29ee5ae7&v=v8#Cuprum */
+		url('Cuprum_700.svg#Cuprum') format('svg'),
+		/* from https://fonts.gstatic.com/s/cuprum/v8/SfDyn5tWOk7I1we45jpLK6CWcynf_cDxXwCLxiixG1c.ttf */
+		url('Cuprum_700.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Cuprum';
+	font-style: italic;
+	font-weight: 700;
+	src:
+		local('Cuprum Bold Italic'),
+		local('Cuprum-BoldItalic'),
+		/* from https://fonts.gstatic.com/s/cuprum/v8/qoCTdBYim27O_DVk90C7-WfQcKutQXcIrRfyR5jdjY8.eot */
+		url('Cuprum_700italic.eot?#iefix') format('embedded-opentype'),
+		/* from https://fonts.gstatic.com/s/cuprum/v8/qoCTdBYim27O_DVk90C7-YbN6UDyHWBl620a-IRfuBk.woff */
+		url('Cuprum_700italic.woff') format('woff'),
+		/* from https://fonts.gstatic.com/s/cuprum/v8/qoCTdBYim27O_DVk90C7-Y4P5ICox8Kq3LLUNMylGO4.woff2 */
+		url('Cuprum_700italic.woff2') format('woff2'),
+		/* from https://fonts.gstatic.com/l/font?kit=qoCTdBYim27O_DVk90C7-XNsigHlcrQGNV8nkUSFQfc&skey=5ed0713c7afd3827&v=v8#Cuprum */
+		url('Cuprum_700italic.svg#Cuprum') format('svg'),
+		/* from https://fonts.gstatic.com/s/cuprum/v8/qoCTdBYim27O_DVk90C7-Z0EAVxt0G0biEntp43Qt6E.ttf */
+		url('Cuprum_700italic.ttf') format('truetype');
+}

@@ -1,0 +1,18 @@
+@font-face {
+	font-family: 'Courgette';
+	font-style: normal;
+	font-weight: normal;
+	src:
+		local('Courgette Regular'),
+		local('Courgette-Regular'),
+		/* from https://fonts.gstatic.com/s/courgette/v4/BHG8ZtTfO0yYnp02--QxqvY6323mHUZFJMgTvxaG2iE.eot */
+		url('Courgette.eot?#iefix') format('embedded-opentype'),
+		/* from https://fonts.gstatic.com/s/courgette/v4/BHG8ZtTfO0yYnp02--Qxqj8E0i7KZn-EPnyo3HZu7kw.woff */
+		url('Courgette.woff') format('woff'),
+		/* from https://fonts.gstatic.com/s/courgette/v4/BHG8ZtTfO0yYnp02--QxqltXRa8TVwTICgirnJhmVJw.woff2 */
+		url('Courgette.woff2') format('woff2'),
+		/* from https://fonts.gstatic.com/l/font?kit=BHG8ZtTfO0yYnp02--Qxqpbd9NUM7myrQQz30yPaGQ4&skey=427bdd45dca77eaa&v=v4#Courgette */
+		url('Courgette.svg#Courgette') format('svg'),
+		/* from https://fonts.gstatic.com/s/courgette/v4/BHG8ZtTfO0yYnp02--QxqqCWcynf_cDxXwCLxiixG1c.ttf */
+		url('Courgette.ttf') format('truetype');
+}

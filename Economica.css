@@ -1,0 +1,72 @@
+@font-face {
+	font-family: 'Economica';
+	font-style: normal;
+	font-weight: normal;
+	src:
+		local('Economica'),
+		local('Economica-Regular'),
+		/* from https://fonts.gstatic.com/s/economica/v4/jObgDQiPUtmACAaaK3pMG_Y6323mHUZFJMgTvxaG2iE.eot */
+		url('Economica.eot?#iefix') format('embedded-opentype'),
+		/* from https://fonts.gstatic.com/s/economica/v4/jObgDQiPUtmACAaaK3pMGz8E0i7KZn-EPnyo3HZu7kw.woff */
+		url('Economica.woff') format('woff'),
+		/* from https://fonts.gstatic.com/s/economica/v4/jObgDQiPUtmACAaaK3pMG1tXRa8TVwTICgirnJhmVJw.woff2 */
+		url('Economica.woff2') format('woff2'),
+		/* from https://fonts.gstatic.com/l/font?kit=jObgDQiPUtmACAaaK3pMG5bd9NUM7myrQQz30yPaGQ4&skey=787fcf9775092ba7&v=v4#Economica */
+		url('Economica.svg#Economica') format('svg'),
+		/* from https://fonts.gstatic.com/s/economica/v4/jObgDQiPUtmACAaaK3pMG6CWcynf_cDxXwCLxiixG1c.ttf */
+		url('Economica.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Economica';
+	font-style: italic;
+	font-weight: normal;
+	src:
+		local('Economica Italic'),
+		local('Economica-Italic'),
+		/* from https://fonts.gstatic.com/s/economica/v4/bzOVz_30ksVskVYQI1-p8mfQcKutQXcIrRfyR5jdjY8.eot */
+		url('Economica_italic.eot?#iefix') format('embedded-opentype'),
+		/* from https://fonts.gstatic.com/s/economica/v4/bzOVz_30ksVskVYQI1-p8obN6UDyHWBl620a-IRfuBk.woff */
+		url('Economica_italic.woff') format('woff'),
+		/* from https://fonts.gstatic.com/s/economica/v4/bzOVz_30ksVskVYQI1-p8o4P5ICox8Kq3LLUNMylGO4.woff2 */
+		url('Economica_italic.woff2') format('woff2'),
+		/* from https://fonts.gstatic.com/l/font?kit=bzOVz_30ksVskVYQI1-p8nNsigHlcrQGNV8nkUSFQfc&skey=b1d41ffb59574c9f&v=v4#Economica */
+		url('Economica_italic.svg#Economica') format('svg'),
+		/* from https://fonts.gstatic.com/s/economica/v4/bzOVz_30ksVskVYQI1-p8p0EAVxt0G0biEntp43Qt6E.ttf */
+		url('Economica_italic.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Economica';
+	font-style: normal;
+	font-weight: 700;
+	src:
+		local('Economica Bold'),
+		local('Economica-Bold'),
+		/* from https://fonts.gstatic.com/s/economica/v4/UK4l2VEpwjv3gdcwbwXE9HZ2MAKAc2x4R1uOSeegc5U.eot */
+		url('Economica_700.eot?#iefix') format('embedded-opentype'),
+		/* from https://fonts.gstatic.com/s/economica/v4/UK4l2VEpwjv3gdcwbwXE9HhCUOGz7vYGh680lGh-uXM.woff */
+		url('Economica_700.woff') format('woff'),
+		/* from https://fonts.gstatic.com/s/economica/v4/UK4l2VEpwjv3gdcwbwXE9Ogdm0LZdjqr5-oayXSOefg.woff2 */
+		url('Economica_700.woff2') format('woff2'),
+		/* from https://fonts.gstatic.com/l/font?kit=UK4l2VEpwjv3gdcwbwXE9FlIn5tFQcqMuf-jhyJP0ps&skey=c307f37a667ae92d&v=v4#Economica */
+		url('Economica_700.svg#Economica') format('svg'),
+		/* from https://fonts.gstatic.com/s/economica/v4/UK4l2VEpwjv3gdcwbwXE9InF5uFdDttMLvmWuJdhhgs.ttf */
+		url('Economica_700.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Economica';
+	font-style: italic;
+	font-weight: 700;
+	src:
+		local('Economica Bold Italic'),
+		local('Economica-BoldItalic'),
+		/* from https://fonts.gstatic.com/s/economica/v4/ac5dlUsedQ03RqGOeay-3bFt29aCHKT7otDW9l62Aag.eot */
+		url('Economica_700italic.eot?#iefix') format('embedded-opentype'),
+		/* from https://fonts.gstatic.com/s/economica/v4/ac5dlUsedQ03RqGOeay-3TqR_3kx9_hJXbbyU8S6IN0.woff */
+		url('Economica_700italic.woff') format('woff'),
+		/* from https://fonts.gstatic.com/s/economica/v4/ac5dlUsedQ03RqGOeay-3YlIZu-HDpmDIZMigmsroc4.woff2 */
+		url('Economica_700italic.woff2') format('woff2'),
+		/* from https://fonts.gstatic.com/l/font?kit=ac5dlUsedQ03RqGOeay-3XtNmQEE9wZ6UZlmiISB1pg&skey=9f803a65f8e309cb&v=v4#Economica */
+		url('Economica_700italic.svg#Economica') format('svg'),
+		/* from https://fonts.gstatic.com/s/economica/v4/ac5dlUsedQ03RqGOeay-3Z_TkvowlIOtbR7ePgFOpF4.ttf */
+		url('Economica_700italic.ttf') format('truetype');
+}

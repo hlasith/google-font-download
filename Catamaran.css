@@ -1,0 +1,162 @@
+@font-face {
+	font-family: 'Catamaran';
+	font-style: normal;
+	font-weight: 100;
+	src:
+		local('Catamaran Thin'),
+		local('Catamaran-Thin'),
+		/* from https://fonts.gstatic.com/s/catamaran/v2/AsJXcel0VOprDS7k9OVAc2fQcKutQXcIrRfyR5jdjY8.eot */
+		url('Catamaran_100.eot?#iefix') format('embedded-opentype'),
+		/* from https://fonts.gstatic.com/s/catamaran/v2/AsJXcel0VOprDS7k9OVAc4bN6UDyHWBl620a-IRfuBk.woff */
+		url('Catamaran_100.woff') format('woff'),
+		/* from https://fonts.gstatic.com/s/catamaran/v2/AsJXcel0VOprDS7k9OVAc44P5ICox8Kq3LLUNMylGO4.woff2 */
+		url('Catamaran_100.woff2') format('woff2'),
+		/* from https://fonts.gstatic.com/l/font?kit=AsJXcel0VOprDS7k9OVAc3NsigHlcrQGNV8nkUSFQfc&skey=a9b56938d2f1cef2&v=v2#Catamaran */
+		url('Catamaran_100.svg#Catamaran') format('svg'),
+		/* from https://fonts.gstatic.com/s/catamaran/v2/AsJXcel0VOprDS7k9OVAc50EAVxt0G0biEntp43Qt6E.ttf */
+		url('Catamaran_100.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Catamaran';
+	font-style: normal;
+	font-weight: 200;
+	src:
+		local('Catamaran ExtraLight'),
+		local('Catamaran-ExtraLight'),
+		/* from https://fonts.gstatic.com/s/catamaran/v2/hFc-HKSsGk6M-psujei1MHZ2MAKAc2x4R1uOSeegc5U.eot */
+		url('Catamaran_200.eot?#iefix') format('embedded-opentype'),
+		/* from https://fonts.gstatic.com/s/catamaran/v2/hFc-HKSsGk6M-psujei1MHhCUOGz7vYGh680lGh-uXM.woff */
+		url('Catamaran_200.woff') format('woff'),
+		/* from https://fonts.gstatic.com/s/catamaran/v2/hFc-HKSsGk6M-psujei1MOgdm0LZdjqr5-oayXSOefg.woff2 */
+		url('Catamaran_200.woff2') format('woff2'),
+		/* from https://fonts.gstatic.com/l/font?kit=hFc-HKSsGk6M-psujei1MFlIn5tFQcqMuf-jhyJP0ps&skey=94ef7a70ab64c3a3&v=v2#Catamaran */
+		url('Catamaran_200.svg#Catamaran') format('svg'),
+		/* from https://fonts.gstatic.com/s/catamaran/v2/hFc-HKSsGk6M-psujei1MInF5uFdDttMLvmWuJdhhgs.ttf */
+		url('Catamaran_200.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Catamaran';
+	font-style: normal;
+	font-weight: 300;
+	src:
+		local('Catamaran Light'),
+		local('Catamaran-Light'),
+		/* from https://fonts.gstatic.com/s/catamaran/v2/Aaag4ccR7Oh_4eai-jbrYHZ2MAKAc2x4R1uOSeegc5U.eot */
+		url('Catamaran_300.eot?#iefix') format('embedded-opentype'),
+		/* from https://fonts.gstatic.com/s/catamaran/v2/Aaag4ccR7Oh_4eai-jbrYHhCUOGz7vYGh680lGh-uXM.woff */
+		url('Catamaran_300.woff') format('woff'),
+		/* from https://fonts.gstatic.com/s/catamaran/v2/Aaag4ccR7Oh_4eai-jbrYOgdm0LZdjqr5-oayXSOefg.woff2 */
+		url('Catamaran_300.woff2') format('woff2'),
+		/* from https://fonts.gstatic.com/l/font?kit=Aaag4ccR7Oh_4eai-jbrYFlIn5tFQcqMuf-jhyJP0ps&skey=4b5f965596e3b29f&v=v2#Catamaran */
+		url('Catamaran_300.svg#Catamaran') format('svg'),
+		/* from https://fonts.gstatic.com/s/catamaran/v2/Aaag4ccR7Oh_4eai-jbrYInF5uFdDttMLvmWuJdhhgs.ttf */
+		url('Catamaran_300.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Catamaran';
+	font-style: normal;
+	font-weight: normal;
+	src:
+		local('Catamaran'),
+		local('Catamaran-Regular'),
+		/* from https://fonts.gstatic.com/s/catamaran/v2/iVYgK2bOLvZcSxr0ITOecvY6323mHUZFJMgTvxaG2iE.eot */
+		url('Catamaran.eot?#iefix') format('embedded-opentype'),
+		/* from https://fonts.gstatic.com/s/catamaran/v2/iVYgK2bOLvZcSxr0ITOecj8E0i7KZn-EPnyo3HZu7kw.woff */
+		url('Catamaran.woff') format('woff'),
+		/* from https://fonts.gstatic.com/s/catamaran/v2/iVYgK2bOLvZcSxr0ITOecltXRa8TVwTICgirnJhmVJw.woff2 */
+		url('Catamaran.woff2') format('woff2'),
+		/* from https://fonts.gstatic.com/l/font?kit=iVYgK2bOLvZcSxr0ITOecpbd9NUM7myrQQz30yPaGQ4&skey=309d941a05fc0762&v=v2#Catamaran */
+		url('Catamaran.svg#Catamaran') format('svg'),
+		/* from https://fonts.gstatic.com/s/catamaran/v2/iVYgK2bOLvZcSxr0ITOecqCWcynf_cDxXwCLxiixG1c.ttf */
+		url('Catamaran.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Catamaran';
+	font-style: normal;
+	font-weight: 500;
+	src:
+		local('Catamaran Medium'),
+		local('Catamaran-Medium'),
+		/* from https://fonts.gstatic.com/s/catamaran/v2/83WSX3F86qsvj1Z4EI0tQnZ2MAKAc2x4R1uOSeegc5U.eot */
+		url('Catamaran_500.eot?#iefix') format('embedded-opentype'),
+		/* from https://fonts.gstatic.com/s/catamaran/v2/83WSX3F86qsvj1Z4EI0tQnhCUOGz7vYGh680lGh-uXM.woff */
+		url('Catamaran_500.woff') format('woff'),
+		/* from https://fonts.gstatic.com/s/catamaran/v2/83WSX3F86qsvj1Z4EI0tQugdm0LZdjqr5-oayXSOefg.woff2 */
+		url('Catamaran_500.woff2') format('woff2'),
+		/* from https://fonts.gstatic.com/l/font?kit=83WSX3F86qsvj1Z4EI0tQllIn5tFQcqMuf-jhyJP0ps&skey=1f7c0bfcad7e7889&v=v2#Catamaran */
+		url('Catamaran_500.svg#Catamaran') format('svg'),
+		/* from https://fonts.gstatic.com/s/catamaran/v2/83WSX3F86qsvj1Z4EI0tQonF5uFdDttMLvmWuJdhhgs.ttf */
+		url('Catamaran_500.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Catamaran';
+	font-style: normal;
+	font-weight: 600;
+	src:
+		local('Catamaran SemiBold'),
+		local('Catamaran-SemiBold'),
+		/* from https://fonts.gstatic.com/s/catamaran/v2/a9PlHHnuBWiGGk0TwuFKTnZ2MAKAc2x4R1uOSeegc5U.eot */
+		url('Catamaran_600.eot?#iefix') format('embedded-opentype'),
+		/* from https://fonts.gstatic.com/s/catamaran/v2/a9PlHHnuBWiGGk0TwuFKTnhCUOGz7vYGh680lGh-uXM.woff */
+		url('Catamaran_600.woff') format('woff'),
+		/* from https://fonts.gstatic.com/s/catamaran/v2/a9PlHHnuBWiGGk0TwuFKTugdm0LZdjqr5-oayXSOefg.woff2 */
+		url('Catamaran_600.woff2') format('woff2'),
+		/* from https://fonts.gstatic.com/l/font?kit=a9PlHHnuBWiGGk0TwuFKTllIn5tFQcqMuf-jhyJP0ps&skey=6135f1cc0c1b3810&v=v2#Catamaran */
+		url('Catamaran_600.svg#Catamaran') format('svg'),
+		/* from https://fonts.gstatic.com/s/catamaran/v2/a9PlHHnuBWiGGk0TwuFKTonF5uFdDttMLvmWuJdhhgs.ttf */
+		url('Catamaran_600.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Catamaran';
+	font-style: normal;
+	font-weight: 700;
+	src:
+		local('Catamaran Bold'),
+		local('Catamaran-Bold'),
+		/* from https://fonts.gstatic.com/s/catamaran/v2/PpgVtUHUdnBZYNpnzGbSc3Z2MAKAc2x4R1uOSeegc5U.eot */
+		url('Catamaran_700.eot?#iefix') format('embedded-opentype'),
+		/* from https://fonts.gstatic.com/s/catamaran/v2/PpgVtUHUdnBZYNpnzGbSc3hCUOGz7vYGh680lGh-uXM.woff */
+		url('Catamaran_700.woff') format('woff'),
+		/* from https://fonts.gstatic.com/s/catamaran/v2/PpgVtUHUdnBZYNpnzGbSc-gdm0LZdjqr5-oayXSOefg.woff2 */
+		url('Catamaran_700.woff2') format('woff2'),
+		/* from https://fonts.gstatic.com/l/font?kit=PpgVtUHUdnBZYNpnzGbSc1lIn5tFQcqMuf-jhyJP0ps&skey=57b3a2830111dbc0&v=v2#Catamaran */
+		url('Catamaran_700.svg#Catamaran') format('svg'),
+		/* from https://fonts.gstatic.com/s/catamaran/v2/PpgVtUHUdnBZYNpnzGbSc4nF5uFdDttMLvmWuJdhhgs.ttf */
+		url('Catamaran_700.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Catamaran';
+	font-style: normal;
+	font-weight: 800;
+	src:
+		local('Catamaran ExtraBold'),
+		local('Catamaran-ExtraBold'),
+		/* from https://fonts.gstatic.com/s/catamaran/v2/6VjB_uSfn3DZ93IQv58CmHZ2MAKAc2x4R1uOSeegc5U.eot */
+		url('Catamaran_800.eot?#iefix') format('embedded-opentype'),
+		/* from https://fonts.gstatic.com/s/catamaran/v2/6VjB_uSfn3DZ93IQv58CmHhCUOGz7vYGh680lGh-uXM.woff */
+		url('Catamaran_800.woff') format('woff'),
+		/* from https://fonts.gstatic.com/s/catamaran/v2/6VjB_uSfn3DZ93IQv58CmOgdm0LZdjqr5-oayXSOefg.woff2 */
+		url('Catamaran_800.woff2') format('woff2'),
+		/* from https://fonts.gstatic.com/l/font?kit=6VjB_uSfn3DZ93IQv58CmFlIn5tFQcqMuf-jhyJP0ps&skey=474b56ec2b042111&v=v2#Catamaran */
+		url('Catamaran_800.svg#Catamaran') format('svg'),
+		/* from https://fonts.gstatic.com/s/catamaran/v2/6VjB_uSfn3DZ93IQv58CmInF5uFdDttMLvmWuJdhhgs.ttf */
+		url('Catamaran_800.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Catamaran';
+	font-style: normal;
+	font-weight: 900;
+	src:
+		local('Catamaran Black'),
+		local('Catamaran-Black'),
+		/* from https://fonts.gstatic.com/s/catamaran/v2/5ys9TqpQc9Q6gHqbSox6p3Z2MAKAc2x4R1uOSeegc5U.eot */
+		url('Catamaran_900.eot?#iefix') format('embedded-opentype'),
+		/* from https://fonts.gstatic.com/s/catamaran/v2/5ys9TqpQc9Q6gHqbSox6p3hCUOGz7vYGh680lGh-uXM.woff */
+		url('Catamaran_900.woff') format('woff'),
+		/* from https://fonts.gstatic.com/s/catamaran/v2/5ys9TqpQc9Q6gHqbSox6p-gdm0LZdjqr5-oayXSOefg.woff2 */
+		url('Catamaran_900.woff2') format('woff2'),
+		/* from https://fonts.gstatic.com/l/font?kit=5ys9TqpQc9Q6gHqbSox6p1lIn5tFQcqMuf-jhyJP0ps&skey=9770b7dd9fa233f5&v=v2#Catamaran */
+		url('Catamaran_900.svg#Catamaran') format('svg'),
+		/* from https://fonts.gstatic.com/s/catamaran/v2/5ys9TqpQc9Q6gHqbSox6p4nF5uFdDttMLvmWuJdhhgs.ttf */
+		url('Catamaran_900.ttf') format('truetype');
+}

@@ -1,0 +1,36 @@
+@font-face {
+	font-family: 'Inconsolata';
+	font-style: normal;
+	font-weight: normal;
+	src:
+		local('Inconsolata Regular'),
+		local('Inconsolata-Regular'),
+		/* from https://fonts.gstatic.com/s/inconsolata/v15/BjAYBlHtW3CJxDcjzrnZCGfQcKutQXcIrRfyR5jdjY8.eot */
+		url('Inconsolata.eot?#iefix') format('embedded-opentype'),
+		/* from https://fonts.gstatic.com/s/inconsolata/v15/BjAYBlHtW3CJxDcjzrnZCIbN6UDyHWBl620a-IRfuBk.woff */
+		url('Inconsolata.woff') format('woff'),
+		/* from https://fonts.gstatic.com/s/inconsolata/v15/BjAYBlHtW3CJxDcjzrnZCI4P5ICox8Kq3LLUNMylGO4.woff2 */
+		url('Inconsolata.woff2') format('woff2'),
+		/* from https://fonts.gstatic.com/l/font?kit=BjAYBlHtW3CJxDcjzrnZCHNsigHlcrQGNV8nkUSFQfc&skey=20fa6569a31c71ee&v=v15#Inconsolata */
+		url('Inconsolata.svg#Inconsolata') format('svg'),
+		/* from https://fonts.gstatic.com/s/inconsolata/v15/BjAYBlHtW3CJxDcjzrnZCJ0EAVxt0G0biEntp43Qt6E.ttf */
+		url('Inconsolata.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Inconsolata';
+	font-style: normal;
+	font-weight: 700;
+	src:
+		local('Inconsolata Bold'),
+		local('Inconsolata-Bold'),
+		/* from https://fonts.gstatic.com/s/inconsolata/v15/AIed271kqQlcIRSOnQH0ybFt29aCHKT7otDW9l62Aag.eot */
+		url('Inconsolata_700.eot?#iefix') format('embedded-opentype'),
+		/* from https://fonts.gstatic.com/s/inconsolata/v15/AIed271kqQlcIRSOnQH0yTqR_3kx9_hJXbbyU8S6IN0.woff */
+		url('Inconsolata_700.woff') format('woff'),
+		/* from https://fonts.gstatic.com/s/inconsolata/v15/AIed271kqQlcIRSOnQH0yYlIZu-HDpmDIZMigmsroc4.woff2 */
+		url('Inconsolata_700.woff2') format('woff2'),
+		/* from https://fonts.gstatic.com/l/font?kit=AIed271kqQlcIRSOnQH0yXtNmQEE9wZ6UZlmiISB1pg&skey=92483760c58cd80&v=v15#Inconsolata */
+		url('Inconsolata_700.svg#Inconsolata') format('svg'),
+		/* from https://fonts.gstatic.com/s/inconsolata/v15/AIed271kqQlcIRSOnQH0yZ_TkvowlIOtbR7ePgFOpF4.ttf */
+		url('Inconsolata_700.ttf') format('truetype');
+}

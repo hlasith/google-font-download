@@ -1,0 +1,54 @@
+@font-face {
+	font-family: 'Comfortaa';
+	font-style: normal;
+	font-weight: 300;
+	src:
+		local('Comfortaa Light'),
+		local('Comfortaa-Light'),
+		/* from https://fonts.gstatic.com/s/comfortaa/v9/r_tUZNl0G8xCoOmp_JkSCnZ2MAKAc2x4R1uOSeegc5U.eot */
+		url('Comfortaa_300.eot?#iefix') format('embedded-opentype'),
+		/* from https://fonts.gstatic.com/s/comfortaa/v9/r_tUZNl0G8xCoOmp_JkSCnhCUOGz7vYGh680lGh-uXM.woff */
+		url('Comfortaa_300.woff') format('woff'),
+		/* from https://fonts.gstatic.com/s/comfortaa/v9/r_tUZNl0G8xCoOmp_JkSCugdm0LZdjqr5-oayXSOefg.woff2 */
+		url('Comfortaa_300.woff2') format('woff2'),
+		/* from https://fonts.gstatic.com/l/font?kit=r_tUZNl0G8xCoOmp_JkSCllIn5tFQcqMuf-jhyJP0ps&skey=1d2f7639d4b7d7b0&v=v9#Comfortaa */
+		url('Comfortaa_300.svg#Comfortaa') format('svg'),
+		/* from https://fonts.gstatic.com/s/comfortaa/v9/r_tUZNl0G8xCoOmp_JkSConF5uFdDttMLvmWuJdhhgs.ttf */
+		url('Comfortaa_300.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Comfortaa';
+	font-style: normal;
+	font-weight: normal;
+	src:
+		local('Comfortaa Regular'),
+		local('Comfortaa-Regular'),
+		/* from https://fonts.gstatic.com/s/comfortaa/v9/qLBu5CQmSMt1H43OiWJ77fY6323mHUZFJMgTvxaG2iE.eot */
+		url('Comfortaa.eot?#iefix') format('embedded-opentype'),
+		/* from https://fonts.gstatic.com/s/comfortaa/v9/qLBu5CQmSMt1H43OiWJ77T8E0i7KZn-EPnyo3HZu7kw.woff */
+		url('Comfortaa.woff') format('woff'),
+		/* from https://fonts.gstatic.com/s/comfortaa/v9/qLBu5CQmSMt1H43OiWJ77VtXRa8TVwTICgirnJhmVJw.woff2 */
+		url('Comfortaa.woff2') format('woff2'),
+		/* from https://fonts.gstatic.com/l/font?kit=qLBu5CQmSMt1H43OiWJ77Zbd9NUM7myrQQz30yPaGQ4&skey=45c59603efbe20e8&v=v9#Comfortaa */
+		url('Comfortaa.svg#Comfortaa') format('svg'),
+		/* from https://fonts.gstatic.com/s/comfortaa/v9/qLBu5CQmSMt1H43OiWJ77aCWcynf_cDxXwCLxiixG1c.ttf */
+		url('Comfortaa.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Comfortaa';
+	font-style: normal;
+	font-weight: 700;
+	src:
+		local('Comfortaa Bold'),
+		local('Comfortaa-Bold'),
+		/* from https://fonts.gstatic.com/s/comfortaa/v9/fND5XPYKrF2tQDwwfWZJI3Z2MAKAc2x4R1uOSeegc5U.eot */
+		url('Comfortaa_700.eot?#iefix') format('embedded-opentype'),
+		/* from https://fonts.gstatic.com/s/comfortaa/v9/fND5XPYKrF2tQDwwfWZJI3hCUOGz7vYGh680lGh-uXM.woff */
+		url('Comfortaa_700.woff') format('woff'),
+		/* from https://fonts.gstatic.com/s/comfortaa/v9/fND5XPYKrF2tQDwwfWZJI-gdm0LZdjqr5-oayXSOefg.woff2 */
+		url('Comfortaa_700.woff2') format('woff2'),
+		/* from https://fonts.gstatic.com/l/font?kit=fND5XPYKrF2tQDwwfWZJI1lIn5tFQcqMuf-jhyJP0ps&skey=ab289941219ecbc3&v=v9#Comfortaa */
+		url('Comfortaa_700.svg#Comfortaa') format('svg'),
+		/* from https://fonts.gstatic.com/s/comfortaa/v9/fND5XPYKrF2tQDwwfWZJI4nF5uFdDttMLvmWuJdhhgs.ttf */
+		url('Comfortaa_700.ttf') format('truetype');
+}

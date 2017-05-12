@@ -1,0 +1,72 @@
+@font-face {
+	font-family: 'Karla';
+	font-style: normal;
+	font-weight: normal;
+	src:
+		local('Karla'),
+		local('Karla-Regular'),
+		/* from https://fonts.gstatic.com/s/karla/v5/8gO-GQO6h3meAtqRrd890A.eot */
+		url('Karla.eot?#iefix') format('embedded-opentype'),
+		/* from https://fonts.gstatic.com/s/karla/v5/azR40LUJrT4HaWK28zHmVA.woff */
+		url('Karla.woff') format('woff'),
+		/* from https://fonts.gstatic.com/s/karla/v5/Zi_e6rBgGqv33BWF8WTq8g.woff2 */
+		url('Karla.woff2') format('woff2'),
+		/* from https://fonts.gstatic.com/l/font?kit=6bdss521B8nvJZry4rxG6g&skey=139a38ebe1800a84&v=v5#Karla */
+		url('Karla.svg#Karla') format('svg'),
+		/* from https://fonts.gstatic.com/s/karla/v5/Vu9Dx8oyiuqEkuIyR3OPDQ.ttf */
+		url('Karla.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Karla';
+	font-style: italic;
+	font-weight: normal;
+	src:
+		local('Karla Italic'),
+		local('Karla-Italic'),
+		/* from https://fonts.gstatic.com/s/karla/v5/q1iut0qldmpQ41lMrYSYhg.eot */
+		url('Karla_italic.eot?#iefix') format('embedded-opentype'),
+		/* from https://fonts.gstatic.com/s/karla/v5/oU7KPLtl1UkRu830svIOXw.woff */
+		url('Karla_italic.woff') format('woff'),
+		/* from https://fonts.gstatic.com/s/karla/v5/LCDsRHICy9vmW7BLwm8u7g.woff2 */
+		url('Karla_italic.woff2') format('woff2'),
+		/* from https://fonts.gstatic.com/l/font?kit=6pXUn46VwH2M91oEwyLCrg&skey=1da949773a71f90f&v=v5#Karla */
+		url('Karla_italic.svg#Karla') format('svg'),
+		/* from https://fonts.gstatic.com/s/karla/v5/T7MBC_6JTkW2ZBbjf0rXXw.ttf */
+		url('Karla_italic.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Karla';
+	font-style: normal;
+	font-weight: 700;
+	src:
+		local('Karla Bold'),
+		local('Karla-Bold'),
+		/* from https://fonts.gstatic.com/s/karla/v5/s-O-g1eMGKQFvcIY8dKM9fesZW2xOQ-xsNqO47m55DA.eot */
+		url('Karla_700.eot?#iefix') format('embedded-opentype'),
+		/* from https://fonts.gstatic.com/s/karla/v5/3nZS3BKzlvhkwl4yjCQcjPesZW2xOQ-xsNqO47m55DA.woff */
+		url('Karla_700.woff') format('woff'),
+		/* from https://fonts.gstatic.com/s/karla/v5/suoMYBGv5sGCUIrF9mVTffesZW2xOQ-xsNqO47m55DA.woff2 */
+		url('Karla_700.woff2') format('woff2'),
+		/* from https://fonts.gstatic.com/l/font?kit=1U0hBTowQV4a8grjksAMdPesZW2xOQ-xsNqO47m55DA&skey=5004906a717967a3&v=v5#Karla */
+		url('Karla_700.svg#Karla') format('svg'),
+		/* from https://fonts.gstatic.com/s/karla/v5/6rYv84POalfstX0SkMI-EvesZW2xOQ-xsNqO47m55DA.ttf */
+		url('Karla_700.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Karla';
+	font-style: italic;
+	font-weight: 700;
+	src:
+		local('Karla Bold Italic'),
+		local('Karla-BoldItalic'),
+		/* from https://fonts.gstatic.com/s/karla/v5/VZ08RdiotRdV1D0ewK-mxFQlYEbsez9cZjKsNMjLOwM.eot */
+		url('Karla_700italic.eot?#iefix') format('embedded-opentype'),
+		/* from https://fonts.gstatic.com/s/karla/v5/VZ08RdiotRdV1D0ewK-mxBsxEYwM7FgeyaSgU71cLG0.woff */
+		url('Karla_700italic.woff') format('woff'),
+		/* from https://fonts.gstatic.com/s/karla/v5/VZ08RdiotRdV1D0ewK-mxPk_vArhqVIZ0nv9q090hN8.woff2 */
+		url('Karla_700italic.woff2') format('woff2'),
+		/* from https://fonts.gstatic.com/l/font?kit=VZ08RdiotRdV1D0ewK-mxKWUboTb-jS2tyCOQMtm97g&skey=8c6082f21a1add1e&v=v5#Karla */
+		url('Karla_700italic.svg#Karla') format('svg'),
+		/* from https://fonts.gstatic.com/s/karla/v5/VZ08RdiotRdV1D0ewK-mxC3USBnSvpkopQaUR-2r7iU.ttf */
+		url('Karla_700italic.ttf') format('truetype');
+}

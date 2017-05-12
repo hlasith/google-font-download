@@ -1,0 +1,72 @@
+@font-face {
+	font-family: 'Cabin Condensed';
+	font-style: normal;
+	font-weight: normal;
+	src:
+		local('Cabin Condensed'),
+		local('CabinCondensed-Regular'),
+		/* from https://fonts.gstatic.com/s/cabincondensed/v9/B0txb0blf2N29WdYPJjMSiTVIg84CdvwY38Z-WYkVjc.eot */
+		url('Cabin_Condensed.eot?#iefix') format('embedded-opentype'),
+		/* from https://fonts.gstatic.com/s/cabincondensed/v9/B0txb0blf2N29WdYPJjMShZ1gqmQBTb4Nwa_fF0DajA.woff */
+		url('Cabin_Condensed.woff') format('woff'),
+		/* from https://fonts.gstatic.com/s/cabincondensed/v9/B0txb0blf2N29WdYPJjMStWMqZ82NGJlZbN8XLKSRYo.woff2 */
+		url('Cabin_Condensed.woff2') format('woff2'),
+		/* from https://fonts.gstatic.com/l/font?kit=B0txb0blf2N29WdYPJjMSjtVxPYSbTYljQKlacBDHZ4&skey=17b81add35c8280b&v=v9#CabinCondensed */
+		url('Cabin_Condensed.svg#CabinCondensed') format('svg'),
+		/* from https://fonts.gstatic.com/s/cabincondensed/v9/B0txb0blf2N29WdYPJjMSlpNuLN9P2dR6eOCPYblbcM.ttf */
+		url('Cabin_Condensed.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Cabin Condensed';
+	font-style: normal;
+	font-weight: 500;
+	src:
+		local('Cabin Condensed Medium'),
+		local('CabinCondensed-Medium'),
+		/* from https://fonts.gstatic.com/s/cabincondensed/v9/Ez4zJbsGr2BgXcNUWBVgEO0yR5t_EHTphebinvwfibU.eot */
+		url('Cabin_Condensed_500.eot?#iefix') format('embedded-opentype'),
+		/* from https://fonts.gstatic.com/s/cabincondensed/v9/Ez4zJbsGr2BgXcNUWBVgECyW0kDznfHZ5pM_3J5q0b8.woff */
+		url('Cabin_Condensed_500.woff') format('woff'),
+		/* from https://fonts.gstatic.com/s/cabincondensed/v9/Ez4zJbsGr2BgXcNUWBVgEC2V0Dcx-GzP0u75aFRGU4E.woff2 */
+		url('Cabin_Condensed_500.woff2') format('woff2'),
+		/* from https://fonts.gstatic.com/l/font?kit=Ez4zJbsGr2BgXcNUWBVgEFGo11JAbv57Am-UvEXZX0Y&skey=c24e1e943f65c064&v=v9#CabinCondensed */
+		url('Cabin_Condensed_500.svg#CabinCondensed') format('svg'),
+		/* from https://fonts.gstatic.com/s/cabincondensed/v9/Ez4zJbsGr2BgXcNUWBVgEHBc6c7GJRyI5TJeLr8zflk.ttf */
+		url('Cabin_Condensed_500.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Cabin Condensed';
+	font-style: normal;
+	font-weight: 600;
+	src:
+		local('Cabin Condensed SemiBold'),
+		local('CabinCondensed-SemiBold'),
+		/* from https://fonts.gstatic.com/s/cabincondensed/v9/Ez4zJbsGr2BgXcNUWBVgEDtNlfWXs3LXasIgqqxeZFo.eot */
+		url('Cabin_Condensed_600.eot?#iefix') format('embedded-opentype'),
+		/* from https://fonts.gstatic.com/s/cabincondensed/v9/Ez4zJbsGr2BgXcNUWBVgEJwdxg8gzQNM6zG8Kbi0OAw.woff */
+		url('Cabin_Condensed_600.woff') format('woff'),
+		/* from https://fonts.gstatic.com/s/cabincondensed/v9/Ez4zJbsGr2BgXcNUWBVgEEbBiZVUr6I3CXzgk1sO27Y.woff2 */
+		url('Cabin_Condensed_600.woff2') format('woff2'),
+		/* from https://fonts.gstatic.com/l/font?kit=Ez4zJbsGr2BgXcNUWBVgEPIggWBtb0bEVNHSEuczDnY&skey=73e2998c2216d30c&v=v9#CabinCondensed */
+		url('Cabin_Condensed_600.svg#CabinCondensed') format('svg'),
+		/* from https://fonts.gstatic.com/s/cabincondensed/v9/Ez4zJbsGr2BgXcNUWBVgEPf4jeoVDNLU0gIpvaTJHt4.ttf */
+		url('Cabin_Condensed_600.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Cabin Condensed';
+	font-style: normal;
+	font-weight: 700;
+	src:
+		local('Cabin Condensed Bold'),
+		local('CabinCondensed-Bold'),
+		/* from https://fonts.gstatic.com/s/cabincondensed/v9/Ez4zJbsGr2BgXcNUWBVgEOuNSblOyuwHJ2bf__1M4cI.eot */
+		url('Cabin_Condensed_700.eot?#iefix') format('embedded-opentype'),
+		/* from https://fonts.gstatic.com/s/cabincondensed/v9/Ez4zJbsGr2BgXcNUWBVgEFxo_3fQgeDvKMambfIp_uA.woff */
+		url('Cabin_Condensed_700.woff') format('woff'),
+		/* from https://fonts.gstatic.com/s/cabincondensed/v9/Ez4zJbsGr2BgXcNUWBVgEBZQ88-B6efqEZdRzbHKsrc.woff2 */
+		url('Cabin_Condensed_700.woff2') format('woff2'),
+		/* from https://fonts.gstatic.com/l/font?kit=Ez4zJbsGr2BgXcNUWBVgEGmmHJdze0NE-4rPBeWNdPU&skey=3035336f1cb2d188&v=v9#CabinCondensed */
+		url('Cabin_Condensed_700.svg#CabinCondensed') format('svg'),
+		/* from https://fonts.gstatic.com/s/cabincondensed/v9/Ez4zJbsGr2BgXcNUWBVgEMYsb_UBatsJhtlz83pruSg.ttf */
+		url('Cabin_Condensed_700.ttf') format('truetype');
+}

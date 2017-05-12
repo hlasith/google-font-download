@@ -1,0 +1,36 @@
+@font-face {
+	font-family: 'Amatic SC';
+	font-style: normal;
+	font-weight: normal;
+	src:
+		local('Amatic SC Regular'),
+		local('AmaticSC-Regular'),
+		/* from https://fonts.gstatic.com/s/amaticsc/v9/DPPfSFKxRTXvae2bKDzp5PY6323mHUZFJMgTvxaG2iE.eot */
+		url('Amatic_SC.eot?#iefix') format('embedded-opentype'),
+		/* from https://fonts.gstatic.com/s/amaticsc/v9/DPPfSFKxRTXvae2bKDzp5D8E0i7KZn-EPnyo3HZu7kw.woff */
+		url('Amatic_SC.woff') format('woff'),
+		/* from https://fonts.gstatic.com/s/amaticsc/v9/DPPfSFKxRTXvae2bKDzp5FtXRa8TVwTICgirnJhmVJw.woff2 */
+		url('Amatic_SC.woff2') format('woff2'),
+		/* from https://fonts.gstatic.com/l/font?kit=DPPfSFKxRTXvae2bKDzp5Jbd9NUM7myrQQz30yPaGQ4&skey=fb863bec8adba0c7&v=v9#AmaticSC */
+		url('Amatic_SC.svg#AmaticSC') format('svg'),
+		/* from https://fonts.gstatic.com/s/amaticsc/v9/DPPfSFKxRTXvae2bKDzp5KCWcynf_cDxXwCLxiixG1c.ttf */
+		url('Amatic_SC.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Amatic SC';
+	font-style: normal;
+	font-weight: 700;
+	src:
+		local('Amatic SC Bold'),
+		local('AmaticSC-Bold'),
+		/* from https://fonts.gstatic.com/s/amaticsc/v9/IDnkRTPGcrSVo50UyYNK73Z2MAKAc2x4R1uOSeegc5U.eot */
+		url('Amatic_SC_700.eot?#iefix') format('embedded-opentype'),
+		/* from https://fonts.gstatic.com/s/amaticsc/v9/IDnkRTPGcrSVo50UyYNK73hCUOGz7vYGh680lGh-uXM.woff */
+		url('Amatic_SC_700.woff') format('woff'),
+		/* from https://fonts.gstatic.com/s/amaticsc/v9/IDnkRTPGcrSVo50UyYNK7-gdm0LZdjqr5-oayXSOefg.woff2 */
+		url('Amatic_SC_700.woff2') format('woff2'),
+		/* from https://fonts.gstatic.com/l/font?kit=IDnkRTPGcrSVo50UyYNK71lIn5tFQcqMuf-jhyJP0ps&skey=f5c87b6211811ffa&v=v9#AmaticSC */
+		url('Amatic_SC_700.svg#AmaticSC') format('svg'),
+		/* from https://fonts.gstatic.com/s/amaticsc/v9/IDnkRTPGcrSVo50UyYNK74nF5uFdDttMLvmWuJdhhgs.ttf */
+		url('Amatic_SC_700.ttf') format('truetype');
+}

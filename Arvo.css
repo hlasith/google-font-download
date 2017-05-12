@@ -1,0 +1,71 @@
+@font-face {
+	font-family: 'Arvo';
+	font-style: normal;
+	font-weight: normal;
+	src:
+		local('Arvo'),
+		/* from https://fonts.gstatic.com/s/arvo/v9/DOHAK8DimZJeSQQDpH-4yw.eot */
+		url('Arvo.eot?#iefix') format('embedded-opentype'),
+		/* from https://fonts.gstatic.com/s/arvo/v9/WJ6D195CfbTRlIs49IbkFw.woff */
+		url('Arvo.woff') format('woff'),
+		/* from https://fonts.gstatic.com/s/arvo/v9/J0GYVYTizO1mjpT3aOcSbQ.woff2 */
+		url('Arvo.woff2') format('woff2'),
+		/* from https://fonts.gstatic.com/l/font?kit=mfIKVv9ZziIYgQNVexudYw&skey=40c49b2c9e3d24ba&v=v9#Arvo */
+		url('Arvo.svg#Arvo') format('svg'),
+		/* from https://fonts.gstatic.com/s/arvo/v9/MViwy4K6e56oHcyeMzjbCQ.ttf */
+		url('Arvo.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Arvo';
+	font-style: italic;
+	font-weight: normal;
+	src:
+		local('Arvo Italic'),
+		local('Arvo-Italic'),
+		/* from https://fonts.gstatic.com/s/arvo/v9/bhhsw7SLyOcdOtDZH6IxQg.eot */
+		url('Arvo_italic.eot?#iefix') format('embedded-opentype'),
+		/* from https://fonts.gstatic.com/s/arvo/v9/7solcx-ZQo6LBqJvZuxkkg.woff */
+		url('Arvo_italic.woff') format('woff'),
+		/* from https://fonts.gstatic.com/s/arvo/v9/Yl0tppep0-4db_jv2GpmdA.woff2 */
+		url('Arvo_italic.woff2') format('woff2'),
+		/* from https://fonts.gstatic.com/l/font?kit=7m9CanwF1V0GD7L1HfQTuQ&skey=2dd72678c3f42e85&v=v9#Arvo */
+		url('Arvo_italic.svg#Arvo') format('svg'),
+		/* from https://fonts.gstatic.com/s/arvo/v9/vQXokwpmxuSASZo9hjfj5g.ttf */
+		url('Arvo_italic.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Arvo';
+	font-style: normal;
+	font-weight: 700;
+	src:
+		local('Arvo Bold'),
+		local('Arvo-Bold'),
+		/* from https://fonts.gstatic.com/s/arvo/v9/yhrAT4vEkZxEF_O3V7wpSQ.eot */
+		url('Arvo_700.eot?#iefix') format('embedded-opentype'),
+		/* from https://fonts.gstatic.com/s/arvo/v9/0Aa8aBJcGN1n1zDNhqNrnQ.woff */
+		url('Arvo_700.woff') format('woff'),
+		/* from https://fonts.gstatic.com/s/arvo/v9/Ya11CJGBCnKoJHvb8B2EOw.woff2 */
+		url('Arvo_700.woff2') format('woff2'),
+		/* from https://fonts.gstatic.com/l/font?kit=rKQ6EUxZvwI4WTC3OJsXGA&skey=32d0e4970a9f038b&v=v9#Arvo */
+		url('Arvo_700.svg#Arvo') format('svg'),
+		/* from https://fonts.gstatic.com/s/arvo/v9/F-uvpIj1hF17IDyvQvI50Q.ttf */
+		url('Arvo_700.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Arvo';
+	font-style: italic;
+	font-weight: 700;
+	src:
+		local('Arvo Bold Italic'),
+		local('Arvo-BoldItalic'),
+		/* from https://fonts.gstatic.com/s/arvo/v9/Vj6JEk1YZr8j8R8H2j0b-vY6323mHUZFJMgTvxaG2iE.eot */
+		url('Arvo_700italic.eot?#iefix') format('embedded-opentype'),
+		/* from https://fonts.gstatic.com/s/arvo/v9/Vj6JEk1YZr8j8R8H2j0b-j8E0i7KZn-EPnyo3HZu7kw.woff */
+		url('Arvo_700italic.woff') format('woff'),
+		/* from https://fonts.gstatic.com/s/arvo/v9/Vj6JEk1YZr8j8R8H2j0b-ltXRa8TVwTICgirnJhmVJw.woff2 */
+		url('Arvo_700italic.woff2') format('woff2'),
+		/* from https://fonts.gstatic.com/l/font?kit=Vj6JEk1YZr8j8R8H2j0b-pbd9NUM7myrQQz30yPaGQ4&skey=a6e16a2b31a2dc20&v=v9#Arvo */
+		url('Arvo_700italic.svg#Arvo') format('svg'),
+		/* from https://fonts.gstatic.com/s/arvo/v9/Vj6JEk1YZr8j8R8H2j0b-qCWcynf_cDxXwCLxiixG1c.ttf */
+		url('Arvo_700italic.ttf') format('truetype');
+}

@@ -1,0 +1,72 @@
+@font-face {
+	font-family: 'Noto Sans';
+	font-style: normal;
+	font-weight: normal;
+	src:
+		local('Noto Sans'),
+		local('NotoSans'),
+		/* from https://fonts.gstatic.com/s/notosans/v6/LeFlHvsZjXu2c3ZRgBq9nPY6323mHUZFJMgTvxaG2iE.eot */
+		url('Noto_Sans.eot?#iefix') format('embedded-opentype'),
+		/* from https://fonts.gstatic.com/s/notosans/v6/LeFlHvsZjXu2c3ZRgBq9nD8E0i7KZn-EPnyo3HZu7kw.woff */
+		url('Noto_Sans.woff') format('woff'),
+		/* from https://fonts.gstatic.com/s/notosans/v6/LeFlHvsZjXu2c3ZRgBq9nFtXRa8TVwTICgirnJhmVJw.woff2 */
+		url('Noto_Sans.woff2') format('woff2'),
+		/* from https://fonts.gstatic.com/l/font?kit=LeFlHvsZjXu2c3ZRgBq9nJbd9NUM7myrQQz30yPaGQ4&skey=2b960fe17823056f&v=v6#NotoSans */
+		url('Noto_Sans.svg#NotoSans') format('svg'),
+		/* from https://fonts.gstatic.com/s/notosans/v6/LeFlHvsZjXu2c3ZRgBq9nKCWcynf_cDxXwCLxiixG1c.ttf */
+		url('Noto_Sans.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Noto Sans';
+	font-style: italic;
+	font-weight: normal;
+	src:
+		local('Noto Sans Italic'),
+		local('NotoSans-Italic'),
+		/* from https://fonts.gstatic.com/s/notosans/v6/ByLA_FLEa-16SpQuTcQn4GfQcKutQXcIrRfyR5jdjY8.eot */
+		url('Noto_Sans_italic.eot?#iefix') format('embedded-opentype'),
+		/* from https://fonts.gstatic.com/s/notosans/v6/ByLA_FLEa-16SpQuTcQn4IbN6UDyHWBl620a-IRfuBk.woff */
+		url('Noto_Sans_italic.woff') format('woff'),
+		/* from https://fonts.gstatic.com/s/notosans/v6/ByLA_FLEa-16SpQuTcQn4I4P5ICox8Kq3LLUNMylGO4.woff2 */
+		url('Noto_Sans_italic.woff2') format('woff2'),
+		/* from https://fonts.gstatic.com/l/font?kit=ByLA_FLEa-16SpQuTcQn4HNsigHlcrQGNV8nkUSFQfc&skey=10db4434b0359efc&v=v6#NotoSans */
+		url('Noto_Sans_italic.svg#NotoSans') format('svg'),
+		/* from https://fonts.gstatic.com/s/notosans/v6/ByLA_FLEa-16SpQuTcQn4J0EAVxt0G0biEntp43Qt6E.ttf */
+		url('Noto_Sans_italic.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Noto Sans';
+	font-style: normal;
+	font-weight: 700;
+	src:
+		local('Noto Sans Bold'),
+		local('NotoSans-Bold'),
+		/* from https://fonts.gstatic.com/s/notosans/v6/PIbvSEyHEdL91QLOQRnZ13Z2MAKAc2x4R1uOSeegc5U.eot */
+		url('Noto_Sans_700.eot?#iefix') format('embedded-opentype'),
+		/* from https://fonts.gstatic.com/s/notosans/v6/PIbvSEyHEdL91QLOQRnZ13hCUOGz7vYGh680lGh-uXM.woff */
+		url('Noto_Sans_700.woff') format('woff'),
+		/* from https://fonts.gstatic.com/s/notosans/v6/PIbvSEyHEdL91QLOQRnZ1-gdm0LZdjqr5-oayXSOefg.woff2 */
+		url('Noto_Sans_700.woff2') format('woff2'),
+		/* from https://fonts.gstatic.com/l/font?kit=PIbvSEyHEdL91QLOQRnZ11lIn5tFQcqMuf-jhyJP0ps&skey=c04743c8f0416da6&v=v6#NotoSans */
+		url('Noto_Sans_700.svg#NotoSans') format('svg'),
+		/* from https://fonts.gstatic.com/s/notosans/v6/PIbvSEyHEdL91QLOQRnZ14nF5uFdDttMLvmWuJdhhgs.ttf */
+		url('Noto_Sans_700.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Noto Sans';
+	font-style: italic;
+	font-weight: 700;
+	src:
+		local('Noto Sans Bold Italic'),
+		local('NotoSans-BoldItalic'),
+		/* from https://fonts.gstatic.com/s/notosans/v6/9Z3uUWMRR7crzm1TjRicDrFt29aCHKT7otDW9l62Aag.eot */
+		url('Noto_Sans_700italic.eot?#iefix') format('embedded-opentype'),
+		/* from https://fonts.gstatic.com/s/notosans/v6/9Z3uUWMRR7crzm1TjRicDjqR_3kx9_hJXbbyU8S6IN0.woff */
+		url('Noto_Sans_700italic.woff') format('woff'),
+		/* from https://fonts.gstatic.com/s/notosans/v6/9Z3uUWMRR7crzm1TjRicDolIZu-HDpmDIZMigmsroc4.woff2 */
+		url('Noto_Sans_700italic.woff2') format('woff2'),
+		/* from https://fonts.gstatic.com/l/font?kit=9Z3uUWMRR7crzm1TjRicDntNmQEE9wZ6UZlmiISB1pg&skey=940e0a2cc413d0c8&v=v6#NotoSans */
+		url('Noto_Sans_700italic.svg#NotoSans') format('svg'),
+		/* from https://fonts.gstatic.com/s/notosans/v6/9Z3uUWMRR7crzm1TjRicDp_TkvowlIOtbR7ePgFOpF4.ttf */
+		url('Noto_Sans_700italic.ttf') format('truetype');
+}

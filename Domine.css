@@ -1,0 +1,36 @@
+@font-face {
+	font-family: 'Domine';
+	font-style: normal;
+	font-weight: normal;
+	src:
+		local('Domine'),
+		local('Domine-Regular'),
+		/* from https://fonts.gstatic.com/s/domine/v4/sN2sKaGwq7PCKFIuaq_EPA.eot */
+		url('Domine.eot?#iefix') format('embedded-opentype'),
+		/* from https://fonts.gstatic.com/s/domine/v4/1KlmlHXZHUehH22N_q86AA.woff */
+		url('Domine.woff') format('woff'),
+		/* from https://fonts.gstatic.com/s/domine/v4/GQE2Oayn983RymkQwpLq5A.woff2 */
+		url('Domine.woff2') format('woff2'),
+		/* from https://fonts.gstatic.com/l/font?kit=xyYnvwsPBwio9tpWjY8eBw&skey=ea73fc1e1d1dfd9a&v=v4#Domine */
+		url('Domine.svg#Domine') format('svg'),
+		/* from https://fonts.gstatic.com/s/domine/v4/4wfhKe93QxmsFlDQSCQ5wg.ttf */
+		url('Domine.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Domine';
+	font-style: normal;
+	font-weight: 700;
+	src:
+		local('Domine Bold'),
+		local('Domine-Bold'),
+		/* from https://fonts.gstatic.com/s/domine/v4/BmiPqZorq0QiT-p6kf1pafY6323mHUZFJMgTvxaG2iE.eot */
+		url('Domine_700.eot?#iefix') format('embedded-opentype'),
+		/* from https://fonts.gstatic.com/s/domine/v4/BmiPqZorq0QiT-p6kf1paT8E0i7KZn-EPnyo3HZu7kw.woff */
+		url('Domine_700.woff') format('woff'),
+		/* from https://fonts.gstatic.com/s/domine/v4/BmiPqZorq0QiT-p6kf1paVtXRa8TVwTICgirnJhmVJw.woff2 */
+		url('Domine_700.woff2') format('woff2'),
+		/* from https://fonts.gstatic.com/l/font?kit=BmiPqZorq0QiT-p6kf1paZbd9NUM7myrQQz30yPaGQ4&skey=cfd1743a5d8839c4&v=v4#Domine */
+		url('Domine_700.svg#Domine') format('svg'),
+		/* from https://fonts.gstatic.com/s/domine/v4/BmiPqZorq0QiT-p6kf1paaCWcynf_cDxXwCLxiixG1c.ttf */
+		url('Domine_700.ttf') format('truetype');
+}

@@ -1,0 +1,72 @@
+@font-face {
+	font-family: 'Archivo Narrow';
+	font-style: normal;
+	font-weight: normal;
+	src:
+		local('Archivo Narrow Regular'),
+		local('ArchivoNarrow-Regular'),
+		/* from https://fonts.gstatic.com/s/archivonarrow/v5/DsLzC9scoPnrGiwYYMQXpj9sG6gyxihQGrqfBiBoCNc.eot */
+		url('Archivo_Narrow.eot?#iefix') format('embedded-opentype'),
+		/* from https://fonts.gstatic.com/s/archivonarrow/v5/DsLzC9scoPnrGiwYYMQXphdbPw3QSf9R-kE0EsQUn2A.woff */
+		url('Archivo_Narrow.woff') format('woff'),
+		/* from https://fonts.gstatic.com/s/archivonarrow/v5/DsLzC9scoPnrGiwYYMQXpkU-p1xzoRgkupcXIqgYFBc.woff2 */
+		url('Archivo_Narrow.woff2') format('woff2'),
+		/* from https://fonts.gstatic.com/l/font?kit=DsLzC9scoPnrGiwYYMQXpo9qashOVerhvngxLEi9cx0&skey=345333fd7197b162&v=v5#ArchivoNarrow */
+		url('Archivo_Narrow.svg#ArchivoNarrow') format('svg'),
+		/* from https://fonts.gstatic.com/s/archivonarrow/v5/DsLzC9scoPnrGiwYYMQXpkpeNX8RPf6i6WQfJWyCWEs.ttf */
+		url('Archivo_Narrow.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Archivo Narrow';
+	font-style: italic;
+	font-weight: normal;
+	src:
+		local('Archivo Narrow Italic'),
+		local('ArchivoNarrow-Italic'),
+		/* from https://fonts.gstatic.com/s/archivonarrow/v5/vqsrtPCpTU3tJlKfuXP5zS8SVR2zLCpe0j5AErWNfEA.eot */
+		url('Archivo_Narrow_italic.eot?#iefix') format('embedded-opentype'),
+		/* from https://fonts.gstatic.com/s/archivonarrow/v5/vqsrtPCpTU3tJlKfuXP5zQ48yxcqlEd_9yiE-NHSCVQ.woff */
+		url('Archivo_Narrow_italic.woff') format('woff'),
+		/* from https://fonts.gstatic.com/s/archivonarrow/v5/vqsrtPCpTU3tJlKfuXP5zeEHrUcvG35DlvKNjpX7jU4.woff2 */
+		url('Archivo_Narrow_italic.woff2') format('woff2'),
+		/* from https://fonts.gstatic.com/l/font?kit=vqsrtPCpTU3tJlKfuXP5zfniXxCQ7rSjurIrySIOR1g&skey=ec1fde26e7c4f98c&v=v5#ArchivoNarrow */
+		url('Archivo_Narrow_italic.svg#ArchivoNarrow') format('svg'),
+		/* from https://fonts.gstatic.com/s/archivonarrow/v5/vqsrtPCpTU3tJlKfuXP5zcnwn6e04auzqzWOIA_hv3E.ttf */
+		url('Archivo_Narrow_italic.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Archivo Narrow';
+	font-style: normal;
+	font-weight: 700;
+	src:
+		local('Archivo Narrow Bold'),
+		local('ArchivoNarrow-Bold'),
+		/* from https://fonts.gstatic.com/s/archivonarrow/v5/M__Wu4PAmHf4YZvQM8tWsGT4ZFB4cX9NxOgt4NwF8dg.eot */
+		url('Archivo_Narrow_700.eot?#iefix') format('embedded-opentype'),
+		/* from https://fonts.gstatic.com/s/archivonarrow/v5/M__Wu4PAmHf4YZvQM8tWsCylde52zikAzebNtJS89aM.woff */
+		url('Archivo_Narrow_700.woff') format('woff'),
+		/* from https://fonts.gstatic.com/s/archivonarrow/v5/M__Wu4PAmHf4YZvQM8tWsBKUK2vxztsQZZBkxIuj92o.woff2 */
+		url('Archivo_Narrow_700.woff2') format('woff2'),
+		/* from https://fonts.gstatic.com/l/font?kit=M__Wu4PAmHf4YZvQM8tWsBvdA8BQHjnCxNq-aqth-mQ&skey=3f6673ee0dfa8685&v=v5#ArchivoNarrow */
+		url('Archivo_Narrow_700.svg#ArchivoNarrow') format('svg'),
+		/* from https://fonts.gstatic.com/s/archivonarrow/v5/M__Wu4PAmHf4YZvQM8tWsDnFfol0SnfBMmbnmUK0fZM.ttf */
+		url('Archivo_Narrow_700.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Archivo Narrow';
+	font-style: italic;
+	font-weight: 700;
+	src:
+		local('Archivo Narrow Bold Italic'),
+		local('ArchivoNarrow-BoldItalic'),
+		/* from https://fonts.gstatic.com/s/archivonarrow/v5/wG6O733y5zHl4EKCOh8rSXkD2mkXfCwYNZza0sFYEUs.eot */
+		url('Archivo_Narrow_700italic.eot?#iefix') format('embedded-opentype'),
+		/* from https://fonts.gstatic.com/s/archivonarrow/v5/wG6O733y5zHl4EKCOh8rSXbcqP1x1ie9hNBLFkS7zO0.woff */
+		url('Archivo_Narrow_700italic.woff') format('woff'),
+		/* from https://fonts.gstatic.com/s/archivonarrow/v5/wG6O733y5zHl4EKCOh8rSflEgKdwIoor_PG0pLo4YVU.woff2 */
+		url('Archivo_Narrow_700italic.woff2') format('woff2'),
+		/* from https://fonts.gstatic.com/l/font?kit=wG6O733y5zHl4EKCOh8rSXOxM3Z0sV9wikYoCk6KaJo&skey=6e161893db35d59a&v=v5#ArchivoNarrow */
+		url('Archivo_Narrow_700italic.svg#ArchivoNarrow') format('svg'),
+		/* from https://fonts.gstatic.com/s/archivonarrow/v5/wG6O733y5zHl4EKCOh8rSQKRIWFa_QDmOmnTt8LSaDQ.ttf */
+		url('Archivo_Narrow_700italic.ttf') format('truetype');
+}

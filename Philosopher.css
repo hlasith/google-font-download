@@ -1,0 +1,72 @@
+@font-face {
+	font-family: 'Philosopher';
+	font-style: normal;
+	font-weight: normal;
+	src:
+		local('Philosopher Regular'),
+		local('Philosopher-Regular'),
+		/* from https://fonts.gstatic.com/s/philosopher/v8/OttjxgcoEsufOGSINYBGLWfQcKutQXcIrRfyR5jdjY8.eot */
+		url('Philosopher.eot?#iefix') format('embedded-opentype'),
+		/* from https://fonts.gstatic.com/s/philosopher/v8/OttjxgcoEsufOGSINYBGLYbN6UDyHWBl620a-IRfuBk.woff */
+		url('Philosopher.woff') format('woff'),
+		/* from https://fonts.gstatic.com/s/philosopher/v8/OttjxgcoEsufOGSINYBGLY4P5ICox8Kq3LLUNMylGO4.woff2 */
+		url('Philosopher.woff2') format('woff2'),
+		/* from https://fonts.gstatic.com/l/font?kit=OttjxgcoEsufOGSINYBGLXNsigHlcrQGNV8nkUSFQfc&skey=da0a2147adba7eff&v=v8#Philosopher */
+		url('Philosopher.svg#Philosopher') format('svg'),
+		/* from https://fonts.gstatic.com/s/philosopher/v8/OttjxgcoEsufOGSINYBGLZ0EAVxt0G0biEntp43Qt6E.ttf */
+		url('Philosopher.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Philosopher';
+	font-style: italic;
+	font-weight: normal;
+	src:
+		local('Philosopher Italic'),
+		local('Philosopher-Italic'),
+		/* from https://fonts.gstatic.com/s/philosopher/v8/_9Hnc_gz9k7Qq6uKaeHKmaSxSvC1lIsK_unZDHWqTBg.eot */
+		url('Philosopher_italic.eot?#iefix') format('embedded-opentype'),
+		/* from https://fonts.gstatic.com/s/philosopher/v8/_9Hnc_gz9k7Qq6uKaeHKmdkZXW4sYc4BjuAIFc1SXII.woff */
+		url('Philosopher_italic.woff') format('woff'),
+		/* from https://fonts.gstatic.com/s/philosopher/v8/_9Hnc_gz9k7Qq6uKaeHKmcu2Q0OS-KeTAWjgkS85mDg.woff2 */
+		url('Philosopher_italic.woff2') format('woff2'),
+		/* from https://fonts.gstatic.com/l/font?kit=_9Hnc_gz9k7Qq6uKaeHKmTGefNBPGWcFPRAoUX_lgLU&skey=dffa18171bbee2d1&v=v8#Philosopher */
+		url('Philosopher_italic.svg#Philosopher') format('svg'),
+		/* from https://fonts.gstatic.com/s/philosopher/v8/_9Hnc_gz9k7Qq6uKaeHKmeLrC4Du4e_yfTJ8Ol60xk0.ttf */
+		url('Philosopher_italic.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Philosopher';
+	font-style: normal;
+	font-weight: 700;
+	src:
+		local('Philosopher Bold'),
+		local('Philosopher-Bold'),
+		/* from https://fonts.gstatic.com/s/philosopher/v8/napvkewXG9Gqby5vwGHICLFt29aCHKT7otDW9l62Aag.eot */
+		url('Philosopher_700.eot?#iefix') format('embedded-opentype'),
+		/* from https://fonts.gstatic.com/s/philosopher/v8/napvkewXG9Gqby5vwGHICDqR_3kx9_hJXbbyU8S6IN0.woff */
+		url('Philosopher_700.woff') format('woff'),
+		/* from https://fonts.gstatic.com/s/philosopher/v8/napvkewXG9Gqby5vwGHICIlIZu-HDpmDIZMigmsroc4.woff2 */
+		url('Philosopher_700.woff2') format('woff2'),
+		/* from https://fonts.gstatic.com/l/font?kit=napvkewXG9Gqby5vwGHICHtNmQEE9wZ6UZlmiISB1pg&skey=cbdf56dd530768da&v=v8#Philosopher */
+		url('Philosopher_700.svg#Philosopher') format('svg'),
+		/* from https://fonts.gstatic.com/s/philosopher/v8/napvkewXG9Gqby5vwGHICJ_TkvowlIOtbR7ePgFOpF4.ttf */
+		url('Philosopher_700.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Philosopher';
+	font-style: italic;
+	font-weight: 700;
+	src:
+		local('Philosopher Bold Italic'),
+		local('Philosopher-BoldItalic'),
+		/* from https://fonts.gstatic.com/s/philosopher/v8/PuKlryTcvTj7-qZWfLCFINmkQI_kos-lIOeNt19QAas.eot */
+		url('Philosopher_700italic.eot?#iefix') format('embedded-opentype'),
+		/* from https://fonts.gstatic.com/s/philosopher/v8/PuKlryTcvTj7-qZWfLCFIARV2F9RPTaqyJ4QibDfkzM.woff */
+		url('Philosopher_700italic.woff') format('woff'),
+		/* from https://fonts.gstatic.com/s/philosopher/v8/PuKlryTcvTj7-qZWfLCFII9ObOXPY1wUIXqKtDjSdsY.woff2 */
+		url('Philosopher_700italic.woff2') format('woff2'),
+		/* from https://fonts.gstatic.com/l/font?kit=PuKlryTcvTj7-qZWfLCFIPXRuyUpAA8tGJEYgFPFMx8&skey=57b4856315c9ffe2&v=v8#Philosopher */
+		url('Philosopher_700italic.svg#Philosopher') format('svg'),
+		/* from https://fonts.gstatic.com/s/philosopher/v8/PuKlryTcvTj7-qZWfLCFIGsGzsqhEorxQDpu60nfWEc.ttf */
+		url('Philosopher_700italic.ttf') format('truetype');
+}

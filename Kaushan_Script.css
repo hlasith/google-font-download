@@ -1,0 +1,18 @@
+@font-face {
+	font-family: 'Kaushan Script';
+	font-style: normal;
+	font-weight: normal;
+	src:
+		local('Kaushan Script'),
+		local('KaushanScript-Regular'),
+		/* from https://fonts.gstatic.com/s/kaushanscript/v5/qx1LSqts-NtiKcLw4N03IGrfpCc_r9-5ZnZPBmoO4Sk.eot */
+		url('Kaushan_Script.eot?#iefix') format('embedded-opentype'),
+		/* from https://fonts.gstatic.com/s/kaushanscript/v5/qx1LSqts-NtiKcLw4N03IFhlQWQpSCpzb2Peu3I-Q34.woff */
+		url('Kaushan_Script.woff') format('woff'),
+		/* from https://fonts.gstatic.com/s/kaushanscript/v5/qx1LSqts-NtiKcLw4N03IEd0sm1ffa_JvZxsF_BEwQk.woff2 */
+		url('Kaushan_Script.woff2') format('woff2'),
+		/* from https://fonts.gstatic.com/l/font?kit=qx1LSqts-NtiKcLw4N03IGNb_15wyZifjqRY11zN25A&skey=31e8905c8b129a4e&v=v5#KaushanScript */
+		url('Kaushan_Script.svg#KaushanScript') format('svg'),
+		/* from https://fonts.gstatic.com/s/kaushanscript/v5/qx1LSqts-NtiKcLw4N03IC5FJMZltoAAwO2fP7iHu2o.ttf */
+		url('Kaushan_Script.ttf') format('truetype');
+}

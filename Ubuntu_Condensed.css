@@ -1,0 +1,18 @@
+@font-face {
+	font-family: 'Ubuntu Condensed';
+	font-style: normal;
+	font-weight: normal;
+	src:
+		local('Ubuntu Condensed'),
+		local('UbuntuCondensed-Regular'),
+		/* from https://fonts.gstatic.com/s/ubuntucondensed/v7/DBCt-NXN57MTAFjitYxdrG8ITcfo9NwJpvZiO7_FxEg.eot */
+		url('Ubuntu_Condensed.eot?#iefix') format('embedded-opentype'),
+		/* from https://fonts.gstatic.com/s/ubuntucondensed/v7/DBCt-NXN57MTAFjitYxdrFzqCfRpIA3W6ypxnPISCPA.woff */
+		url('Ubuntu_Condensed.woff') format('woff'),
+		/* from https://fonts.gstatic.com/s/ubuntucondensed/v7/DBCt-NXN57MTAFjitYxdrDAdhzWOYhqHvOZMRGaEyPo.woff2 */
+		url('Ubuntu_Condensed.woff2') format('woff2'),
+		/* from https://fonts.gstatic.com/l/font?kit=DBCt-NXN57MTAFjitYxdrM9XqQMESZbwKrSTBefVM6U&skey=aeebafbe63d33be9&v=v7#UbuntuCondensed */
+		url('Ubuntu_Condensed.svg#UbuntuCondensed') format('svg'),
+		/* from https://fonts.gstatic.com/s/ubuntucondensed/v7/DBCt-NXN57MTAFjitYxdrDR-eWpsHSw83BRsAQElGgc.ttf */
+		url('Ubuntu_Condensed.ttf') format('truetype');
+}

@@ -1,0 +1,72 @@
+@font-face {
+	font-family: 'Noticia Text';
+	font-style: normal;
+	font-weight: normal;
+	src:
+		local('Noticia Text'),
+		local('NoticiaText-Regular'),
+		/* from https://fonts.gstatic.com/s/noticiatext/v6/wdyV6x3eKpdeUPQ7BJ5uUHZ2MAKAc2x4R1uOSeegc5U.eot */
+		url('Noticia_Text.eot?#iefix') format('embedded-opentype'),
+		/* from https://fonts.gstatic.com/s/noticiatext/v6/wdyV6x3eKpdeUPQ7BJ5uUHhCUOGz7vYGh680lGh-uXM.woff */
+		url('Noticia_Text.woff') format('woff'),
+		/* from https://fonts.gstatic.com/s/noticiatext/v6/wdyV6x3eKpdeUPQ7BJ5uUOgdm0LZdjqr5-oayXSOefg.woff2 */
+		url('Noticia_Text.woff2') format('woff2'),
+		/* from https://fonts.gstatic.com/l/font?kit=wdyV6x3eKpdeUPQ7BJ5uUFlIn5tFQcqMuf-jhyJP0ps&skey=ebbf84981792db5&v=v6#NoticiaText */
+		url('Noticia_Text.svg#NoticiaText') format('svg'),
+		/* from https://fonts.gstatic.com/s/noticiatext/v6/wdyV6x3eKpdeUPQ7BJ5uUInF5uFdDttMLvmWuJdhhgs.ttf */
+		url('Noticia_Text.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Noticia Text';
+	font-style: italic;
+	font-weight: normal;
+	src:
+		local('Noticia Text Italic'),
+		local('NoticiaText-Italic'),
+		/* from https://fonts.gstatic.com/s/noticiatext/v6/dAuxVpkYE_Q_IwIm6elsKDoGYR7Z3iWH66EXnaJoKgg.eot */
+		url('Noticia_Text_italic.eot?#iefix') format('embedded-opentype'),
+		/* from https://fonts.gstatic.com/s/noticiatext/v6/dAuxVpkYE_Q_IwIm6elsKHpumDtkw9GHrrDfd7ZnWpU.woff */
+		url('Noticia_Text_italic.woff') format('woff'),
+		/* from https://fonts.gstatic.com/s/noticiatext/v6/dAuxVpkYE_Q_IwIm6elsKBMBlNeli-0RcAdOFWWLdxQ.woff2 */
+		url('Noticia_Text_italic.woff2') format('woff2'),
+		/* from https://fonts.gstatic.com/l/font?kit=dAuxVpkYE_Q_IwIm6elsKH2UFnxWCzsMUZbVj2XRF5M&skey=30669c460dd81720&v=v6#NoticiaText */
+		url('Noticia_Text_italic.svg#NoticiaText') format('svg'),
+		/* from https://fonts.gstatic.com/s/noticiatext/v6/dAuxVpkYE_Q_IwIm6elsKCtfYakCkPqOMDce0h_3gD8.ttf */
+		url('Noticia_Text_italic.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Noticia Text';
+	font-style: normal;
+	font-weight: 700;
+	src:
+		local('Noticia Text Bold'),
+		local('NoticiaText-Bold'),
+		/* from https://fonts.gstatic.com/s/noticiatext/v6/pEko-RqEtp45bE2P80AAKWmsoyWrDyoltQVIP7q_RGg.eot */
+		url('Noticia_Text_700.eot?#iefix') format('embedded-opentype'),
+		/* from https://fonts.gstatic.com/s/noticiatext/v6/pEko-RqEtp45bE2P80AAKXl4twXkwp3_u9ZoePkT564.woff */
+		url('Noticia_Text_700.woff') format('woff'),
+		/* from https://fonts.gstatic.com/s/noticiatext/v6/pEko-RqEtp45bE2P80AAKXNuWYKPzoeKl5tYj8yhly0.woff2 */
+		url('Noticia_Text_700.woff2') format('woff2'),
+		/* from https://fonts.gstatic.com/l/font?kit=pEko-RqEtp45bE2P80AAKQay50PuN8loMJ9QAXsTs7U&skey=bea077d1ab0bfaf0&v=v6#NoticiaText */
+		url('Noticia_Text_700.svg#NoticiaText') format('svg'),
+		/* from https://fonts.gstatic.com/s/noticiatext/v6/pEko-RqEtp45bE2P80AAKX06qf9KHRHwsVx7iw5MXmY.ttf */
+		url('Noticia_Text_700.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Noticia Text';
+	font-style: italic;
+	font-weight: 700;
+	src:
+		local('Noticia Text Bold Italic'),
+		local('NoticiaText-BoldItalic'),
+		/* from https://fonts.gstatic.com/s/noticiatext/v6/-rQ7V8ARjf28_b7kRa0Juiy7jlJQNiTiB3-MejPw_5E.eot */
+		url('Noticia_Text_700italic.eot?#iefix') format('embedded-opentype'),
+		/* from https://fonts.gstatic.com/s/noticiatext/v6/-rQ7V8ARjf28_b7kRa0Jur0qgHI2SEqiJszC-CVc3gY.woff */
+		url('Noticia_Text_700italic.woff') format('woff'),
+		/* from https://fonts.gstatic.com/s/noticiatext/v6/-rQ7V8ARjf28_b7kRa0JukcqRxak6Wc5LUVz-l064SE.woff2 */
+		url('Noticia_Text_700italic.woff2') format('woff2'),
+		/* from https://fonts.gstatic.com/l/font?kit=-rQ7V8ARjf28_b7kRa0JuuiOBN1C42tFdXFKJTGlCXo&skey=91633cfc4b65e760&v=v6#NoticiaText */
+		url('Noticia_Text_700italic.svg#NoticiaText') format('svg'),
+		/* from https://fonts.gstatic.com/s/noticiatext/v6/-rQ7V8ARjf28_b7kRa0JuixQL91WRy8t8mPvAX_dIgA.ttf */
+		url('Noticia_Text_700italic.ttf') format('truetype');
+}

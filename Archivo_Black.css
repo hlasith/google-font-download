@@ -1,0 +1,18 @@
+@font-face {
+	font-family: 'Archivo Black';
+	font-style: normal;
+	font-weight: normal;
+	src:
+		local('Archivo Black Regular'),
+		local('ArchivoBlack-Regular'),
+		/* from https://fonts.gstatic.com/s/archivoblack/v4/WoAoVT7K3k7hHfxKbvB6Bwav5M--_viT8jFKeYsHkCg.eot */
+		url('Archivo_Black.eot?#iefix') format('embedded-opentype'),
+		/* from https://fonts.gstatic.com/s/archivoblack/v4/WoAoVT7K3k7hHfxKbvB6B0BTuPGxyeV-VBVV8KqqzrI.woff */
+		url('Archivo_Black.woff') format('woff'),
+		/* from https://fonts.gstatic.com/s/archivoblack/v4/WoAoVT7K3k7hHfxKbvB6B6GwZwAVuVwqynDPq0VH9Ho.woff2 */
+		url('Archivo_Black.woff2') format('woff2'),
+		/* from https://fonts.gstatic.com/l/font?kit=WoAoVT7K3k7hHfxKbvB6Byill4SiTBdQFL-JZbJTIJ0&skey=f0fab067ca5e2347&v=v4#ArchivoBlack */
+		url('Archivo_Black.svg#ArchivoBlack') format('svg'),
+		/* from https://fonts.gstatic.com/s/archivoblack/v4/WoAoVT7K3k7hHfxKbvB6B0FBUwxZoPEX5aisj8qBSHE.ttf */
+		url('Archivo_Black.ttf') format('truetype');
+}

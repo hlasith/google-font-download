@@ -1,0 +1,18 @@
+@font-face {
+	font-family: 'Shrikhand';
+	font-style: normal;
+	font-weight: normal;
+	src:
+		local('Shrikhand'),
+		local('Shrikhand-Regular'),
+		/* from https://fonts.gstatic.com/s/shrikhand/v1/JyWweKXulPH__9al48I7XvY6323mHUZFJMgTvxaG2iE.eot */
+		url('Shrikhand.eot?#iefix') format('embedded-opentype'),
+		/* from https://fonts.gstatic.com/s/shrikhand/v1/JyWweKXulPH__9al48I7Xj8E0i7KZn-EPnyo3HZu7kw.woff */
+		url('Shrikhand.woff') format('woff'),
+		/* from https://fonts.gstatic.com/s/shrikhand/v1/JyWweKXulPH__9al48I7XltXRa8TVwTICgirnJhmVJw.woff2 */
+		url('Shrikhand.woff2') format('woff2'),
+		/* from https://fonts.gstatic.com/l/font?kit=JyWweKXulPH__9al48I7Xpbd9NUM7myrQQz30yPaGQ4&skey=26b1ad320d877a24&v=v1#Shrikhand */
+		url('Shrikhand.svg#Shrikhand') format('svg'),
+		/* from https://fonts.gstatic.com/s/shrikhand/v1/JyWweKXulPH__9al48I7XqCWcynf_cDxXwCLxiixG1c.ttf */
+		url('Shrikhand.ttf') format('truetype');
+}

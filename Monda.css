@@ -1,0 +1,36 @@
+@font-face {
+	font-family: 'Monda';
+	font-style: normal;
+	font-weight: normal;
+	src:
+		local('Monda Regular'),
+		local('Monda-Regular'),
+		/* from https://fonts.gstatic.com/s/monda/v6/jTmvG8tSl8y7Cw0ieRkwGA.eot */
+		url('Monda.eot?#iefix') format('embedded-opentype'),
+		/* from https://fonts.gstatic.com/s/monda/v6/sk05J8GA1NvUxDnk43EgAQ.woff */
+		url('Monda.woff') format('woff'),
+		/* from https://fonts.gstatic.com/s/monda/v6/9IGqbwlMn4Zg3as8alsdNA.woff2 */
+		url('Monda.woff2') format('woff2'),
+		/* from https://fonts.gstatic.com/l/font?kit=hS4WgjF7sN4G5PQqIZb3qA&skey=12b74b97e719c11d&v=v6#Monda */
+		url('Monda.svg#Monda') format('svg'),
+		/* from https://fonts.gstatic.com/s/monda/v6/WhvNfO27lzODDhoAPcYEXQ.ttf */
+		url('Monda.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Monda';
+	font-style: normal;
+	font-weight: 700;
+	src:
+		local('Monda Bold'),
+		local('Monda-Bold'),
+		/* from https://fonts.gstatic.com/s/monda/v6/6w6lP1hqgFwd_DvLqHKSFPesZW2xOQ-xsNqO47m55DA.eot */
+		url('Monda_700.eot?#iefix') format('embedded-opentype'),
+		/* from https://fonts.gstatic.com/s/monda/v6/uCFS-jQepl-zVlhjycME2fesZW2xOQ-xsNqO47m55DA.woff */
+		url('Monda_700.woff') format('woff'),
+		/* from https://fonts.gstatic.com/s/monda/v6/44jqK75nnE1DvJU0RnbUMPesZW2xOQ-xsNqO47m55DA.woff2 */
+		url('Monda_700.woff2') format('woff2'),
+		/* from https://fonts.gstatic.com/l/font?kit=AEc8W_osIl6BRIqyEC7LUPesZW2xOQ-xsNqO47m55DA&skey=4703d5044a52a024&v=v6#Monda */
+		url('Monda_700.svg#Monda') format('svg'),
+		/* from https://fonts.gstatic.com/s/monda/v6/h8Lv3ZYKAXAcwBhdctJLvvesZW2xOQ-xsNqO47m55DA.ttf */
+		url('Monda_700.ttf') format('truetype');
+}

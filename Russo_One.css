@@ -1,0 +1,18 @@
+@font-face {
+	font-family: 'Russo One';
+	font-style: normal;
+	font-weight: normal;
+	src:
+		local('Russo One'),
+		local('RussoOne-Regular'),
+		/* from https://fonts.gstatic.com/s/russoone/v5/RO6e96EC9m6OLO0tr7J3z_Y6323mHUZFJMgTvxaG2iE.eot */
+		url('Russo_One.eot?#iefix') format('embedded-opentype'),
+		/* from https://fonts.gstatic.com/s/russoone/v5/RO6e96EC9m6OLO0tr7J3zz8E0i7KZn-EPnyo3HZu7kw.woff */
+		url('Russo_One.woff') format('woff'),
+		/* from https://fonts.gstatic.com/s/russoone/v5/RO6e96EC9m6OLO0tr7J3z1tXRa8TVwTICgirnJhmVJw.woff2 */
+		url('Russo_One.woff2') format('woff2'),
+		/* from https://fonts.gstatic.com/l/font?kit=RO6e96EC9m6OLO0tr7J3z5bd9NUM7myrQQz30yPaGQ4&skey=5cda4fb5bcbd2a2c&v=v5#RussoOne */
+		url('Russo_One.svg#RussoOne') format('svg'),
+		/* from https://fonts.gstatic.com/s/russoone/v5/RO6e96EC9m6OLO0tr7J3z6CWcynf_cDxXwCLxiixG1c.ttf */
+		url('Russo_One.ttf') format('truetype');
+}

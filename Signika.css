@@ -1,0 +1,69 @@
+@font-face {
+	font-family: 'Signika';
+	font-style: normal;
+	font-weight: 300;
+	src:
+		local('Signika-Light'),
+		/* from https://fonts.gstatic.com/s/signika/v6/koFYE26bhT88HgRA8f4vbVQlYEbsez9cZjKsNMjLOwM.eot */
+		url('Signika_300.eot?#iefix') format('embedded-opentype'),
+		/* from https://fonts.gstatic.com/s/signika/v6/koFYE26bhT88HgRA8f4vbRsxEYwM7FgeyaSgU71cLG0.woff */
+		url('Signika_300.woff') format('woff'),
+		/* from https://fonts.gstatic.com/s/signika/v6/koFYE26bhT88HgRA8f4vbfk_vArhqVIZ0nv9q090hN8.woff2 */
+		url('Signika_300.woff2') format('woff2'),
+		/* from https://fonts.gstatic.com/l/font?kit=koFYE26bhT88HgRA8f4vbaWUboTb-jS2tyCOQMtm97g&skey=2622a7cbcd7a9dbd&v=v6#Signika */
+		url('Signika_300.svg#Signika') format('svg'),
+		/* from https://fonts.gstatic.com/s/signika/v6/koFYE26bhT88HgRA8f4vbS3USBnSvpkopQaUR-2r7iU.ttf */
+		url('Signika_300.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Signika';
+	font-style: normal;
+	font-weight: normal;
+	src:
+		local('Signika'),
+		local('Signika-Regular'),
+		/* from https://fonts.gstatic.com/s/signika/v6/VXdqIs7WDCt-XY_CZ2hksw.eot */
+		url('Signika.eot?#iefix') format('embedded-opentype'),
+		/* from https://fonts.gstatic.com/s/signika/v6/_M5k9_BZTkfaM2dnN0vNGw.woff */
+		url('Signika.woff') format('woff'),
+		/* from https://fonts.gstatic.com/s/signika/v6/q41y_9MUP_N8ipOH4ORRvw.woff2 */
+		url('Signika.woff2') format('woff2'),
+		/* from https://fonts.gstatic.com/l/font?kit=5tVTlpEL90Fq0tycczbnOQ&skey=2df7b3f7f6d8a32a&v=v6#Signika */
+		url('Signika.svg#Signika') format('svg'),
+		/* from https://fonts.gstatic.com/s/signika/v6/ejLRhBEorqjLDaF8s-xuTQ.ttf */
+		url('Signika.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Signika';
+	font-style: normal;
+	font-weight: 600;
+	src:
+		local('Signika-Semibold'),
+		/* from https://fonts.gstatic.com/s/signika/v6/FZa_MODmDkR9DTu5jHSnSVQlYEbsez9cZjKsNMjLOwM.eot */
+		url('Signika_600.eot?#iefix') format('embedded-opentype'),
+		/* from https://fonts.gstatic.com/s/signika/v6/FZa_MODmDkR9DTu5jHSnSRsxEYwM7FgeyaSgU71cLG0.woff */
+		url('Signika_600.woff') format('woff'),
+		/* from https://fonts.gstatic.com/s/signika/v6/FZa_MODmDkR9DTu5jHSnSfk_vArhqVIZ0nv9q090hN8.woff2 */
+		url('Signika_600.woff2') format('woff2'),
+		/* from https://fonts.gstatic.com/l/font?kit=FZa_MODmDkR9DTu5jHSnSaWUboTb-jS2tyCOQMtm97g&skey=40ca7a96257c86e1&v=v6#Signika */
+		url('Signika_600.svg#Signika') format('svg'),
+		/* from https://fonts.gstatic.com/s/signika/v6/FZa_MODmDkR9DTu5jHSnSS3USBnSvpkopQaUR-2r7iU.ttf */
+		url('Signika_600.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Signika';
+	font-style: normal;
+	font-weight: 700;
+	src:
+		local('Signika-Bold'),
+		/* from https://fonts.gstatic.com/s/signika/v6/7M5kxD4eGxuhgFaIk95pBVQlYEbsez9cZjKsNMjLOwM.eot */
+		url('Signika_700.eot?#iefix') format('embedded-opentype'),
+		/* from https://fonts.gstatic.com/s/signika/v6/7M5kxD4eGxuhgFaIk95pBRsxEYwM7FgeyaSgU71cLG0.woff */
+		url('Signika_700.woff') format('woff'),
+		/* from https://fonts.gstatic.com/s/signika/v6/7M5kxD4eGxuhgFaIk95pBfk_vArhqVIZ0nv9q090hN8.woff2 */
+		url('Signika_700.woff2') format('woff2'),
+		/* from https://fonts.gstatic.com/l/font?kit=7M5kxD4eGxuhgFaIk95pBaWUboTb-jS2tyCOQMtm97g&skey=798e011337be06c&v=v6#Signika */
+		url('Signika_700.svg#Signika') format('svg'),
+		/* from https://fonts.gstatic.com/s/signika/v6/7M5kxD4eGxuhgFaIk95pBS3USBnSvpkopQaUR-2r7iU.ttf */
+		url('Signika_700.ttf') format('truetype');
+}

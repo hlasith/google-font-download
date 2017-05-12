@@ -1,0 +1,36 @@
+@font-face {
+	font-family: 'News Cycle';
+	font-style: normal;
+	font-weight: normal;
+	src:
+		local('News Cycle'),
+		local('NewsCycle'),
+		/* from https://fonts.gstatic.com/s/newscycle/v13/9Xe8dq6pQDsPyVH2D3tMQlQlYEbsez9cZjKsNMjLOwM.eot */
+		url('News_Cycle.eot?#iefix') format('embedded-opentype'),
+		/* from https://fonts.gstatic.com/s/newscycle/v13/9Xe8dq6pQDsPyVH2D3tMQhsxEYwM7FgeyaSgU71cLG0.woff */
+		url('News_Cycle.woff') format('woff'),
+		/* from https://fonts.gstatic.com/s/newscycle/v13/9Xe8dq6pQDsPyVH2D3tMQvk_vArhqVIZ0nv9q090hN8.woff2 */
+		url('News_Cycle.woff2') format('woff2'),
+		/* from https://fonts.gstatic.com/l/font?kit=9Xe8dq6pQDsPyVH2D3tMQqWUboTb-jS2tyCOQMtm97g&skey=315d90a3c97443a7&v=v13#NewsCycle */
+		url('News_Cycle.svg#NewsCycle') format('svg'),
+		/* from https://fonts.gstatic.com/s/newscycle/v13/9Xe8dq6pQDsPyVH2D3tMQi3USBnSvpkopQaUR-2r7iU.ttf */
+		url('News_Cycle.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'News Cycle';
+	font-style: normal;
+	font-weight: 700;
+	src:
+		local('News Cycle Bold'),
+		local('NewsCycle-Bold'),
+		/* from https://fonts.gstatic.com/s/newscycle/v13/G28Ny31cr5orMqEQy6ljt2zklk6MJbhg7BmBP42CjCQ.eot */
+		url('News_Cycle_700.eot?#iefix') format('embedded-opentype'),
+		/* from https://fonts.gstatic.com/s/newscycle/v13/G28Ny31cr5orMqEQy6ljtwFhaRv2pGgT5Kf0An0s4MM.woff */
+		url('News_Cycle_700.woff') format('woff'),
+		/* from https://fonts.gstatic.com/s/newscycle/v13/G28Ny31cr5orMqEQy6ljt4WiMMZ7xLd792ULpGE4W_Y.woff2 */
+		url('News_Cycle_700.woff2') format('woff2'),
+		/* from https://fonts.gstatic.com/l/font?kit=G28Ny31cr5orMqEQy6ljtz9QLNJZUvW8xv4RpDkyVDQ&skey=303b508802781511&v=v13#NewsCycle */
+		url('News_Cycle_700.svg#NewsCycle') format('svg'),
+		/* from https://fonts.gstatic.com/s/newscycle/v13/G28Ny31cr5orMqEQy6ljt_Er6Hm6RMS0v1dtXsGir4g.ttf */
+		url('News_Cycle_700.ttf') format('truetype');
+}

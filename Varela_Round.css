@@ -1,0 +1,18 @@
+@font-face {
+	font-family: 'Varela Round';
+	font-style: normal;
+	font-weight: normal;
+	src:
+		local('Varela Round Regular'),
+		local('VarelaRound-Regular'),
+		/* from https://fonts.gstatic.com/s/varelaround/v8/APH4jr0uSos5wiut5cpjrnZ2MAKAc2x4R1uOSeegc5U.eot */
+		url('Varela_Round.eot?#iefix') format('embedded-opentype'),
+		/* from https://fonts.gstatic.com/s/varelaround/v8/APH4jr0uSos5wiut5cpjrnhCUOGz7vYGh680lGh-uXM.woff */
+		url('Varela_Round.woff') format('woff'),
+		/* from https://fonts.gstatic.com/s/varelaround/v8/APH4jr0uSos5wiut5cpjrugdm0LZdjqr5-oayXSOefg.woff2 */
+		url('Varela_Round.woff2') format('woff2'),
+		/* from https://fonts.gstatic.com/l/font?kit=APH4jr0uSos5wiut5cpjrllIn5tFQcqMuf-jhyJP0ps&skey=f4466053e3923597&v=v8#VarelaRound */
+		url('Varela_Round.svg#VarelaRound') format('svg'),
+		/* from https://fonts.gstatic.com/s/varelaround/v8/APH4jr0uSos5wiut5cpjronF5uFdDttMLvmWuJdhhgs.ttf */
+		url('Varela_Round.ttf') format('truetype');
+}

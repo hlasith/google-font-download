@@ -1,0 +1,36 @@
+@font-face {
+	font-family: 'Dancing Script';
+	font-style: normal;
+	font-weight: normal;
+	src:
+		local('Dancing Script Regular'),
+		local('DancingScript-Regular'),
+		/* from https://fonts.gstatic.com/s/dancingscript/v8/DK0eTGXiZjN6yA8zAEyM2WrfpCc_r9-5ZnZPBmoO4Sk.eot */
+		url('Dancing_Script.eot?#iefix') format('embedded-opentype'),
+		/* from https://fonts.gstatic.com/s/dancingscript/v8/DK0eTGXiZjN6yA8zAEyM2VhlQWQpSCpzb2Peu3I-Q34.woff */
+		url('Dancing_Script.woff') format('woff'),
+		/* from https://fonts.gstatic.com/s/dancingscript/v8/DK0eTGXiZjN6yA8zAEyM2Ud0sm1ffa_JvZxsF_BEwQk.woff2 */
+		url('Dancing_Script.woff2') format('woff2'),
+		/* from https://fonts.gstatic.com/l/font?kit=DK0eTGXiZjN6yA8zAEyM2WNb_15wyZifjqRY11zN25A&skey=c89f400061e5d0a8&v=v8#DancingScript */
+		url('Dancing_Script.svg#DancingScript') format('svg'),
+		/* from https://fonts.gstatic.com/s/dancingscript/v8/DK0eTGXiZjN6yA8zAEyM2S5FJMZltoAAwO2fP7iHu2o.ttf */
+		url('Dancing_Script.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Dancing Script';
+	font-style: normal;
+	font-weight: 700;
+	src:
+		local('Dancing Script Bold'),
+		local('DancingScript-Bold'),
+		/* from https://fonts.gstatic.com/s/dancingscript/v8/KGBfwabt0ZRLA5W1ywjoweUZr5SaR2Q2Y08giTcxFsw.eot */
+		url('Dancing_Script_700.eot?#iefix') format('embedded-opentype'),
+		/* from https://fonts.gstatic.com/s/dancingscript/v8/KGBfwabt0ZRLA5W1ywjowfVc48Rxw3pIW-IHeDZiIVI.woff */
+		url('Dancing_Script_700.woff') format('woff'),
+		/* from https://fonts.gstatic.com/s/dancingscript/v8/KGBfwabt0ZRLA5W1ywjowUHdOuSHeh0r6jGTOGdAKHA.woff2 */
+		url('Dancing_Script_700.woff2') format('woff2'),
+		/* from https://fonts.gstatic.com/l/font?kit=KGBfwabt0ZRLA5W1ywjowetrk9OkeHJKmhbkTjrel6s&skey=4fd71febfd48d6c&v=v8#DancingScript */
+		url('Dancing_Script_700.svg#DancingScript') format('svg'),
+		/* from https://fonts.gstatic.com/s/dancingscript/v8/KGBfwabt0ZRLA5W1ywjowQGh4C6WC-OkTmtn1VvY3nc.ttf */
+		url('Dancing_Script_700.ttf') format('truetype');
+}

@@ -1,0 +1,72 @@
+@font-face {
+	font-family: 'Istok Web';
+	font-style: normal;
+	font-weight: normal;
+	src:
+		local('Istok Web Regular'),
+		local('IstokWeb-Regular'),
+		/* from https://fonts.gstatic.com/s/istokweb/v10/EvPKapBawcLZ3hbihjhqAfY6323mHUZFJMgTvxaG2iE.eot */
+		url('Istok_Web.eot?#iefix') format('embedded-opentype'),
+		/* from https://fonts.gstatic.com/s/istokweb/v10/EvPKapBawcLZ3hbihjhqAT8E0i7KZn-EPnyo3HZu7kw.woff */
+		url('Istok_Web.woff') format('woff'),
+		/* from https://fonts.gstatic.com/s/istokweb/v10/EvPKapBawcLZ3hbihjhqAVtXRa8TVwTICgirnJhmVJw.woff2 */
+		url('Istok_Web.woff2') format('woff2'),
+		/* from https://fonts.gstatic.com/l/font?kit=EvPKapBawcLZ3hbihjhqAZbd9NUM7myrQQz30yPaGQ4&skey=79160bf8eb8143d8&v=v10#IstokWeb */
+		url('Istok_Web.svg#IstokWeb') format('svg'),
+		/* from https://fonts.gstatic.com/s/istokweb/v10/EvPKapBawcLZ3hbihjhqAaCWcynf_cDxXwCLxiixG1c.ttf */
+		url('Istok_Web.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Istok Web';
+	font-style: italic;
+	font-weight: normal;
+	src:
+		local('Istok Web Italic'),
+		local('IstokWeb-Italic'),
+		/* from https://fonts.gstatic.com/s/istokweb/v10/8-xqDtEk6sZ61magDpsV8WfQcKutQXcIrRfyR5jdjY8.eot */
+		url('Istok_Web_italic.eot?#iefix') format('embedded-opentype'),
+		/* from https://fonts.gstatic.com/s/istokweb/v10/8-xqDtEk6sZ61magDpsV8YbN6UDyHWBl620a-IRfuBk.woff */
+		url('Istok_Web_italic.woff') format('woff'),
+		/* from https://fonts.gstatic.com/s/istokweb/v10/8-xqDtEk6sZ61magDpsV8Y4P5ICox8Kq3LLUNMylGO4.woff2 */
+		url('Istok_Web_italic.woff2') format('woff2'),
+		/* from https://fonts.gstatic.com/l/font?kit=8-xqDtEk6sZ61magDpsV8XNsigHlcrQGNV8nkUSFQfc&skey=8811c9fe870c01bf&v=v10#IstokWeb */
+		url('Istok_Web_italic.svg#IstokWeb') format('svg'),
+		/* from https://fonts.gstatic.com/s/istokweb/v10/8-xqDtEk6sZ61magDpsV8Z0EAVxt0G0biEntp43Qt6E.ttf */
+		url('Istok_Web_italic.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Istok Web';
+	font-style: normal;
+	font-weight: 700;
+	src:
+		local('Istok Web Bold'),
+		local('IstokWeb-Bold'),
+		/* from https://fonts.gstatic.com/s/istokweb/v10/2koEo4AKFSvK4B52O_MwanZ2MAKAc2x4R1uOSeegc5U.eot */
+		url('Istok_Web_700.eot?#iefix') format('embedded-opentype'),
+		/* from https://fonts.gstatic.com/s/istokweb/v10/2koEo4AKFSvK4B52O_MwanhCUOGz7vYGh680lGh-uXM.woff */
+		url('Istok_Web_700.woff') format('woff'),
+		/* from https://fonts.gstatic.com/s/istokweb/v10/2koEo4AKFSvK4B52O_Mwaugdm0LZdjqr5-oayXSOefg.woff2 */
+		url('Istok_Web_700.woff2') format('woff2'),
+		/* from https://fonts.gstatic.com/l/font?kit=2koEo4AKFSvK4B52O_MwallIn5tFQcqMuf-jhyJP0ps&skey=b825e864c348b299&v=v10#IstokWeb */
+		url('Istok_Web_700.svg#IstokWeb') format('svg'),
+		/* from https://fonts.gstatic.com/s/istokweb/v10/2koEo4AKFSvK4B52O_MwaonF5uFdDttMLvmWuJdhhgs.ttf */
+		url('Istok_Web_700.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Istok Web';
+	font-style: italic;
+	font-weight: 700;
+	src:
+		local('Istok Web Bold Italic'),
+		local('IstokWeb-BoldItalic'),
+		/* from https://fonts.gstatic.com/s/istokweb/v10/ycQ3g52ELrh3o_HYCNNUw7Ft29aCHKT7otDW9l62Aag.eot */
+		url('Istok_Web_700italic.eot?#iefix') format('embedded-opentype'),
+		/* from https://fonts.gstatic.com/s/istokweb/v10/ycQ3g52ELrh3o_HYCNNUwzqR_3kx9_hJXbbyU8S6IN0.woff */
+		url('Istok_Web_700italic.woff') format('woff'),
+		/* from https://fonts.gstatic.com/s/istokweb/v10/ycQ3g52ELrh3o_HYCNNUw4lIZu-HDpmDIZMigmsroc4.woff2 */
+		url('Istok_Web_700italic.woff2') format('woff2'),
+		/* from https://fonts.gstatic.com/l/font?kit=ycQ3g52ELrh3o_HYCNNUw3tNmQEE9wZ6UZlmiISB1pg&skey=cacea6fe46cb51d6&v=v10#IstokWeb */
+		url('Istok_Web_700italic.svg#IstokWeb') format('svg'),
+		/* from https://fonts.gstatic.com/s/istokweb/v10/ycQ3g52ELrh3o_HYCNNUw5_TkvowlIOtbR7ePgFOpF4.ttf */
+		url('Istok_Web_700italic.ttf') format('truetype');
+}

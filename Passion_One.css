@@ -1,0 +1,54 @@
+@font-face {
+	font-family: 'Passion One';
+	font-style: normal;
+	font-weight: normal;
+	src:
+		local('Passion One'),
+		local('PassionOne-Regular'),
+		/* from https://fonts.gstatic.com/s/passionone/v6/fY6k21F1QT2c_Oc3HRNDwmfQcKutQXcIrRfyR5jdjY8.eot */
+		url('Passion_One.eot?#iefix') format('embedded-opentype'),
+		/* from https://fonts.gstatic.com/s/passionone/v6/fY6k21F1QT2c_Oc3HRNDwobN6UDyHWBl620a-IRfuBk.woff */
+		url('Passion_One.woff') format('woff'),
+		/* from https://fonts.gstatic.com/s/passionone/v6/fY6k21F1QT2c_Oc3HRNDwo4P5ICox8Kq3LLUNMylGO4.woff2 */
+		url('Passion_One.woff2') format('woff2'),
+		/* from https://fonts.gstatic.com/l/font?kit=fY6k21F1QT2c_Oc3HRNDwnNsigHlcrQGNV8nkUSFQfc&skey=36208c49537b53f2&v=v6#PassionOne */
+		url('Passion_One.svg#PassionOne') format('svg'),
+		/* from https://fonts.gstatic.com/s/passionone/v6/fY6k21F1QT2c_Oc3HRNDwp0EAVxt0G0biEntp43Qt6E.ttf */
+		url('Passion_One.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Passion One';
+	font-style: normal;
+	font-weight: 700;
+	src:
+		local('Passion One Bold'),
+		local('PassionOne-Bold'),
+		/* from https://fonts.gstatic.com/s/passionone/v6/feOcYDy2R-f3Ysy72PYJ2rFt29aCHKT7otDW9l62Aag.eot */
+		url('Passion_One_700.eot?#iefix') format('embedded-opentype'),
+		/* from https://fonts.gstatic.com/s/passionone/v6/feOcYDy2R-f3Ysy72PYJ2jqR_3kx9_hJXbbyU8S6IN0.woff */
+		url('Passion_One_700.woff') format('woff'),
+		/* from https://fonts.gstatic.com/s/passionone/v6/feOcYDy2R-f3Ysy72PYJ2olIZu-HDpmDIZMigmsroc4.woff2 */
+		url('Passion_One_700.woff2') format('woff2'),
+		/* from https://fonts.gstatic.com/l/font?kit=feOcYDy2R-f3Ysy72PYJ2ntNmQEE9wZ6UZlmiISB1pg&skey=2010b1f537e24c19&v=v6#PassionOne */
+		url('Passion_One_700.svg#PassionOne') format('svg'),
+		/* from https://fonts.gstatic.com/s/passionone/v6/feOcYDy2R-f3Ysy72PYJ2p_TkvowlIOtbR7ePgFOpF4.ttf */
+		url('Passion_One_700.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Passion One';
+	font-style: normal;
+	font-weight: 900;
+	src:
+		local('Passion One Black'),
+		local('PassionOne-Black'),
+		/* from https://fonts.gstatic.com/s/passionone/v6/feOcYDy2R-f3Ysy72PYJ2q8knJ7dcSpE9bYpElP8kOU.eot */
+		url('Passion_One_900.eot?#iefix') format('embedded-opentype'),
+		/* from https://fonts.gstatic.com/s/passionone/v6/feOcYDy2R-f3Ysy72PYJ2kExzZ44ka2Lr5i-x5aWr0E.woff */
+		url('Passion_One_900.woff') format('woff'),
+		/* from https://fonts.gstatic.com/s/passionone/v6/feOcYDy2R-f3Ysy72PYJ2spPZoEQdaDZ3o3Np19rzJk.woff2 */
+		url('Passion_One_900.woff2') format('woff2'),
+		/* from https://fonts.gstatic.com/l/font?kit=feOcYDy2R-f3Ysy72PYJ2sTCo6WkuhWceGynHdPeLtc&skey=8340617b2b6408a3&v=v6#PassionOne */
+		url('Passion_One_900.svg#PassionOne') format('svg'),
+		/* from https://fonts.gstatic.com/s/passionone/v6/feOcYDy2R-f3Ysy72PYJ2hG4wFYO9UG-PxKqsSvMNyg.ttf */
+		url('Passion_One_900.ttf') format('truetype');
+}
